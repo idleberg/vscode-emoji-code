@@ -12,7 +12,7 @@ This package is also available for [Atom](https://github.com/idleberg/atom-emoji
 
 ![Screenshot](https://raw.github.com/idleberg/vscode-emoji-code/master/screenshot.gif)
 
-*Screenshot nicked from the Atom package, but you get the idea)*
+*Screenshot nicked from the Atom package, but you get the idea*
 
 ## Installation
 
