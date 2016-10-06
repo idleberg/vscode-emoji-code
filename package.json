@@ -2,7 +2,7 @@
     "name": "emoji-code",
     "displayName": "Emoji Code",
     "description": "Snippets to insert escaped Emoji code into HTML, CSS, JavaScript, Python and Ruby",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "publisher": "idleberg",
     "license": "MIT",
     "author": {
@@ -23,7 +23,6 @@
     "bugs": {
         "url": "https://github.com/idleberg/vscode-emoji-code/issues"
     },
-    
     "icon": "images/logo.svg",
     "galleryBanner": {
         "color": "#f76964",
@@ -60,14 +59,16 @@
         ]
     },
     "scripts": {
-      "test": "gulp lint",
-      "postinstall": "node ./src/build.js"
+        "test": "gulp lint",
+        "postinstall": "node ./src/build.js"
     },
     "dependencies": {
-      "cson": "^3.0.2",
-      "emoji-data-2016": "^0.2.4"
+        "cson": "^3.0.2",
+        "emoji-data-2016": "^0.2.4"
     },
     "devDependencies": {
+        "babel-eslint": "^7.0.0",
+        "eslint": "^3.7.0",
         "gulp": "^3.9.1",
         "gulp-coffeelint": "^0.6.0",
         "gulp-debug": "^2.1.2",
