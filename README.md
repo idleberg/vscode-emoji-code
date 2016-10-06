@@ -1,4 +1,4 @@
-# Badges for Visual Studio Code
+# Emoji Code
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 [![GitHub](https://img.shields.io/github/release/idleberg/vscode-emoji-code.svg?style=flat-square)](https://github.com/idleberg/vscode-emoji-code/releases)
