@@ -21,7 +21,7 @@ fs.exists(outputDir, (exists) => {
   writeSnippets("css", "content: '\\\\", "';");
   writeSnippets("html", "&#x", ";");
   writeSnippets("javascript", "\\\\u", "");
-  writeSnippets("python", ".text.html", "&#x", ";");
+  writeSnippets("python", "&#x", ";");
   writeSnippets("ruby", "\\\\u{", "}", "");
 });
 
@@ -45,14 +45,12 @@ function writeSnippets(type, prefix, suffix) {
 
         snippets[emoji] = {
             "body": `${prefix}${unicode}${suffix}`,
-            "prefix": `ji:${name}`
+            "prefix": `ji-${name}`
         };
     }
 
-    json = { snippets };
-
     // Object to CSON
-    output = JSON.stringify(json, null, 2);
+    output = JSON.stringify(snippets, null, 2);
 
     // Save file
     fs.writeFile(`${outputDir}/emoji-${type}.json`, output, (err) => {
