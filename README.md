@@ -9,6 +9,7 @@
 Snippets to insert escaped Emoji code into HTML, CSS, JavaScript, Python and Ruby.
 
 ![Screenshot](https://raw.github.com/idleberg/vscode-emoji-code/master/screenshot.gif)
+
 *Screenshot nicked from the Atom package, but you get the idea)*
 
 ## Installation
