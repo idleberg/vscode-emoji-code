@@ -45,7 +45,7 @@ function writeSnippets(type, prefix, suffix) {
 
         snippets[emoji] = {
             "body": `${prefix}${unicode}${suffix}`,
-            "prefix": `ji-${name}`
+            "prefix": `ji:${name}`
         };
     }
 
