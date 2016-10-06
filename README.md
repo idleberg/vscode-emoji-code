@@ -8,6 +8,8 @@
 
 Snippets to insert escaped Emoji code into HTML, CSS, JavaScript, Python and Ruby.
 
+This package is also available for [Atom](https://github.com/idleberg/atom-emoji-code) and [Sublime Text](https://github.com/idleberg/sublime-emoji-code).
+
 ![Screenshot](https://raw.github.com/idleberg/vscode-emoji-code/master/screenshot.gif)
 
 *Screenshot nicked from the Atom package, but you get the idea)*
