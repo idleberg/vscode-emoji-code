@@ -5,3 +5,4 @@ npm-debug.log*
 snippets/
 todo.md
 vendor/
+yarn.lock
