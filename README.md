@@ -52,7 +52,7 @@ Install Node dependencies:
 
 ```bash
 cd emoji-code
-npm install
+yarn || npm install
 ```
 
 ### Usage
