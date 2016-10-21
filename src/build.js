@@ -40,7 +40,7 @@ function writeSnippets(type, prefix, suffix) {
         emoji = emojiAll[i].render();
 
         if (type === "python") {
-          unicode = String("0000" + unicode).slice(-8);
+          unicode = String("0000000" + unicode).slice(-8);
         }
 
         snippets[emoji] = {
