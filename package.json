@@ -58,10 +58,6 @@
             }
         ]
     },
-    "scripts": {
-        "test": "gulp lint",
-        "postinstall": "node ./src/build.js"
-    },
     "dependencies": {
         "emoji-data-2016": "^0.2.4"
     },
@@ -76,5 +72,9 @@
         "gulp-lesshint": "^2.0.0",
         "gulp-xml-validator": "^0.1.2",
         "vscode": "^1.0.0"
+    },
+    "scripts": {
+        "test": "gulp lint",
+        "postinstall": "node ./src/build.js"
     }
 }
