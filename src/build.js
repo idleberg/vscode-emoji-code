@@ -49,7 +49,7 @@ function writeSnippets(type, prefix, suffix) {
         };
     }
 
-    // Object to CSON
+    // Object to JSON
     output = JSON.stringify(snippets, null, 2);
 
     // Save file
