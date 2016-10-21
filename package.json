@@ -63,7 +63,7 @@
         "postinstall": "node ./src/build.js"
     },
     "dependencies": {
-        "cson": "^3.0.2",
+        "cson": "^4.0.0",
         "emoji-data-2016": "^0.2.4"
     },
     "devDependencies": {
