@@ -62,16 +62,16 @@
         "emoji-data-2016": "^0.2.4"
     },
     "devDependencies": {
-        "babel-eslint": "^7.0.0",
-        "eslint": "^3.7.0",
+        "babel-eslint": "^7.1.0",
+        "eslint": "^3.9.1",
         "gulp": "^3.9.1",
         "gulp-coffeelint": "^0.6.0",
-        "gulp-debug": "^2.1.2",
+        "gulp-debug": "^3.0.0",
         "gulp-eslint": "^3.0.1",
         "gulp-jsonlint": "^1.1.2",
         "gulp-lesshint": "^2.0.0",
         "gulp-xml-validator": "^0.1.2",
-        "vscode": "^1.0.0"
+        "vscode": "^1.0.3"
     },
     "scripts": {
         "test": "gulp lint",
