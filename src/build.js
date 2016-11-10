@@ -21,7 +21,7 @@ fs.exists(outputDir, (exists) => {
   writeSnippets("css", "content: '\\\\", "';");
   writeSnippets("html", "&#x", ";");
   writeSnippets("javascript", "\\\\u", "");
-  writeSnippets("python", "&#x", ";");
+  writeSnippets("python", "print(u'U\\", "')");
   writeSnippets("ruby", "\\\\u{", "}", "");
 });
 
