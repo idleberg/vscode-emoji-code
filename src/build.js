@@ -1,4 +1,4 @@
-'use babel'
+'use babel';
 
 // Dependencies
 const EmojiData = require('emoji-data-2016');
