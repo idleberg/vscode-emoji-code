@@ -69,7 +69,7 @@ Let's say, you want to insert the 😄 emoji
 * Python: `ji:grinning-face` becomes `u'\U0001F600'`
 * Ruby: `ji:grinning-face` becomes `\u{1F600}`
 
-Keep in mind that Visual Studio Code supports fuzzy completion, inviting you to use abbreviation of your preference.
+Keep in mind that Visual Studio Code supports fuzzy completion, inviting you to use abbreviations of your preference.
 
 ## License
 
