@@ -1,80 +1,80 @@
 {
-  "name": "emoji-code",
-  "displayName": "Emoji Code",
-  "description": "Snippets to insert escaped Emoji code into HTML, CSS, JavaScript, Python and Ruby",
-  "version": "0.1.9",
-  "publisher": "idleberg",
-  "license": "MIT",
-  "author": {
-    "name": "Jan T. Sott",
-    "url": "http://github.com/idleberg"
-  },
-  "keywords": [
-    "unicode",
-    "emoji",
-    "smileys",
-    "emoticons"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/idleberg/vscode-emoji-code.git"
-  },
-  "homepage": "https://github.com/idleberg/vscode-emoji-code",
-  "bugs": {
-    "url": "https://github.com/idleberg/vscode-emoji-code/issues"
-  },
-  "icon": "images/logo.svg",
-  "galleryBanner": {
-    "color": "#f76964",
-    "theme": "dark"
-  },
-  "engines": {
-    "vscode": "^1.0.0"
-  },
-  "categories": [
-    "Snippets"
-  ],
-  "contributes": {
-    "snippets": [
-      {
-        "language": "css",
-        "path": "./snippets/emoji-css.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/emoji-html.json"
-      },
-      {
-        "language": "javascript",
-        "path": "./snippets/emoji-javascript.json"
-      },
-      {
-        "language": "python",
-        "path": "./snippets/emoji-python.json"
-      },
-      {
-        "language": "ruby",
-        "path": "./snippets/emoji-ruby.json"
-      }
-    ]
-  },
-  "dependencies": {
-    "emoji-data-2016": "^0.2.4"
-  },
-  "devDependencies": {
-    "babel-eslint": "^7.1.1",
-    "eslint": "^3.13.1",
-    "gulp": "github:gulpjs/gulp#4.0",
-    "gulp-coffeelint": "^0.6.0",
-    "gulp-debug": "^3.0.0",
-    "gulp-eslint": "^3.0.1",
-    "gulp-jsonlint": "^1.2.0",
-    "gulp-lesshint": "^2.1.0",
-    "gulp-xml-validator": "^0.1.2",
-    "vscode": "^1.0.3"
-  },
-  "scripts": {
-    "test": "gulp lint",
-    "postinstall": "node ./src/build.js"
-  }
+    "name": "emoji-code",
+    "displayName": "Emoji Code",
+    "description": "Snippets to insert escaped Emoji code into HTML, CSS, JavaScript, Python and Ruby",
+    "version": "0.1.10",
+    "publisher": "idleberg",
+    "license": "MIT",
+    "author": {
+        "name": "Jan T. Sott",
+        "url": "http://github.com/idleberg"
+    },
+    "keywords": [
+        "unicode",
+        "emoji",
+        "smileys",
+        "emoticons"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/idleberg/vscode-emoji-code.git"
+    },
+    "homepage": "https://github.com/idleberg/vscode-emoji-code",
+    "bugs": {
+        "url": "https://github.com/idleberg/vscode-emoji-code/issues"
+    },
+    "icon": "images/logo.svg",
+    "galleryBanner": {
+        "color": "#f76964",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "css",
+                "path": "./snippets/emoji-css.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/emoji-html.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/emoji-javascript.json"
+            },
+            {
+                "language": "python",
+                "path": "./snippets/emoji-python.json"
+            },
+            {
+                "language": "ruby",
+                "path": "./snippets/emoji-ruby.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "emoji-data-2016": "^0.2.4"
+    },
+    "devDependencies": {
+        "babel-eslint": "^7.1.1",
+        "eslint": "^3.13.1",
+        "gulp": "github:gulpjs/gulp#4.0",
+        "gulp-coffeelint": "^0.6.0",
+        "gulp-debug": "^3.0.0",
+        "gulp-eslint": "^3.0.1",
+        "gulp-jsonlint": "^1.2.0",
+        "gulp-lesshint": "^2.1.0",
+        "gulp-xml-validator": "^0.1.2",
+        "vscode": "^1.0.3"
+    },
+    "scripts": {
+        "test": "gulp lint",
+        "postinstall": "node ./src/build.js"
+    }
 }
