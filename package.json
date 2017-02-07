@@ -1,7 +1,7 @@
 {
     "name": "emoji-code",
     "displayName": "Emoji Code",
-    "description": "Snippets to insert escaped Emoji code into HTML, CSS, JavaScript, Python and Ruby",
+    "description": "Snippets to insert escaped Emoji code into HTML, CSS, JavaScript/CoffeeScript/TypeScript/LiveScript, Python and Ruby",
     "version": "0.1.10",
     "publisher": "idleberg",
     "license": "MIT",
@@ -45,7 +45,19 @@
                 "path": "./snippets/emoji-html.json"
             },
             {
+                "language": "coffeescript",
+                "path": "./snippets/emoji-javascript.json"
+            },
+            {
                 "language": "javascript",
+                "path": "./snippets/emoji-javascript.json"
+            },
+            {
+                "language": "livescript",
+                "path": "./snippets/emoji-javascript.json"
+            },
+            {
+                "language": "typescript",
                 "path": "./snippets/emoji-javascript.json"
             },
             {
