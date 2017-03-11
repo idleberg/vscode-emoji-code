@@ -2,6 +2,7 @@
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 [![GitHub](https://img.shields.io/github/release/idleberg/vscode-emoji-code.svg?style=flat-square)](https://github.com/idleberg/vscode-emoji-code/releases)
+[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.emoji-code.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=idleberg.emoji-code)
 [![Travis](https://img.shields.io/travis/idleberg/vscode-emoji-code.svg?style=flat-square)](https://travis-ci.org/idleberg/vscode-emoji-code)
 [![David](https://img.shields.io/david/idleberg/vscode-emoji-code.svg?style=flat-square)](https://david-dm.org/idleberg/vscode-emoji-code)
 [![David](https://img.shields.io/david/dev/idleberg/vscode-emoji-code.svg?style=flat-square)](https://david-dm.org/idleberg/vscode-emoji-code?type=dev)
