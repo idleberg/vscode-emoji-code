@@ -1,3 +1,8 @@
+# v0.2.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/0.2.0)
+
+- add `.vscodeignore`
+- fix versioning
+
 # v0.1.12 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/0.1.12)
 
 - use PNG logo (as required by upcoming versions of Code)
