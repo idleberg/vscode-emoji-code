@@ -10,11 +10,12 @@ const gulp = require('gulp');
 const debug = require('gulp-debug');
 const jsonlint = require('gulp-jsonlint');
 const svg2png = require('gulp-svg2png');
+const eslint = require('gulp-eslint');
 const xmlVal = require('gulp-xml-validator');
 
 // Supported files
-const tsFiles = [
-  'src/*.ts',
+const jsFiles = [
+  'src/*.js',
 ];
 
 const jsonFiles = [
@@ -41,6 +42,16 @@ gulp.task('lint:json', gulp.series( (done) => {
   done();
 }));
 
+// Lint JavaScript
+gulp.task('lint:js', gulp.series(function(done) {
+  gulp.src(jsFiles)
+    .pipe(debug({title: 'eslint'}))
+    .pipe(eslint())
+    .pipe(eslint.format())
+    .pipe(eslint.failAfterError());
+  done();
+}));
+
 // Validate XML
 gulp.task('lint:xml', gulp.series( (done) => { 
   gulp.src(xmlFiles)
@@ -58,7 +69,7 @@ gulp.task('convert:svg', gulp.series( (done) => {
 }));
 
 // Available tasks
-gulp.task('lint', gulp.parallel('lint:json', 'lint:xml', (done) => {
+gulp.task('lint', gulp.parallel('lint:js', 'lint:json', 'lint:xml', (done) => {
   done();
 }));
 gulp.task('build', gulp.parallel('convert:svg', (done) => {
