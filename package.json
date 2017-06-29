@@ -74,17 +74,17 @@
         "emoji-data-2016": "^0.2.4"
     },
     "devDependencies": {
-        "babel-eslint": "^7.1.1",
+        "babel-eslint": "^7.2.3",
         "eslint": "^4.1.1",
         "gulp": "github:gulpjs/gulp#4.0",
         "gulp-coffeelint": "^0.6.0",
-        "gulp-debug": "^3.0.0",
+        "gulp-debug": "^3.1.0",
         "gulp-eslint": "^4.0.0",
         "gulp-jsonlint": "^1.2.0",
         "gulp-lesshint": "^2.1.0",
         "gulp-svg2png": "^2.0.2",
         "gulp-xml-validator": "^0.1.2",
-        "vscode": "^1.0.3"
+        "vscode": "^1.1.1"
     },
     "scripts": {
         "test": "gulp lint",
