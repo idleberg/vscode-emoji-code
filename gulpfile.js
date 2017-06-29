@@ -20,6 +20,7 @@ const jsFiles = [
 
 const jsonFiles = [
   '*.json',
+  '.eslintrc',
   'snippets/*.json'
 ];
 
