@@ -22,11 +22,11 @@ fs.exists(outputDir, (exists) => {
   writeSnippets("html", "&#x", ";");
   writeSnippets("javascript", "\\\\u", "");
   writeSnippets("python", "u'\\U", "'");
-  writeSnippets("ruby", "\\\\u{", "}", "");
+  writeSnippets("ruby", "\\\\u{", "}");
 });
 
 // Functions
-function writeSnippets(type, prefix, suffix) {
+let writeSnippets = (type, prefix, suffix) => {
     for (var i = 0; i < emojiAll.length; i++) {
         var emoji, json, name, output, unicode;
 
