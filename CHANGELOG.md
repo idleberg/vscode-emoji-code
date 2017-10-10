@@ -6,7 +6,7 @@
 # v0.1.12 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/0.1.12)
 
 - use PNG logo (as required by upcoming versions of Code)
-- update `devDepencencies`
+- update `devDependencies`
 
 # v0.1.11 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/0.1.11)
 
