@@ -1,3 +1,8 @@
+# v0.2.2 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/0.2.2)
+
+- fix PNG icon
+- update `devDependencies`
+
 # v0.2.1 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/0.2.1)
 
 - update development toolchain
