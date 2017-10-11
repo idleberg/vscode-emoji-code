@@ -1,3 +1,10 @@
+# v0.3.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/0.3.0)
+
+- add support for Unicode 10 emojis
+- add support for multi-character emojis
+- add preview
+- modify output for JavaScript & Python
+
 # v0.2.2 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/0.2.2)
 
 - fix PNG icon
