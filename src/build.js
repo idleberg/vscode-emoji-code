@@ -10,7 +10,7 @@ const outputDir = "snippets";
 var snippets = {};
 
 // Main
-console.log(`${meta.name} v${meta.version}\nThe MIT License\n`);
+console.log(`\n${meta.name} v${meta.version}\n`);
 
 exists(outputDir, (doesExist) => {
   if (!doesExist) {
@@ -26,6 +26,7 @@ exists(outputDir, (doesExist) => {
 
 // Functions
 let writeSnippets = (type, prefix, suffix) => {
+
     for (var i = 0; i < emojiAll.length; i++) {
         var emoji, json, name, output, unicode;
 
@@ -68,7 +69,14 @@ let writeSnippets = (type, prefix, suffix) => {
 
     // Save file
     writeFile(`${outputDir}/emoji-${type}.json`, output, (err) => {
-      if (err)throw err;
-      console.log(`\u2705  emoji-${type}.json`);
+      let status;
+
+      if (err) {
+        status = '\u274C';
+      } else {
+        status = '\u2705';
+      }
+
+      console.log(`${status}  emoji-${type}.json`);
     });
 }
