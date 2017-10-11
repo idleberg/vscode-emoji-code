@@ -74,7 +74,9 @@ Keep in mind that Visual Studio Code supports fuzzy completion, inviting you to 
 
 ## License
 
-This work is licensed under [The MIT License](https://opensource.org/licenses/MIT)
+This work is licensed under [The MIT License](https://opensource.org/licenses/MIT).
+
+Emoji artwork by [EmojiOne](https://www.emojione.com/), licensed under a [Creative Commons Attribution International 4.0 ](https://creativecommons.org/licenses/by/4.0/legalcode) license.
 
 ## Donate
 
