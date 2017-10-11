@@ -1,27 +1,26 @@
 'use babel';
 
 // Dependencies
-const EmojiData = require('emoji-data-2016');
-const fs = require('fs');
+const emojiAll = require('emojibase-data/en/data.json');
+const { exists, mkdirSync, writeFile } = require('fs');
 
 // Variables & Constants
 const meta = require('../package.json');
 const outputDir = "snippets";
-const emojiAll = EmojiData.all();
 var snippets = {};
 
 // Main
 console.log(`${meta.name} v${meta.version}\nThe MIT License\n`);
 
-fs.exists(outputDir, (exists) => {
-  if (!exists) {
+exists(outputDir, (doesExist) => {
+  if (!doesExist) {
     console.log(`\u1F4AB ./${outputDir}`);
-    fs.mkdirSync(outputDir);
+    mkdirSync(outputDir);
   }
-  writeSnippets("css", "content: '\\\\", "';");
+  writeSnippets("css", "\\\\", "");
   writeSnippets("html", "&#x", ";");
-  writeSnippets("javascript", "\\\\u", "");
-  writeSnippets("python", "u'\\U", "'");
+  writeSnippets("javascript", "0x", ", ");
+  writeSnippets("python", "\\U", "");
   writeSnippets("ruby", "\\\\u{", "}");
 });
 
@@ -31,21 +30,36 @@ let writeSnippets = (type, prefix, suffix) => {
         var emoji, json, name, output, unicode;
 
         if (typeof emojiAll[i].name != 'undefined' && emojiAll[i].name !== null ) {
-            name = emojiAll[i].name.toLowerCase().replace(/\s/g, "-");
+            name = emojiAll[i].name.toLowerCase().replace(/[\s,\.]+/g, "-");
         } else {
             name = emojiAll[i].short_name;
         }
 
-        unicode = emojiAll[i].unified.replace(/-/g, prefix);
-        emoji = emojiAll[i].render();
+        unicodes = emojiAll[i].hexcode.split("-");
 
-        if (type === "python") {
-          unicode = String("0000000" + unicode).slice(-8);
+        unicodes.forEach(function(unicode, index) {
+          if (type === 'python') {
+            unicode = String("0000000" + unicode).slice(-8);
+          }
+          unicodes[index] = `${prefix}${unicode}${suffix}`;
+        });
+
+        unicode = unicodes.join('');
+        emoji = emojiAll[i].emoji;
+
+        switch (type) {
+          case 'css':
+            unicode = `content: '${unicode}';`;
+            break;
+          case 'javascript':
+            unicode = unicode.slice(0, -2);
+            break;
         }
 
         snippets[emoji] = {
-            "body": `${prefix}${unicode}${suffix}`,
-            "prefix": `ji:${name}`
+            "body": `${unicode}`,
+            "prefix": `ji:${name}`,
+            "description": emoji
         };
     }
 
@@ -53,7 +67,7 @@ let writeSnippets = (type, prefix, suffix) => {
     output = JSON.stringify(snippets, null, 2);
 
     // Save file
-    fs.writeFile(`${outputDir}/emoji-${type}.json`, output, (err) => {
+    writeFile(`${outputDir}/emoji-${type}.json`, output, (err) => {
       if (err)throw err;
       console.log(`\u2705  emoji-${type}.json`);
     });
