@@ -44,7 +44,7 @@ gulp.task('lint:json', gulp.series( (done) => {
 }));
 
 // Lint JavaScript
-gulp.task('lint:js', gulp.series(function(done) {
+gulp.task('lint:js', gulp.series( (done) => {
   gulp.src(jsFiles)
     .pipe(debug({title: 'eslint'}))
     .pipe(eslint())
