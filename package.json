@@ -71,7 +71,7 @@
         ]
     },
     "dependencies": {
-        "emoji-data-2016": "^0.2.4"
+        "emojibase-data": "^2.1.0"
     },
     "devDependencies": {
         "babel-eslint": "^7.2.3",
