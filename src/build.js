@@ -58,7 +58,7 @@ let writeSnippets = (type, prefix, suffix) => {
         }
 
         snippets[emoji] = {
-            "body": `${unicode}`,
+            "body": `\${1|${unicode},${emoji}|}`,
             "prefix": `ji:${name}`,
             "description": emoji
         };
