@@ -22,7 +22,18 @@ exists(outputDir, (doesExist) => {
   writeSnippets("javascript", "0x", ", ");
   writeSnippets("python", "\\U", "");
   writeSnippets("ruby", "\\\\u{", "}");
+  writeSnippets("csharp", "\\u", "");
 });
+
+const findSurrogatePair = (point) => {
+  // http://crocodillon.com/blog/parsing-emoji-unicode-in-javascript
+  // assumes point > 0xffff
+  const offset = point - 0x10000,
+      lead = 0xd800 + (offset >> 10),
+      trail = 0xdc00 + (offset & 0x3ff);
+
+  return [lead.toString(16), trail.toString(16)];
+}
 
 // Functions
 let writeSnippets = (type, prefix, suffix) => {
@@ -41,7 +52,7 @@ let writeSnippets = (type, prefix, suffix) => {
         unicodes.forEach(function(unicode, index) {
           if (type === 'python') {
             unicode = String("0000000" + unicode).slice(-8);
-          }
+          }          
           unicodes[index] = `${prefix}${unicode}${suffix}`;
         });
 
@@ -54,6 +65,9 @@ let writeSnippets = (type, prefix, suffix) => {
             break;
           case 'javascript':
             unicode = unicode.slice(0, -2);
+            break;
+          case 'csharp':
+            unicode = "\\u" + findSurrogatePair(parseInt(unicode, 16)).join("\\u")
             break;
         }
 
