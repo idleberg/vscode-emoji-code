@@ -52,7 +52,10 @@ let writeSnippets = (type, prefix, suffix) => {
         unicodes.forEach(function(unicode, index) {
           if (type === 'python') {
             unicode = String("0000000" + unicode).slice(-8);
-          }          
+          }
+          if (type === 'csharp') {
+            unicode = findSurrogatePair(parseInt(unicode, 16)).join("\\u");
+          }
           unicodes[index] = `${prefix}${unicode}${suffix}`;
         });
 
@@ -65,9 +68,6 @@ let writeSnippets = (type, prefix, suffix) => {
             break;
           case 'javascript':
             unicode = unicode.slice(0, -2);
-            break;
-          case 'csharp':
-            unicode = "\\u" + findSurrogatePair(parseInt(unicode, 16)).join("\\u")
             break;
         }
 
