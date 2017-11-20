@@ -1,98 +1,98 @@
 {
-	"name": "emoji-code",
-	"displayName": "Emoji Code",
-	"description": "Snippets to insert escaped Emoji code into HTML, CSS, JavaScript/CoffeeScript/TypeScript/LiveScript, Python and Ruby",
-	"version": "0.3.0",
-	"publisher": "idleberg",
-	"license": "MIT",
-	"author": {
-		"name": "Jan T. Sott",
-		"url": "http://github.com/idleberg"
-	},
-	"keywords": [
-		"unicode",
-		"emoji",
-		"smileys",
-		"emoticons"
-	],
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/idleberg/vscode-emoji-code.git"
-	},
-	"homepage": "https://github.com/idleberg/vscode-emoji-code",
-	"bugs": {
-		"url": "https://github.com/idleberg/vscode-emoji-code/issues"
-	},
-	"icon": "images/logo.png",
-	"galleryBanner": {
-		"color": "#f76964",
-		"theme": "dark"
-	},
-	"engines": {
-		"vscode": "^1.0.0"
-	},
-	"categories": [
-		"Snippets"
-	],
-	"contributes": {
-		"snippets": [
-			{
-				"language": "css",
-				"path": "./snippets/emoji-css.json"
-			},
-			{
-				"language": "html",
-				"path": "./snippets/emoji-html.json"
-			},
-			{
-				"language": "coffeescript",
-				"path": "./snippets/emoji-javascript.json"
-			},
-			{
-				"language": "javascript",
-				"path": "./snippets/emoji-javascript.json"
-			},
-			{
-				"language": "livescript",
-				"path": "./snippets/emoji-javascript.json"
-			},
-			{
-				"language": "typescript",
-				"path": "./snippets/emoji-javascript.json"
-			},
-			{
-				"language": "python",
-				"path": "./snippets/emoji-python.json"
-			},
-			{
-				"language": "ruby",
-				"path": "./snippets/emoji-ruby.json"
-			},
-			{
-				"language": "csharp",
-				"path": "./snippets/emoji-csharp.json"
-			}
-		]
-	},
-	"dependencies": {
-		"emojibase-data": "^2.1.0"
-	},
-	"devDependencies": {
-		"babel-eslint": "^7.2.3",
-		"eslint": "^4.8.0",
-		"gulp": "github:gulpjs/gulp#4.0",
-		"gulp-coffeelint": "^0.6.0",
-		"gulp-debug": "^3.1.0",
-		"gulp-eslint": "^4.0.0",
-		"gulp-jsonlint": "^1.2.0",
-		"gulp-lesshint": "^4.0.0",
-		"gulp-raster": "^0.2.0",
-		"gulp-rename": "^1.2.2",
-		"gulp-xml-validator": "^0.1.3",
-		"vscode": "^1.1.5"
-	},
-	"scripts": {
-		"test": "gulp lint",
-		"postinstall": "node ./src/build.js"
-	}
+    "name": "emoji-code",
+    "displayName": "Emoji Code",
+    "description": "Snippets to insert escaped Emoji code into HTML, CSS, JavaScript/CoffeeScript/TypeScript/LiveScript, Python and Ruby",
+    "version": "0.3.0",
+    "publisher": "idleberg",
+    "license": "MIT",
+    "author": {
+        "name": "Jan T. Sott",
+        "url": "http://github.com/idleberg"
+    },
+    "keywords": [
+        "unicode",
+        "emoji",
+        "smileys",
+        "emoticons"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/idleberg/vscode-emoji-code.git"
+    },
+    "homepage": "https://github.com/idleberg/vscode-emoji-code",
+    "bugs": {
+        "url": "https://github.com/idleberg/vscode-emoji-code/issues"
+    },
+    "icon": "images/logo.png",
+    "galleryBanner": {
+        "color": "#f76964",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "css",
+                "path": "./snippets/emoji-css.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/emoji-html.json"
+            },
+            {
+                "language": "coffeescript",
+                "path": "./snippets/emoji-javascript.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/emoji-javascript.json"
+            },
+            {
+                "language": "livescript",
+                "path": "./snippets/emoji-javascript.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/emoji-javascript.json"
+            },
+            {
+                "language": "python",
+                "path": "./snippets/emoji-python.json"
+            },
+            {
+                "language": "ruby",
+                "path": "./snippets/emoji-ruby.json"
+            },
+            {
+                "language": "csharp",
+                "path": "./snippets/emoji-csharp.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "emojibase-data": "^2.1.0"
+    },
+    "devDependencies": {
+        "babel-eslint": "^7.2.3",
+        "eslint": "^4.8.0",
+        "gulp": "github:gulpjs/gulp#4.0",
+        "gulp-coffeelint": "^0.6.0",
+        "gulp-debug": "^3.1.0",
+        "gulp-eslint": "^4.0.0",
+        "gulp-jsonlint": "^1.2.0",
+        "gulp-lesshint": "^4.0.0",
+        "gulp-raster": "^0.2.0",
+        "gulp-rename": "^1.2.2",
+        "gulp-xml-validator": "^0.1.3",
+        "vscode": "^1.1.5"
+    },
+    "scripts": {
+        "test": "gulp lint",
+        "postinstall": "node ./src/build.js"
+    }
 }
