@@ -67,6 +67,10 @@
             {
                 "language": "ruby",
                 "path": "./snippets/emoji-ruby.json"
+            },
+            {
+                "language": "csharp",
+                "path": "./snippets/emoji-csharp.json"
             }
         ]
     },
