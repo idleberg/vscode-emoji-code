@@ -7,7 +7,7 @@ const { exists, mkdirSync, writeFile } = require('fs');
 // Variables & Constants
 const meta = require('../package.json');
 const outputDir = "snippets";
-var snippets = {};
+let snippets = {};
 
 // Main
 console.log(`\n${meta.name} v${meta.version}\n`);
@@ -27,8 +27,8 @@ exists(outputDir, (doesExist) => {
 // Functions
 let writeSnippets = (type, prefix, suffix) => {
 
-    for (var i = 0; i < emojiAll.length; i++) {
-        var emoji, json, name, output, unicode;
+    for (let i = 0; i < emojiAll.length; i++) {
+        let emoji, json, name, output, unicode;
 
         if (typeof emojiAll[i].name != 'undefined' && emojiAll[i].name !== null ) {
             name = emojiAll[i].name.toLowerCase().replace(/[\s,\.]+/g, "-");
