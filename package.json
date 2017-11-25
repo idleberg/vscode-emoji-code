@@ -1,7 +1,7 @@
 {
     "name": "emoji-code",
     "displayName": "Emoji Code",
-    "description": "Snippets to insert escaped Emoji code into HTML, CSS, JavaScript/CoffeeScript/TypeScript/LiveScript, Python and Ruby",
+    "description": "Snippets to insert escaped Emoji code into HTML, CSS, JavaScript/CoffeeScript/TypeScript/LiveScript, C#, Markdown, Python and Ruby",
     "version": "0.3.0",
     "publisher": "idleberg",
     "license": "MIT",

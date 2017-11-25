@@ -17,12 +17,13 @@ exists(outputDir, (doesExist) => {
     console.log(`\u1F4AB ./${outputDir}`);
     mkdirSync(outputDir);
   }
-  writeSnippets("css", "\\\\", "");
+  writeSnippets("css", "\\\\");
   writeSnippets("html", "&#x", ";");
   writeSnippets("javascript", "0x", ", ");
-  writeSnippets("python", "\\U", "");
+  writeSnippets("markdown");
+  writeSnippets("python", "\\U");
   writeSnippets("ruby", "\\\\u{", "}");
-  writeSnippets("csharp", "\\u", "");
+  writeSnippets("csharp", "\\u");
 });
 
 const findSurrogatePair = (point) => {
@@ -36,7 +37,7 @@ const findSurrogatePair = (point) => {
 }
 
 // Functions
-let writeSnippets = (type, prefix, suffix) => {
+let writeSnippets = (type, prefix = "", suffix = "") => {
 
     for (let i = 0; i < emojiAll.length; i++) {
         let emoji, json, name, output, unicode;
@@ -68,6 +69,9 @@ let writeSnippets = (type, prefix, suffix) => {
             break;
           case 'javascript':
             unicode = unicode.slice(0, -2);
+            break;
+          case 'markdown':
+            unicode = emoji
             break;
         }
 
