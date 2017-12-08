@@ -7,7 +7,7 @@ const { exists, mkdirSync, writeFile } = require('fs');
 // Variables & Constants
 const meta = require('../package.json');
 const outputDir = "snippets";
-var snippets = {};
+let snippets = {};
 
 // Main
 console.log(`\n${meta.name} v${meta.version}\n`);
@@ -17,18 +17,30 @@ exists(outputDir, (doesExist) => {
     console.log(`\u1F4AB ./${outputDir}`);
     mkdirSync(outputDir);
   }
-  writeSnippets("css", "\\\\", "");
+  writeSnippets("css", "\\\\");
   writeSnippets("html", "&#x", ";");
   writeSnippets("javascript", "0x", ", ");
-  writeSnippets("python", "\\U", "");
+  writeSnippets("markdown");
+  writeSnippets("python", "\\U");
   writeSnippets("ruby", "\\\\u{", "}");
+  writeSnippets("csharp", "\\u");
 });
 
-// Functions
-let writeSnippets = (type, prefix, suffix) => {
+const findSurrogatePair = (point) => {
+  // http://crocodillon.com/blog/parsing-emoji-unicode-in-javascript
+  // assumes point > 0xffff
+  const offset = point - 0x10000,
+      lead = 0xd800 + (offset >> 10),
+      trail = 0xdc00 + (offset & 0x3ff);
 
-    for (var i = 0; i < emojiAll.length; i++) {
-        var emoji, json, name, output, unicode;
+  return [lead.toString(16), trail.toString(16)];
+}
+
+// Functions
+let writeSnippets = (type, prefix = "", suffix = "") => {
+
+    for (let i = 0; i < emojiAll.length; i++) {
+        let emoji, json, name, output, unicode;
 
         if (typeof emojiAll[i].name != 'undefined' && emojiAll[i].name !== null ) {
             name = emojiAll[i].name.toLowerCase().replace(/[\s,\.]+/g, "-");
@@ -42,6 +54,9 @@ let writeSnippets = (type, prefix, suffix) => {
           if (type === 'python') {
             unicode = String("0000000" + unicode).slice(-8);
           }
+          if (type === 'csharp') {
+            unicode = findSurrogatePair(parseInt(unicode, 16)).join("\\u");
+          }
           unicodes[index] = `${prefix}${unicode}${suffix}`;
         });
 
@@ -54,6 +69,9 @@ let writeSnippets = (type, prefix, suffix) => {
             break;
           case 'javascript':
             unicode = unicode.slice(0, -2);
+            break;
+          case 'markdown':
+            unicode = emoji
             break;
         }
 

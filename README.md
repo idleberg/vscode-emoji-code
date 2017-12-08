@@ -7,7 +7,7 @@
 [![David](https://img.shields.io/david/idleberg/vscode-emoji-code.svg?style=flat-square)](https://david-dm.org/idleberg/vscode-emoji-code)
 [![David](https://img.shields.io/david/dev/idleberg/vscode-emoji-code.svg?style=flat-square)](https://david-dm.org/idleberg/vscode-emoji-code?type=dev)
 
-Snippets to insert escaped Emoji code into HTML, CSS, JavaScript/CoffeeScript/TypeScript/LiveScript, Python and Ruby.
+Snippets to insert escaped Emoji code into HTML, CSS, JavaScript/CoffeeScript/TypeScript/LiveScript, C#, Markdown, Python and Ruby.
 
 This package is also available for [Atom](https://github.com/idleberg/atom-emoji-code) and [Sublime Text](https://github.com/idleberg/sublime-emoji-code).
 
@@ -67,8 +67,11 @@ Let's say, you want to insert the 😄 emoji
 * HTML: `ji:grinning-face` becomes `&#x1F600;`
 * CSS: `ji:grinning-face` becomes `content: '\1F600';`
 * JavaScript: `ji:grinning-face` becomes `0x1F600`
+* Markdown: `ji:grinning-face` becomes 😄¹
 * Python: `ji:grinning-face` becomes `\U0001F600`
 * Ruby: `ji:grinning-face` becomes `\u{1F600}`
+
+¹ requires `editor.quickSuggestions` set to true for Markdown files
 
 Keep in mind that Visual Studio Code supports fuzzy completion, inviting you to use abbreviations of your preference.
 
