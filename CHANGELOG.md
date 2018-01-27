@@ -1,3 +1,8 @@
+# v0.5.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/0.5.0)
+
+- add support for JSON
+- update `dependencies`and `devDependencies`
+
 # v0.4.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/0.4.0)
 
 - add support for C#
