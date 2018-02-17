@@ -17,9 +17,9 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/idleberg/vscode-emoji-code.git"
+        "url": "https://github.com/idleberg/vscode-emoji-code"
     },
-    "homepage": "https://github.com/idleberg/vscode-emoji-code",
+    "homepage": "https://github.com/idleberg/vscode-emoji-code#readme",
     "bugs": {
         "url": "https://github.com/idleberg/vscode-emoji-code/issues"
     },
