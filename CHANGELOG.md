@@ -1,3 +1,8 @@
+# v0.5.1 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/0.5.1)
+
+- replace linter
+- update dependencies
+
 # v0.5.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/0.5.0)
 
 - add support for JSON
