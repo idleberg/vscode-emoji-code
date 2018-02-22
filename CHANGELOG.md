@@ -1,3 +1,7 @@
+# v0.6.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/0.6.0)
+
+- add support for Laravel Blade
+
 # v0.5.1 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/0.5.1)
 
 - replace linter
