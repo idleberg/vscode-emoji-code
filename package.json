@@ -57,6 +57,10 @@
                 "path": "./snippets/emoji-javascript.json"
             },
             {
+                "language": "javascriptreact",
+                "path": "./snippets/emoji-javascript.json"
+            },
+            {
                 "language": "json",
                 "path": "./snippets/emoji-javascript.json"
             },
@@ -66,6 +70,14 @@
             },
             {
                 "language": "typescript",
+                "path": "./snippets/emoji-javascript.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/emoji-javascript.json"
+            },
+            {
+                "language": "vue",
                 "path": "./snippets/emoji-javascript.json"
             },
             {
