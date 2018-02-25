@@ -6,7 +6,7 @@ const { exists, mkdirSync, writeFile } = require('fs');
 
 // Variables & Constants
 const meta = require('../package.json');
-const outputDir = "snippets";
+const outputDir = 'snippets';
 let snippets = {};
 
 // Main
@@ -17,13 +17,13 @@ exists(outputDir, (doesExist) => {
     console.log(`\u1F4AB ./${outputDir}`);
     mkdirSync(outputDir);
   }
-  writeSnippets("css", "\\\\");
-  writeSnippets("html", "&#x", ";");
-  writeSnippets("javascript", "0x", ", ");
-  writeSnippets("markdown");
-  writeSnippets("python", "\\U");
-  writeSnippets("ruby", "\\\\u{", "}");
-  writeSnippets("csharp", "\\u");
+  writeSnippets('css', '\\\\');
+  writeSnippets('html', '&#x', ';');
+  writeSnippets('javascript', '\\u{', '}');
+  writeSnippets('markdown');
+  writeSnippets('python', '\\U');
+  writeSnippets('ruby', '\\\\u{', '}');
+  writeSnippets('csharp', '\\u');
 });
 
 const findSurrogatePair = (point) => {
@@ -37,25 +37,25 @@ const findSurrogatePair = (point) => {
 }
 
 // Functions
-let writeSnippets = (type, prefix = "", suffix = "") => {
+let writeSnippets = (type, prefix = '', suffix = '') => {
 
     for (let i = 0; i < emojiAll.length; i++) {
         let emoji, json, name, output, unicode;
 
         if (typeof emojiAll[i].name != 'undefined' && emojiAll[i].name !== null ) {
-            name = emojiAll[i].name.toLowerCase().replace(/[\s,\.]+/g, "-");
+            name = emojiAll[i].name.toLowerCase().replace(/[\s,\.]+/g, '-');
         } else {
             name = emojiAll[i].short_name;
         }
 
-        unicodes = emojiAll[i].hexcode.split("-");
+        unicodes = emojiAll[i].hexcode.split('-');
 
         unicodes.forEach(function(unicode, index) {
           if (type === 'python') {
-            unicode = String("0000000" + unicode).slice(-8);
+            unicode = String('0000000' + unicode).slice(-8);
           }
           if (type === 'csharp') {
-            unicode = findSurrogatePair(parseInt(unicode, 16)).join("\\u");
+            unicode = findSurrogatePair(parseInt(unicode, 16)).join('\\u');
           }
           unicodes[index] = `${prefix}${unicode}${suffix}`;
         });
@@ -76,9 +76,9 @@ let writeSnippets = (type, prefix = "", suffix = "") => {
         }
 
         snippets[emoji] = {
-            "body": `${unicode}`,
-            "prefix": `ji:${name}`,
-            "description": emoji
+            'body': `${unicode}`,
+            'prefix': `ji:${name}`,
+            'description': emoji
         };
     }
 
