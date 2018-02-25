@@ -1,3 +1,9 @@
+# v0.7.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/0.7.0)
+
+- add support for React
+- add support for Vue
+- fix JavaScript strings
+
 # v0.6.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/0.6.0)
 
 - add support for Laravel Blade
