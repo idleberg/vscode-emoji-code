@@ -21,6 +21,7 @@ exists(outputDir, (doesExist) => {
   writeSnippets('html', '&#x', ';');
   writeSnippets('javascript', '\\u{', '}');
   writeSnippets('markdown');
+  writeSnippets('plaintext');
   writeSnippets('python', '\\U');
   writeSnippets('ruby', '\\\\u{', '}');
   writeSnippets('csharp', '\\u');
@@ -71,6 +72,7 @@ let writeSnippets = (type, prefix = '', suffix = '') => {
             unicode = unicode.slice(0, -2);
             break;
           case 'markdown':
+          case 'plaintext':
             unicode = emoji
             break;
         }

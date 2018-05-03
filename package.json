@@ -85,6 +85,10 @@
                 "path": "./snippets/emoji-markdown.json"
             },
             {
+                "language": "plaintext",
+                "path": "./snippets/emoji-plaintext.json"
+            },
+            {
                 "language": "python",
                 "path": "./snippets/emoji-python.json"
             },

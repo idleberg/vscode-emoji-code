@@ -1,3 +1,7 @@
+# v0.8.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/0.8.0)
+
+- add support for plain text
+
 # v0.7.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/0.7.0)
 
 - add support for React
