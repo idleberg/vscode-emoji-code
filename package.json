@@ -9,6 +9,11 @@
         "name": "Jan T. Sott",
         "url": "http://github.com/idleberg"
     },
+    "scripts": {
+        "test": "vscode-linter",
+        "postinstall": "node ./src/build.js",
+        "vscode:prepublish": "gulp"
+    },
     "keywords": [
         "unicode",
         "emoji",
@@ -107,12 +112,8 @@
         "gulp": "^4.0.0",
         "gulp-raster": "^0.2.0",
         "gulp-rename": "^1.2.2",
+        "husky": "^0.14.3",
         "vscode": "^1.1.10",
-        "vscode-linter": "^0.1.0"
-    },
-    "scripts": {
-        "test": "vscode-linter",
-        "postinstall": "node ./src/build.js",
-        "vscode:prepublish": "gulp"
+        "vscode-linter": "^0.2.1"
     }
 }
