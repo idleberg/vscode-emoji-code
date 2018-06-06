@@ -12,6 +12,7 @@
     "scripts": {
         "test": "vscode-linter",
         "postinstall": "node ./src/build.js",
+        "precommit": "npm run test",
         "vscode:prepublish": "gulp"
     },
     "keywords": [
