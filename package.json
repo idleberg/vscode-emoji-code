@@ -23,9 +23,10 @@
         "url": "http://github.com/idleberg"
     },
     "scripts": {
-        "test": "vscode-linter",
-        "postinstall": "node ./src/build.js",
+        "build": "node ./src/build.js",
+        "postinstall": "npm run build",
         "precommit": "npm run test",
+        "test": "vscode-linter",
         "vscode:prepublish": "gulp"
     },
     "keywords": [
