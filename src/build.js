@@ -20,6 +20,7 @@ exists(outputDir, (doesExist) => {
   writeSnippets('css', '\\\\');
   writeSnippets('html', '&#x', ';');
   writeSnippets('javascript', '\\u{', '}');
+  writeSnippets('typescript', '\\u{', '}');
   writeSnippets('markdown');
   writeSnippets('python', '\\U');
   writeSnippets('ruby', '\\\\u{', '}');
@@ -68,6 +69,9 @@ let writeSnippets = (type, prefix = '', suffix = '') => {
             unicode = `content: '${unicode}';`;
             break;
           case 'javascript':
+            unicode = unicode.slice(0, -2);
+            break;
+          case 'typescript':
             unicode = unicode.slice(0, -2);
             break;
           case 'markdown':
