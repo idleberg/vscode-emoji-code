@@ -19,13 +19,15 @@ exists(outputDir, (doesExist) => {
   }
   writeSnippets('css', '\\\\');
   writeSnippets('html', '&#x', ';');
-  writeSnippets('javascript', '\\u{', '}');
+  writeSnippets('javascript', '\\\\u{', '}');
   writeSnippets('markdown');
-  writeSnippets('python', '\\U');
+  writeSnippets('python', '\\\\U');
   writeSnippets('ruby', '\\\\u{', '}');
   writeSnippets('csharp', '\\u');
 });
 
+
+// Functions
 const findSurrogatePair = (point) => {
   // http://crocodillon.com/blog/parsing-emoji-unicode-in-javascript
   // assumes point > 0xffff
@@ -36,8 +38,7 @@ const findSurrogatePair = (point) => {
   return [lead.toString(16), trail.toString(16)];
 }
 
-// Functions
-let writeSnippets = (type, prefix = '', suffix = '') => {
+const writeSnippets = (type, prefix = '', suffix = '') => {
 
     for (let i = 0; i < emojiAll.length; i++) {
         let emoji, json, name, output, unicode;
@@ -53,8 +54,7 @@ let writeSnippets = (type, prefix = '', suffix = '') => {
         unicodes.forEach(function(unicode, index) {
           if (type === 'python') {
             unicode = String('0000000' + unicode).slice(-8);
-          }
-          if (type === 'csharp') {
+          } else if (type === 'csharp') {
             unicode = findSurrogatePair(parseInt(unicode, 16)).join('\\u');
           }
           unicodes[index] = `${prefix}${unicode}${suffix}`;
@@ -66,9 +66,6 @@ let writeSnippets = (type, prefix = '', suffix = '') => {
         switch (type) {
           case 'css':
             unicode = `content: '${unicode}';`;
-            break;
-          case 'javascript':
-            unicode = unicode.slice(0, -2);
             break;
           case 'markdown':
             unicode = emoji
