@@ -1,4 +1,4 @@
-# v0.7.1 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/0.7.1)
+# v0.7.1 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.7.1)
 
 - fix build script
 - update dependencies (includes Emoji v11)
