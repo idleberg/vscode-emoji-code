@@ -67,6 +67,7 @@ Let's say, you want to insert the 😄 emoji
 * HTML: `ji:grinning-face` becomes `&#x1F600;`
 * CSS: `ji:grinning-face` becomes `content: '\1F600';`
 * JavaScript: `ji:grinning-face` becomes `\u{1F600}`
+* TypeScript: `ji:grinning-face` becomes `\u{1F600}`
 * Markdown: `ji:grinning-face` becomes 😄¹
 * Python: `ji:grinning-face` becomes `\U0001F600`
 * Ruby: `ji:grinning-face` becomes `\u{1F600}`
