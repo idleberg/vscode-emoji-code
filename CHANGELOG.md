@@ -1,3 +1,7 @@
+# v0.7.2 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.7.2)
+
+- update `.vscodeignore`(fixes installation)
+
 # v0.7.1 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.7.1)
 
 - fix build script

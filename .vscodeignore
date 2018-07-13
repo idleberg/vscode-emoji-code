@@ -1,4 +1,9 @@
+*.vsix
 .travis.yml
+bower_components/
 gulpfile.js
-package-lock.json
-yarn.lock
+node_modules/
+npm-debug.log*
+snippets/
+todo.md
+vendor/
