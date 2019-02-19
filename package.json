@@ -78,7 +78,7 @@
             },
             {
                 "language": "javascriptreact",
-                "path": "./snippets/emoji-javascript.json"
+                "path": "./snippets/emoji-html.json"
             },
             {
                 "language": "json",
