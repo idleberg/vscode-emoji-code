@@ -6,16 +6,16 @@
     "publisher": "idleberg",
     "license": "MIT",
     "dependencies": {
-        "emojibase-data": "^3.0.0"
+        "emojibase-data": "^3.2.1"
     },
     "devDependencies": {
-        "babel-eslint": "^8.2.6",
-        "eslint": "^5.1.0",
+        "babel-eslint": "^10.0.1",
+        "eslint": "^5.14.1",
         "gulp": "^4.0.0",
         "gulp-raster": "^0.2.0",
-        "gulp-rename": "^1.3.0",
-        "husky": "^0.14.3",
-        "vscode": "^1.1.18",
+        "gulp-rename": "^1.4.0",
+        "husky": "^1.3.1",
+        "vscode": "^1.1.29",
         "vscode-linter": "^0.2.1"
     },
     "author": {
