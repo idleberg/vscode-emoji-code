@@ -4,6 +4,5 @@ bower_components/
 gulpfile.js
 node_modules/
 npm-debug.log*
-snippets/
 todo.md
 vendor/
