@@ -1,3 +1,7 @@
+# v0.7.4 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.7.4)
+
+- include pre-build snippets
+
 # v0.7.3 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.7.3)
 
 - fix JSX snippets
