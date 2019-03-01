@@ -1,0 +1,8202 @@
+{
+  "😀": {
+    "body": "😀",
+    "prefix": "ji:grinning-face",
+    "description": "😀"
+  },
+  "😁": {
+    "body": "😁",
+    "prefix": "ji:grinning-face-with-smiling-eyes",
+    "description": "😁"
+  },
+  "😂": {
+    "body": "😂",
+    "prefix": "ji:face-with-tears-of-joy",
+    "description": "😂"
+  },
+  "🤣": {
+    "body": "🤣",
+    "prefix": "ji:rolling-on-the-floor-laughing",
+    "description": "🤣"
+  },
+  "😃": {
+    "body": "😃",
+    "prefix": "ji:smiling-face-with-open-mouth",
+    "description": "😃"
+  },
+  "😄": {
+    "body": "😄",
+    "prefix": "ji:smiling-face-with-open-mouth-and-smiling-eyes",
+    "description": "😄"
+  },
+  "😅": {
+    "body": "😅",
+    "prefix": "ji:smiling-face-with-open-mouth-and-cold-sweat",
+    "description": "😅"
+  },
+  "😆": {
+    "body": "😆",
+    "prefix": "ji:smiling-face-with-open-mouth-and-tightly-closed-eyes",
+    "description": "😆"
+  },
+  "😉": {
+    "body": "😉",
+    "prefix": "ji:winking-face",
+    "description": "😉"
+  },
+  "😊": {
+    "body": "😊",
+    "prefix": "ji:smiling-face-with-smiling-eyes",
+    "description": "😊"
+  },
+  "😋": {
+    "body": "😋",
+    "prefix": "ji:face-savouring-delicious-food",
+    "description": "😋"
+  },
+  "😎": {
+    "body": "😎",
+    "prefix": "ji:smiling-face-with-sunglasses",
+    "description": "😎"
+  },
+  "😍": {
+    "body": "😍",
+    "prefix": "ji:smiling-face-with-heart-shaped-eyes",
+    "description": "😍"
+  },
+  "😘": {
+    "body": "😘",
+    "prefix": "ji:face-throwing-a-kiss",
+    "description": "😘"
+  },
+  "🥰": {
+    "body": "🥰",
+    "prefix": "ji:smiling-face-with-smiling-eyes-and-three-hearts",
+    "description": "🥰"
+  },
+  "😗": {
+    "body": "😗",
+    "prefix": "ji:kissing-face",
+    "description": "😗"
+  },
+  "😙": {
+    "body": "😙",
+    "prefix": "ji:kissing-face-with-smiling-eyes",
+    "description": "😙"
+  },
+  "😚": {
+    "body": "😚",
+    "prefix": "ji:kissing-face-with-closed-eyes",
+    "description": "😚"
+  },
+  "☺️": {
+    "body": "☺️",
+    "prefix": "ji:white-smiling-face",
+    "description": "☺️"
+  },
+  "🙂": {
+    "body": "🙂",
+    "prefix": "ji:slightly-smiling-face",
+    "description": "🙂"
+  },
+  "🤗": {
+    "body": "🤗",
+    "prefix": "ji:hugging-face",
+    "description": "🤗"
+  },
+  "🤩": {
+    "body": "🤩",
+    "prefix": "ji:grinning-face-with-star-eyes",
+    "description": "🤩"
+  },
+  "🤔": {
+    "body": "🤔",
+    "prefix": "ji:thinking-face",
+    "description": "🤔"
+  },
+  "🤨": {
+    "body": "🤨",
+    "prefix": "ji:face-with-one-eyebrow-raised",
+    "description": "🤨"
+  },
+  "😐️": {
+    "body": "😐️",
+    "prefix": "ji:neutral-face",
+    "description": "😐️"
+  },
+  "😑": {
+    "body": "😑",
+    "prefix": "ji:expressionless-face",
+    "description": "😑"
+  },
+  "😶": {
+    "body": "😶",
+    "prefix": "ji:face-without-mouth",
+    "description": "😶"
+  },
+  "🙄": {
+    "body": "🙄",
+    "prefix": "ji:face-with-rolling-eyes",
+    "description": "🙄"
+  },
+  "😏": {
+    "body": "😏",
+    "prefix": "ji:smirking-face",
+    "description": "😏"
+  },
+  "😣": {
+    "body": "😣",
+    "prefix": "ji:persevering-face",
+    "description": "😣"
+  },
+  "😥": {
+    "body": "😥",
+    "prefix": "ji:disappointed-but-relieved-face",
+    "description": "😥"
+  },
+  "😮": {
+    "body": "😮",
+    "prefix": "ji:face-with-open-mouth",
+    "description": "😮"
+  },
+  "🤐": {
+    "body": "🤐",
+    "prefix": "ji:zipper-mouth-face",
+    "description": "🤐"
+  },
+  "😯": {
+    "body": "😯",
+    "prefix": "ji:hushed-face",
+    "description": "😯"
+  },
+  "😪": {
+    "body": "😪",
+    "prefix": "ji:sleepy-face",
+    "description": "😪"
+  },
+  "😫": {
+    "body": "😫",
+    "prefix": "ji:tired-face",
+    "description": "😫"
+  },
+  "😴": {
+    "body": "😴",
+    "prefix": "ji:sleeping-face",
+    "description": "😴"
+  },
+  "😌": {
+    "body": "😌",
+    "prefix": "ji:relieved-face",
+    "description": "😌"
+  },
+  "😛": {
+    "body": "😛",
+    "prefix": "ji:face-with-stuck-out-tongue",
+    "description": "😛"
+  },
+  "😜": {
+    "body": "😜",
+    "prefix": "ji:face-with-stuck-out-tongue-and-winking-eye",
+    "description": "😜"
+  },
+  "😝": {
+    "body": "😝",
+    "prefix": "ji:face-with-stuck-out-tongue-and-tightly-closed-eyes",
+    "description": "😝"
+  },
+  "🤤": {
+    "body": "🤤",
+    "prefix": "ji:drooling-face",
+    "description": "🤤"
+  },
+  "😒": {
+    "body": "😒",
+    "prefix": "ji:unamused-face",
+    "description": "😒"
+  },
+  "😓": {
+    "body": "😓",
+    "prefix": "ji:face-with-cold-sweat",
+    "description": "😓"
+  },
+  "😔": {
+    "body": "😔",
+    "prefix": "ji:pensive-face",
+    "description": "😔"
+  },
+  "😕": {
+    "body": "😕",
+    "prefix": "ji:confused-face",
+    "description": "😕"
+  },
+  "🙃": {
+    "body": "🙃",
+    "prefix": "ji:upside-down-face",
+    "description": "🙃"
+  },
+  "🤑": {
+    "body": "🤑",
+    "prefix": "ji:money-mouth-face",
+    "description": "🤑"
+  },
+  "😲": {
+    "body": "😲",
+    "prefix": "ji:astonished-face",
+    "description": "😲"
+  },
+  "☹️": {
+    "body": "☹️",
+    "prefix": "ji:white-frowning-face",
+    "description": "☹️"
+  },
+  "🙁": {
+    "body": "🙁",
+    "prefix": "ji:slightly-frowning-face",
+    "description": "🙁"
+  },
+  "😖": {
+    "body": "😖",
+    "prefix": "ji:confounded-face",
+    "description": "😖"
+  },
+  "😞": {
+    "body": "😞",
+    "prefix": "ji:disappointed-face",
+    "description": "😞"
+  },
+  "😟": {
+    "body": "😟",
+    "prefix": "ji:worried-face",
+    "description": "😟"
+  },
+  "😤": {
+    "body": "😤",
+    "prefix": "ji:face-with-look-of-triumph",
+    "description": "😤"
+  },
+  "😢": {
+    "body": "😢",
+    "prefix": "ji:crying-face",
+    "description": "😢"
+  },
+  "😭": {
+    "body": "😭",
+    "prefix": "ji:loudly-crying-face",
+    "description": "😭"
+  },
+  "😦": {
+    "body": "😦",
+    "prefix": "ji:frowning-face-with-open-mouth",
+    "description": "😦"
+  },
+  "😧": {
+    "body": "😧",
+    "prefix": "ji:anguished-face",
+    "description": "😧"
+  },
+  "😨": {
+    "body": "😨",
+    "prefix": "ji:fearful-face",
+    "description": "😨"
+  },
+  "😩": {
+    "body": "😩",
+    "prefix": "ji:weary-face",
+    "description": "😩"
+  },
+  "🤯": {
+    "body": "🤯",
+    "prefix": "ji:shocked-face-with-exploding-head",
+    "description": "🤯"
+  },
+  "😬": {
+    "body": "😬",
+    "prefix": "ji:grimacing-face",
+    "description": "😬"
+  },
+  "😰": {
+    "body": "😰",
+    "prefix": "ji:face-with-open-mouth-and-cold-sweat",
+    "description": "😰"
+  },
+  "😱": {
+    "body": "😱",
+    "prefix": "ji:face-screaming-in-fear",
+    "description": "😱"
+  },
+  "🥵": {
+    "body": "🥵",
+    "prefix": "ji:overheated-face",
+    "description": "🥵"
+  },
+  "🥶": {
+    "body": "🥶",
+    "prefix": "ji:freezing-face",
+    "description": "🥶"
+  },
+  "😳": {
+    "body": "😳",
+    "prefix": "ji:flushed-face",
+    "description": "😳"
+  },
+  "🤪": {
+    "body": "🤪",
+    "prefix": "ji:grinning-face-with-one-large-and-one-small-eye",
+    "description": "🤪"
+  },
+  "😵": {
+    "body": "😵",
+    "prefix": "ji:dizzy-face",
+    "description": "😵"
+  },
+  "😡": {
+    "body": "😡",
+    "prefix": "ji:pouting-face",
+    "description": "😡"
+  },
+  "😠": {
+    "body": "😠",
+    "prefix": "ji:angry-face",
+    "description": "😠"
+  },
+  "🤬": {
+    "body": "🤬",
+    "prefix": "ji:serious-face-with-symbols-covering-mouth",
+    "description": "🤬"
+  },
+  "😷": {
+    "body": "😷",
+    "prefix": "ji:face-with-medical-mask",
+    "description": "😷"
+  },
+  "🤒": {
+    "body": "🤒",
+    "prefix": "ji:face-with-thermometer",
+    "description": "🤒"
+  },
+  "🤕": {
+    "body": "🤕",
+    "prefix": "ji:face-with-head-bandage",
+    "description": "🤕"
+  },
+  "🤢": {
+    "body": "🤢",
+    "prefix": "ji:nauseated-face",
+    "description": "🤢"
+  },
+  "🤮": {
+    "body": "🤮",
+    "prefix": "ji:face-with-open-mouth-vomiting",
+    "description": "🤮"
+  },
+  "🤧": {
+    "body": "🤧",
+    "prefix": "ji:sneezing-face",
+    "description": "🤧"
+  },
+  "😇": {
+    "body": "😇",
+    "prefix": "ji:smiling-face-with-halo",
+    "description": "😇"
+  },
+  "🤠": {
+    "body": "🤠",
+    "prefix": "ji:face-with-cowboy-hat",
+    "description": "🤠"
+  },
+  "🥳": {
+    "body": "🥳",
+    "prefix": "ji:face-with-party-horn-and-party-hat",
+    "description": "🥳"
+  },
+  "🥴": {
+    "body": "🥴",
+    "prefix": "ji:face-with-uneven-eyes-and-wavy-mouth",
+    "description": "🥴"
+  },
+  "🥺": {
+    "body": "🥺",
+    "prefix": "ji:face-with-pleading-eyes",
+    "description": "🥺"
+  },
+  "🤥": {
+    "body": "🤥",
+    "prefix": "ji:lying-face",
+    "description": "🤥"
+  },
+  "🤫": {
+    "body": "🤫",
+    "prefix": "ji:face-with-finger-covering-closed-lips",
+    "description": "🤫"
+  },
+  "🤭": {
+    "body": "🤭",
+    "prefix": "ji:smiling-face-with-smiling-eyes-and-hand-covering-mouth",
+    "description": "🤭"
+  },
+  "🧐": {
+    "body": "🧐",
+    "prefix": "ji:face-with-monocle",
+    "description": "🧐"
+  },
+  "🤓": {
+    "body": "🤓",
+    "prefix": "ji:nerd-face",
+    "description": "🤓"
+  },
+  "😈": {
+    "body": "😈",
+    "prefix": "ji:smiling-face-with-horns",
+    "description": "😈"
+  },
+  "👿": {
+    "body": "👿",
+    "prefix": "ji:imp",
+    "description": "👿"
+  },
+  "🤡": {
+    "body": "🤡",
+    "prefix": "ji:clown-face",
+    "description": "🤡"
+  },
+  "👹": {
+    "body": "👹",
+    "prefix": "ji:japanese-ogre",
+    "description": "👹"
+  },
+  "👺": {
+    "body": "👺",
+    "prefix": "ji:japanese-goblin",
+    "description": "👺"
+  },
+  "💀": {
+    "body": "💀",
+    "prefix": "ji:skull",
+    "description": "💀"
+  },
+  "☠️": {
+    "body": "☠️",
+    "prefix": "ji:skull-and-crossbones",
+    "description": "☠️"
+  },
+  "👻": {
+    "body": "👻",
+    "prefix": "ji:ghost",
+    "description": "👻"
+  },
+  "👽️": {
+    "body": "👽️",
+    "prefix": "ji:extraterrestrial-alien",
+    "description": "👽️"
+  },
+  "👾": {
+    "body": "👾",
+    "prefix": "ji:alien-monster",
+    "description": "👾"
+  },
+  "🤖": {
+    "body": "🤖",
+    "prefix": "ji:robot-face",
+    "description": "🤖"
+  },
+  "💩": {
+    "body": "💩",
+    "prefix": "ji:pile-of-poo",
+    "description": "💩"
+  },
+  "😺": {
+    "body": "😺",
+    "prefix": "ji:smiling-cat-face-with-open-mouth",
+    "description": "😺"
+  },
+  "😸": {
+    "body": "😸",
+    "prefix": "ji:grinning-cat-face-with-smiling-eyes",
+    "description": "😸"
+  },
+  "😹": {
+    "body": "😹",
+    "prefix": "ji:cat-face-with-tears-of-joy",
+    "description": "😹"
+  },
+  "😻": {
+    "body": "😻",
+    "prefix": "ji:smiling-cat-face-with-heart-shaped-eyes",
+    "description": "😻"
+  },
+  "😼": {
+    "body": "😼",
+    "prefix": "ji:cat-face-with-wry-smile",
+    "description": "😼"
+  },
+  "😽": {
+    "body": "😽",
+    "prefix": "ji:kissing-cat-face-with-closed-eyes",
+    "description": "😽"
+  },
+  "🙀": {
+    "body": "🙀",
+    "prefix": "ji:weary-cat-face",
+    "description": "🙀"
+  },
+  "😿": {
+    "body": "😿",
+    "prefix": "ji:crying-cat-face",
+    "description": "😿"
+  },
+  "😾": {
+    "body": "😾",
+    "prefix": "ji:pouting-cat-face",
+    "description": "😾"
+  },
+  "🙈": {
+    "body": "🙈",
+    "prefix": "ji:see-no-evil-monkey",
+    "description": "🙈"
+  },
+  "🙉": {
+    "body": "🙉",
+    "prefix": "ji:hear-no-evil-monkey",
+    "description": "🙉"
+  },
+  "🙊": {
+    "body": "🙊",
+    "prefix": "ji:speak-no-evil-monkey",
+    "description": "🙊"
+  },
+  "👶": {
+    "body": "👶",
+    "prefix": "ji:baby",
+    "description": "👶"
+  },
+  "🧒": {
+    "body": "🧒",
+    "prefix": "ji:child",
+    "description": "🧒"
+  },
+  "👦": {
+    "body": "👦",
+    "prefix": "ji:boy",
+    "description": "👦"
+  },
+  "👧": {
+    "body": "👧",
+    "prefix": "ji:girl",
+    "description": "👧"
+  },
+  "🧑": {
+    "body": "🧑",
+    "prefix": "ji:adult",
+    "description": "🧑"
+  },
+  "👨": {
+    "body": "👨",
+    "prefix": "ji:man",
+    "description": "👨"
+  },
+  "👩": {
+    "body": "👩",
+    "prefix": "ji:woman",
+    "description": "👩"
+  },
+  "🧓": {
+    "body": "🧓",
+    "prefix": "ji:older-adult",
+    "description": "🧓"
+  },
+  "👴": {
+    "body": "👴",
+    "prefix": "ji:older-man",
+    "description": "👴"
+  },
+  "👵": {
+    "body": "👵",
+    "prefix": "ji:older-woman",
+    "description": "👵"
+  },
+  "👨‍⚕️": {
+    "body": "👨‍⚕️",
+    "prefix": "ji:man-staff-of-aesculapius",
+    "description": "👨‍⚕️"
+  },
+  "👩‍⚕️": {
+    "body": "👩‍⚕️",
+    "prefix": "ji:woman-staff-of-aesculapius",
+    "description": "👩‍⚕️"
+  },
+  "👨‍🎓": {
+    "body": "👨‍🎓",
+    "prefix": "ji:man-graduation-cap",
+    "description": "👨‍🎓"
+  },
+  "👩‍🎓": {
+    "body": "👩‍🎓",
+    "prefix": "ji:woman-graduation-cap",
+    "description": "👩‍🎓"
+  },
+  "👨‍🏫": {
+    "body": "👨‍🏫",
+    "prefix": "ji:man-school",
+    "description": "👨‍🏫"
+  },
+  "👩‍🏫": {
+    "body": "👩‍🏫",
+    "prefix": "ji:woman-school",
+    "description": "👩‍🏫"
+  },
+  "👨‍⚖️": {
+    "body": "👨‍⚖️",
+    "prefix": "ji:man-scales",
+    "description": "👨‍⚖️"
+  },
+  "👩‍⚖️": {
+    "body": "👩‍⚖️",
+    "prefix": "ji:woman-scales",
+    "description": "👩‍⚖️"
+  },
+  "👨‍🌾": {
+    "body": "👨‍🌾",
+    "prefix": "ji:man-ear-of-rice",
+    "description": "👨‍🌾"
+  },
+  "👩‍🌾": {
+    "body": "👩‍🌾",
+    "prefix": "ji:woman-ear-of-rice",
+    "description": "👩‍🌾"
+  },
+  "👨‍🍳": {
+    "body": "👨‍🍳",
+    "prefix": "ji:man-cooking",
+    "description": "👨‍🍳"
+  },
+  "👩‍🍳": {
+    "body": "👩‍🍳",
+    "prefix": "ji:woman-cooking",
+    "description": "👩‍🍳"
+  },
+  "👨‍🔧": {
+    "body": "👨‍🔧",
+    "prefix": "ji:man-wrench",
+    "description": "👨‍🔧"
+  },
+  "👩‍🔧": {
+    "body": "👩‍🔧",
+    "prefix": "ji:woman-wrench",
+    "description": "👩‍🔧"
+  },
+  "👨‍🏭": {
+    "body": "👨‍🏭",
+    "prefix": "ji:man-factory",
+    "description": "👨‍🏭"
+  },
+  "👩‍🏭": {
+    "body": "👩‍🏭",
+    "prefix": "ji:woman-factory",
+    "description": "👩‍🏭"
+  },
+  "👨‍💼": {
+    "body": "👨‍💼",
+    "prefix": "ji:man-briefcase",
+    "description": "👨‍💼"
+  },
+  "👩‍💼": {
+    "body": "👩‍💼",
+    "prefix": "ji:woman-briefcase",
+    "description": "👩‍💼"
+  },
+  "👨‍🔬": {
+    "body": "👨‍🔬",
+    "prefix": "ji:man-microscope",
+    "description": "👨‍🔬"
+  },
+  "👩‍🔬": {
+    "body": "👩‍🔬",
+    "prefix": "ji:woman-microscope",
+    "description": "👩‍🔬"
+  },
+  "👨‍💻": {
+    "body": "👨‍💻",
+    "prefix": "ji:man-personal-computer",
+    "description": "👨‍💻"
+  },
+  "👩‍💻": {
+    "body": "👩‍💻",
+    "prefix": "ji:woman-personal-computer",
+    "description": "👩‍💻"
+  },
+  "👨‍🎤": {
+    "body": "👨‍🎤",
+    "prefix": "ji:man-microphone",
+    "description": "👨‍🎤"
+  },
+  "👩‍🎤": {
+    "body": "👩‍🎤",
+    "prefix": "ji:woman-microphone",
+    "description": "👩‍🎤"
+  },
+  "👨‍🎨": {
+    "body": "👨‍🎨",
+    "prefix": "ji:man-artist-palette",
+    "description": "👨‍🎨"
+  },
+  "👩‍🎨": {
+    "body": "👩‍🎨",
+    "prefix": "ji:woman-artist-palette",
+    "description": "👩‍🎨"
+  },
+  "👨‍✈️": {
+    "body": "👨‍✈️",
+    "prefix": "ji:man-airplane",
+    "description": "👨‍✈️"
+  },
+  "👩‍✈️": {
+    "body": "👩‍✈️",
+    "prefix": "ji:woman-airplane",
+    "description": "👩‍✈️"
+  },
+  "👨‍🚀": {
+    "body": "👨‍🚀",
+    "prefix": "ji:man-rocket",
+    "description": "👨‍🚀"
+  },
+  "👩‍🚀": {
+    "body": "👩‍🚀",
+    "prefix": "ji:woman-rocket",
+    "description": "👩‍🚀"
+  },
+  "👨‍🚒": {
+    "body": "👨‍🚒",
+    "prefix": "ji:man-fire-engine",
+    "description": "👨‍🚒"
+  },
+  "👩‍🚒": {
+    "body": "👩‍🚒",
+    "prefix": "ji:woman-fire-engine",
+    "description": "👩‍🚒"
+  },
+  "👮": {
+    "body": "👮",
+    "prefix": "ji:police-officer",
+    "description": "👮"
+  },
+  "👮‍♂️": {
+    "body": "👮‍♂️",
+    "prefix": "ji:police-officer-male-sign",
+    "description": "👮‍♂️"
+  },
+  "👮‍♀️": {
+    "body": "👮‍♀️",
+    "prefix": "ji:police-officer-female-sign",
+    "description": "👮‍♀️"
+  },
+  "🕵️": {
+    "body": "🕵️",
+    "prefix": "ji:sleuth-or-spy",
+    "description": "🕵️"
+  },
+  "🕵️‍♂️": {
+    "body": "🕵️‍♂️",
+    "prefix": "ji:sleuth-or-spy-male-sign",
+    "description": "🕵️‍♂️"
+  },
+  "🕵️‍♀️": {
+    "body": "🕵️‍♀️",
+    "prefix": "ji:sleuth-or-spy-female-sign",
+    "description": "🕵️‍♀️"
+  },
+  "💂": {
+    "body": "💂",
+    "prefix": "ji:guardsman",
+    "description": "💂"
+  },
+  "💂‍♂️": {
+    "body": "💂‍♂️",
+    "prefix": "ji:guardsman-male-sign",
+    "description": "💂‍♂️"
+  },
+  "💂‍♀️": {
+    "body": "💂‍♀️",
+    "prefix": "ji:guardsman-female-sign",
+    "description": "💂‍♀️"
+  },
+  "👷": {
+    "body": "👷",
+    "prefix": "ji:construction-worker",
+    "description": "👷"
+  },
+  "👷‍♂️": {
+    "body": "👷‍♂️",
+    "prefix": "ji:construction-worker-male-sign",
+    "description": "👷‍♂️"
+  },
+  "👷‍♀️": {
+    "body": "👷‍♀️",
+    "prefix": "ji:construction-worker-female-sign",
+    "description": "👷‍♀️"
+  },
+  "🤴": {
+    "body": "🤴",
+    "prefix": "ji:prince",
+    "description": "🤴"
+  },
+  "👸": {
+    "body": "👸",
+    "prefix": "ji:princess",
+    "description": "👸"
+  },
+  "👳": {
+    "body": "👳",
+    "prefix": "ji:man-with-turban",
+    "description": "👳"
+  },
+  "👳‍♂️": {
+    "body": "👳‍♂️",
+    "prefix": "ji:man-with-turban-male-sign",
+    "description": "👳‍♂️"
+  },
+  "👳‍♀️": {
+    "body": "👳‍♀️",
+    "prefix": "ji:man-with-turban-female-sign",
+    "description": "👳‍♀️"
+  },
+  "👲": {
+    "body": "👲",
+    "prefix": "ji:man-with-gua-pi-mao",
+    "description": "👲"
+  },
+  "🧕": {
+    "body": "🧕",
+    "prefix": "ji:person-with-headscarf",
+    "description": "🧕"
+  },
+  "🧔": {
+    "body": "🧔",
+    "prefix": "ji:bearded-person",
+    "description": "🧔"
+  },
+  "👱": {
+    "body": "👱",
+    "prefix": "ji:person-with-blond-hair",
+    "description": "👱"
+  },
+  "👱‍♂️": {
+    "body": "👱‍♂️",
+    "prefix": "ji:person-with-blond-hair-male-sign",
+    "description": "👱‍♂️"
+  },
+  "👱‍♀️": {
+    "body": "👱‍♀️",
+    "prefix": "ji:person-with-blond-hair-female-sign",
+    "description": "👱‍♀️"
+  },
+  "👨‍🦰": {
+    "body": "👨‍🦰",
+    "prefix": "ji:man-emoji-component-red-hair",
+    "description": "👨‍🦰"
+  },
+  "👩‍🦰": {
+    "body": "👩‍🦰",
+    "prefix": "ji:woman-emoji-component-red-hair",
+    "description": "👩‍🦰"
+  },
+  "👨‍🦱": {
+    "body": "👨‍🦱",
+    "prefix": "ji:man-emoji-component-curly-hair",
+    "description": "👨‍🦱"
+  },
+  "👩‍🦱": {
+    "body": "👩‍🦱",
+    "prefix": "ji:woman-emoji-component-curly-hair",
+    "description": "👩‍🦱"
+  },
+  "👨‍🦲": {
+    "body": "👨‍🦲",
+    "prefix": "ji:man-emoji-component-bald",
+    "description": "👨‍🦲"
+  },
+  "👩‍🦲": {
+    "body": "👩‍🦲",
+    "prefix": "ji:woman-emoji-component-bald",
+    "description": "👩‍🦲"
+  },
+  "👨‍🦳": {
+    "body": "👨‍🦳",
+    "prefix": "ji:man-emoji-component-white-hair",
+    "description": "👨‍🦳"
+  },
+  "👩‍🦳": {
+    "body": "👩‍🦳",
+    "prefix": "ji:woman-emoji-component-white-hair",
+    "description": "👩‍🦳"
+  },
+  "🤵": {
+    "body": "🤵",
+    "prefix": "ji:man-in-tuxedo",
+    "description": "🤵"
+  },
+  "👰": {
+    "body": "👰",
+    "prefix": "ji:bride-with-veil",
+    "description": "👰"
+  },
+  "🤰": {
+    "body": "🤰",
+    "prefix": "ji:pregnant-woman",
+    "description": "🤰"
+  },
+  "🤱": {
+    "body": "🤱",
+    "prefix": "ji:breast-feeding",
+    "description": "🤱"
+  },
+  "👼": {
+    "body": "👼",
+    "prefix": "ji:baby-angel",
+    "description": "👼"
+  },
+  "🎅": {
+    "body": "🎅",
+    "prefix": "ji:father-christmas",
+    "description": "🎅"
+  },
+  "🤶": {
+    "body": "🤶",
+    "prefix": "ji:mother-christmas",
+    "description": "🤶"
+  },
+  "🦸": {
+    "body": "🦸",
+    "prefix": "ji:superhero",
+    "description": "🦸"
+  },
+  "🦸‍♀️": {
+    "body": "🦸‍♀️",
+    "prefix": "ji:superhero-female-sign",
+    "description": "🦸‍♀️"
+  },
+  "🦸‍♂️": {
+    "body": "🦸‍♂️",
+    "prefix": "ji:superhero-male-sign",
+    "description": "🦸‍♂️"
+  },
+  "🦹": {
+    "body": "🦹",
+    "prefix": "ji:supervillain",
+    "description": "🦹"
+  },
+  "🦹‍♀️": {
+    "body": "🦹‍♀️",
+    "prefix": "ji:supervillain-female-sign",
+    "description": "🦹‍♀️"
+  },
+  "🦹‍♂️": {
+    "body": "🦹‍♂️",
+    "prefix": "ji:supervillain-male-sign",
+    "description": "🦹‍♂️"
+  },
+  "🧙": {
+    "body": "🧙",
+    "prefix": "ji:mage",
+    "description": "🧙"
+  },
+  "🧙‍♀️": {
+    "body": "🧙‍♀️",
+    "prefix": "ji:mage-female-sign",
+    "description": "🧙‍♀️"
+  },
+  "🧙‍♂️": {
+    "body": "🧙‍♂️",
+    "prefix": "ji:mage-male-sign",
+    "description": "🧙‍♂️"
+  },
+  "🧚": {
+    "body": "🧚",
+    "prefix": "ji:fairy",
+    "description": "🧚"
+  },
+  "🧚‍♀️": {
+    "body": "🧚‍♀️",
+    "prefix": "ji:fairy-female-sign",
+    "description": "🧚‍♀️"
+  },
+  "🧚‍♂️": {
+    "body": "🧚‍♂️",
+    "prefix": "ji:fairy-male-sign",
+    "description": "🧚‍♂️"
+  },
+  "🧛": {
+    "body": "🧛",
+    "prefix": "ji:vampire",
+    "description": "🧛"
+  },
+  "🧛‍♀️": {
+    "body": "🧛‍♀️",
+    "prefix": "ji:vampire-female-sign",
+    "description": "🧛‍♀️"
+  },
+  "🧛‍♂️": {
+    "body": "🧛‍♂️",
+    "prefix": "ji:vampire-male-sign",
+    "description": "🧛‍♂️"
+  },
+  "🧜": {
+    "body": "🧜",
+    "prefix": "ji:merperson",
+    "description": "🧜"
+  },
+  "🧜‍♀️": {
+    "body": "🧜‍♀️",
+    "prefix": "ji:merperson-female-sign",
+    "description": "🧜‍♀️"
+  },
+  "🧜‍♂️": {
+    "body": "🧜‍♂️",
+    "prefix": "ji:merperson-male-sign",
+    "description": "🧜‍♂️"
+  },
+  "🧝": {
+    "body": "🧝",
+    "prefix": "ji:elf",
+    "description": "🧝"
+  },
+  "🧝‍♀️": {
+    "body": "🧝‍♀️",
+    "prefix": "ji:elf-female-sign",
+    "description": "🧝‍♀️"
+  },
+  "🧝‍♂️": {
+    "body": "🧝‍♂️",
+    "prefix": "ji:elf-male-sign",
+    "description": "🧝‍♂️"
+  },
+  "🧞": {
+    "body": "🧞",
+    "prefix": "ji:genie",
+    "description": "🧞"
+  },
+  "🧞‍♀️": {
+    "body": "🧞‍♀️",
+    "prefix": "ji:genie-female-sign",
+    "description": "🧞‍♀️"
+  },
+  "🧞‍♂️": {
+    "body": "🧞‍♂️",
+    "prefix": "ji:genie-male-sign",
+    "description": "🧞‍♂️"
+  },
+  "🧟": {
+    "body": "🧟",
+    "prefix": "ji:zombie",
+    "description": "🧟"
+  },
+  "🧟‍♀️": {
+    "body": "🧟‍♀️",
+    "prefix": "ji:zombie-female-sign",
+    "description": "🧟‍♀️"
+  },
+  "🧟‍♂️": {
+    "body": "🧟‍♂️",
+    "prefix": "ji:zombie-male-sign",
+    "description": "🧟‍♂️"
+  },
+  "🙍": {
+    "body": "🙍",
+    "prefix": "ji:person-frowning",
+    "description": "🙍"
+  },
+  "🙍‍♂️": {
+    "body": "🙍‍♂️",
+    "prefix": "ji:person-frowning-male-sign",
+    "description": "🙍‍♂️"
+  },
+  "🙍‍♀️": {
+    "body": "🙍‍♀️",
+    "prefix": "ji:person-frowning-female-sign",
+    "description": "🙍‍♀️"
+  },
+  "🙎": {
+    "body": "🙎",
+    "prefix": "ji:person-with-pouting-face",
+    "description": "🙎"
+  },
+  "🙎‍♂️": {
+    "body": "🙎‍♂️",
+    "prefix": "ji:person-with-pouting-face-male-sign",
+    "description": "🙎‍♂️"
+  },
+  "🙎‍♀️": {
+    "body": "🙎‍♀️",
+    "prefix": "ji:person-with-pouting-face-female-sign",
+    "description": "🙎‍♀️"
+  },
+  "🙅": {
+    "body": "🙅",
+    "prefix": "ji:face-with-no-good-gesture",
+    "description": "🙅"
+  },
+  "🙅‍♂️": {
+    "body": "🙅‍♂️",
+    "prefix": "ji:face-with-no-good-gesture-male-sign",
+    "description": "🙅‍♂️"
+  },
+  "🙅‍♀️": {
+    "body": "🙅‍♀️",
+    "prefix": "ji:face-with-no-good-gesture-female-sign",
+    "description": "🙅‍♀️"
+  },
+  "🙆": {
+    "body": "🙆",
+    "prefix": "ji:face-with-ok-gesture",
+    "description": "🙆"
+  },
+  "🙆‍♂️": {
+    "body": "🙆‍♂️",
+    "prefix": "ji:face-with-ok-gesture-male-sign",
+    "description": "🙆‍♂️"
+  },
+  "🙆‍♀️": {
+    "body": "🙆‍♀️",
+    "prefix": "ji:face-with-ok-gesture-female-sign",
+    "description": "🙆‍♀️"
+  },
+  "💁": {
+    "body": "💁",
+    "prefix": "ji:information-desk-person",
+    "description": "💁"
+  },
+  "💁‍♂️": {
+    "body": "💁‍♂️",
+    "prefix": "ji:information-desk-person-male-sign",
+    "description": "💁‍♂️"
+  },
+  "💁‍♀️": {
+    "body": "💁‍♀️",
+    "prefix": "ji:information-desk-person-female-sign",
+    "description": "💁‍♀️"
+  },
+  "🙋": {
+    "body": "🙋",
+    "prefix": "ji:happy-person-raising-one-hand",
+    "description": "🙋"
+  },
+  "🙋‍♂️": {
+    "body": "🙋‍♂️",
+    "prefix": "ji:happy-person-raising-one-hand-male-sign",
+    "description": "🙋‍♂️"
+  },
+  "🙋‍♀️": {
+    "body": "🙋‍♀️",
+    "prefix": "ji:happy-person-raising-one-hand-female-sign",
+    "description": "🙋‍♀️"
+  },
+  "🙇": {
+    "body": "🙇",
+    "prefix": "ji:person-bowing-deeply",
+    "description": "🙇"
+  },
+  "🙇‍♂️": {
+    "body": "🙇‍♂️",
+    "prefix": "ji:person-bowing-deeply-male-sign",
+    "description": "🙇‍♂️"
+  },
+  "🙇‍♀️": {
+    "body": "🙇‍♀️",
+    "prefix": "ji:person-bowing-deeply-female-sign",
+    "description": "🙇‍♀️"
+  },
+  "🤦": {
+    "body": "🤦",
+    "prefix": "ji:face-palm",
+    "description": "🤦"
+  },
+  "🤦‍♂️": {
+    "body": "🤦‍♂️",
+    "prefix": "ji:face-palm-male-sign",
+    "description": "🤦‍♂️"
+  },
+  "🤦‍♀️": {
+    "body": "🤦‍♀️",
+    "prefix": "ji:face-palm-female-sign",
+    "description": "🤦‍♀️"
+  },
+  "🤷": {
+    "body": "🤷",
+    "prefix": "ji:shrug",
+    "description": "🤷"
+  },
+  "🤷‍♂️": {
+    "body": "🤷‍♂️",
+    "prefix": "ji:shrug-male-sign",
+    "description": "🤷‍♂️"
+  },
+  "🤷‍♀️": {
+    "body": "🤷‍♀️",
+    "prefix": "ji:shrug-female-sign",
+    "description": "🤷‍♀️"
+  },
+  "💆": {
+    "body": "💆",
+    "prefix": "ji:face-massage",
+    "description": "💆"
+  },
+  "💆‍♂️": {
+    "body": "💆‍♂️",
+    "prefix": "ji:face-massage-male-sign",
+    "description": "💆‍♂️"
+  },
+  "💆‍♀️": {
+    "body": "💆‍♀️",
+    "prefix": "ji:face-massage-female-sign",
+    "description": "💆‍♀️"
+  },
+  "💇": {
+    "body": "💇",
+    "prefix": "ji:haircut",
+    "description": "💇"
+  },
+  "💇‍♂️": {
+    "body": "💇‍♂️",
+    "prefix": "ji:haircut-male-sign",
+    "description": "💇‍♂️"
+  },
+  "💇‍♀️": {
+    "body": "💇‍♀️",
+    "prefix": "ji:haircut-female-sign",
+    "description": "💇‍♀️"
+  },
+  "🚶": {
+    "body": "🚶",
+    "prefix": "ji:pedestrian",
+    "description": "🚶"
+  },
+  "🚶‍♂️": {
+    "body": "🚶‍♂️",
+    "prefix": "ji:pedestrian-male-sign",
+    "description": "🚶‍♂️"
+  },
+  "🚶‍♀️": {
+    "body": "🚶‍♀️",
+    "prefix": "ji:pedestrian-female-sign",
+    "description": "🚶‍♀️"
+  },
+  "🏃": {
+    "body": "🏃",
+    "prefix": "ji:runner",
+    "description": "🏃"
+  },
+  "🏃‍♂️": {
+    "body": "🏃‍♂️",
+    "prefix": "ji:runner-male-sign",
+    "description": "🏃‍♂️"
+  },
+  "🏃‍♀️": {
+    "body": "🏃‍♀️",
+    "prefix": "ji:runner-female-sign",
+    "description": "🏃‍♀️"
+  },
+  "💃": {
+    "body": "💃",
+    "prefix": "ji:dancer",
+    "description": "💃"
+  },
+  "🕺": {
+    "body": "🕺",
+    "prefix": "ji:man-dancing",
+    "description": "🕺"
+  },
+  "👯": {
+    "body": "👯",
+    "prefix": "ji:woman-with-bunny-ears",
+    "description": "👯"
+  },
+  "👯‍♂️": {
+    "body": "👯‍♂️",
+    "prefix": "ji:woman-with-bunny-ears-male-sign",
+    "description": "👯‍♂️"
+  },
+  "👯‍♀️": {
+    "body": "👯‍♀️",
+    "prefix": "ji:woman-with-bunny-ears-female-sign",
+    "description": "👯‍♀️"
+  },
+  "🧖": {
+    "body": "🧖",
+    "prefix": "ji:person-in-steamy-room",
+    "description": "🧖"
+  },
+  "🧖‍♀️": {
+    "body": "🧖‍♀️",
+    "prefix": "ji:person-in-steamy-room-female-sign",
+    "description": "🧖‍♀️"
+  },
+  "🧖‍♂️": {
+    "body": "🧖‍♂️",
+    "prefix": "ji:person-in-steamy-room-male-sign",
+    "description": "🧖‍♂️"
+  },
+  "🧗": {
+    "body": "🧗",
+    "prefix": "ji:person-climbing",
+    "description": "🧗"
+  },
+  "🧗‍♀️": {
+    "body": "🧗‍♀️",
+    "prefix": "ji:person-climbing-female-sign",
+    "description": "🧗‍♀️"
+  },
+  "🧗‍♂️": {
+    "body": "🧗‍♂️",
+    "prefix": "ji:person-climbing-male-sign",
+    "description": "🧗‍♂️"
+  },
+  "🧘": {
+    "body": "🧘",
+    "prefix": "ji:person-in-lotus-position",
+    "description": "🧘"
+  },
+  "🧘‍♀️": {
+    "body": "🧘‍♀️",
+    "prefix": "ji:person-in-lotus-position-female-sign",
+    "description": "🧘‍♀️"
+  },
+  "🧘‍♂️": {
+    "body": "🧘‍♂️",
+    "prefix": "ji:person-in-lotus-position-male-sign",
+    "description": "🧘‍♂️"
+  },
+  "🛀": {
+    "body": "🛀",
+    "prefix": "ji:bath",
+    "description": "🛀"
+  },
+  "🛌": {
+    "body": "🛌",
+    "prefix": "ji:sleeping-accommodation",
+    "description": "🛌"
+  },
+  "🕴️": {
+    "body": "🕴️",
+    "prefix": "ji:man-in-business-suit-levitating",
+    "description": "🕴️"
+  },
+  "🗣️": {
+    "body": "🗣️",
+    "prefix": "ji:speaking-head-in-silhouette",
+    "description": "🗣️"
+  },
+  "👤": {
+    "body": "👤",
+    "prefix": "ji:bust-in-silhouette",
+    "description": "👤"
+  },
+  "👥": {
+    "body": "👥",
+    "prefix": "ji:busts-in-silhouette",
+    "description": "👥"
+  },
+  "🤺": {
+    "body": "🤺",
+    "prefix": "ji:fencer",
+    "description": "🤺"
+  },
+  "🏇": {
+    "body": "🏇",
+    "prefix": "ji:horse-racing",
+    "description": "🏇"
+  },
+  "⛷️": {
+    "body": "⛷️",
+    "prefix": "ji:skier",
+    "description": "⛷️"
+  },
+  "🏂️": {
+    "body": "🏂️",
+    "prefix": "ji:snowboarder",
+    "description": "🏂️"
+  },
+  "🏌️": {
+    "body": "🏌️",
+    "prefix": "ji:golfer",
+    "description": "🏌️"
+  },
+  "🏌️‍♂️": {
+    "body": "🏌️‍♂️",
+    "prefix": "ji:golfer-male-sign",
+    "description": "🏌️‍♂️"
+  },
+  "🏌️‍♀️": {
+    "body": "🏌️‍♀️",
+    "prefix": "ji:golfer-female-sign",
+    "description": "🏌️‍♀️"
+  },
+  "🏄️": {
+    "body": "🏄️",
+    "prefix": "ji:surfer",
+    "description": "🏄️"
+  },
+  "🏄‍♂️": {
+    "body": "🏄‍♂️",
+    "prefix": "ji:surfer-male-sign",
+    "description": "🏄‍♂️"
+  },
+  "🏄‍♀️": {
+    "body": "🏄‍♀️",
+    "prefix": "ji:surfer-female-sign",
+    "description": "🏄‍♀️"
+  },
+  "🚣": {
+    "body": "🚣",
+    "prefix": "ji:rowboat",
+    "description": "🚣"
+  },
+  "🚣‍♂️": {
+    "body": "🚣‍♂️",
+    "prefix": "ji:rowboat-male-sign",
+    "description": "🚣‍♂️"
+  },
+  "🚣‍♀️": {
+    "body": "🚣‍♀️",
+    "prefix": "ji:rowboat-female-sign",
+    "description": "🚣‍♀️"
+  },
+  "🏊️": {
+    "body": "🏊️",
+    "prefix": "ji:swimmer",
+    "description": "🏊️"
+  },
+  "🏊‍♂️": {
+    "body": "🏊‍♂️",
+    "prefix": "ji:swimmer-male-sign",
+    "description": "🏊‍♂️"
+  },
+  "🏊‍♀️": {
+    "body": "🏊‍♀️",
+    "prefix": "ji:swimmer-female-sign",
+    "description": "🏊‍♀️"
+  },
+  "⛹️": {
+    "body": "⛹️",
+    "prefix": "ji:person-with-ball",
+    "description": "⛹️"
+  },
+  "⛹️‍♂️": {
+    "body": "⛹️‍♂️",
+    "prefix": "ji:person-with-ball-male-sign",
+    "description": "⛹️‍♂️"
+  },
+  "⛹️‍♀️": {
+    "body": "⛹️‍♀️",
+    "prefix": "ji:person-with-ball-female-sign",
+    "description": "⛹️‍♀️"
+  },
+  "🏋️": {
+    "body": "🏋️",
+    "prefix": "ji:weight-lifter",
+    "description": "🏋️"
+  },
+  "🏋️‍♂️": {
+    "body": "🏋️‍♂️",
+    "prefix": "ji:weight-lifter-male-sign",
+    "description": "🏋️‍♂️"
+  },
+  "🏋️‍♀️": {
+    "body": "🏋️‍♀️",
+    "prefix": "ji:weight-lifter-female-sign",
+    "description": "🏋️‍♀️"
+  },
+  "🚴": {
+    "body": "🚴",
+    "prefix": "ji:bicyclist",
+    "description": "🚴"
+  },
+  "🚴‍♂️": {
+    "body": "🚴‍♂️",
+    "prefix": "ji:bicyclist-male-sign",
+    "description": "🚴‍♂️"
+  },
+  "🚴‍♀️": {
+    "body": "🚴‍♀️",
+    "prefix": "ji:bicyclist-female-sign",
+    "description": "🚴‍♀️"
+  },
+  "🚵": {
+    "body": "🚵",
+    "prefix": "ji:mountain-bicyclist",
+    "description": "🚵"
+  },
+  "🚵‍♂️": {
+    "body": "🚵‍♂️",
+    "prefix": "ji:mountain-bicyclist-male-sign",
+    "description": "🚵‍♂️"
+  },
+  "🚵‍♀️": {
+    "body": "🚵‍♀️",
+    "prefix": "ji:mountain-bicyclist-female-sign",
+    "description": "🚵‍♀️"
+  },
+  "🏎️": {
+    "body": "🏎️",
+    "prefix": "ji:racing-car",
+    "description": "🏎️"
+  },
+  "🏍️": {
+    "body": "🏍️",
+    "prefix": "ji:racing-motorcycle",
+    "description": "🏍️"
+  },
+  "🤸": {
+    "body": "🤸",
+    "prefix": "ji:person-doing-cartwheel",
+    "description": "🤸"
+  },
+  "🤸‍♂️": {
+    "body": "🤸‍♂️",
+    "prefix": "ji:person-doing-cartwheel-male-sign",
+    "description": "🤸‍♂️"
+  },
+  "🤸‍♀️": {
+    "body": "🤸‍♀️",
+    "prefix": "ji:person-doing-cartwheel-female-sign",
+    "description": "🤸‍♀️"
+  },
+  "🤼": {
+    "body": "🤼",
+    "prefix": "ji:wrestlers",
+    "description": "🤼"
+  },
+  "🤼‍♂️": {
+    "body": "🤼‍♂️",
+    "prefix": "ji:wrestlers-male-sign",
+    "description": "🤼‍♂️"
+  },
+  "🤼‍♀️": {
+    "body": "🤼‍♀️",
+    "prefix": "ji:wrestlers-female-sign",
+    "description": "🤼‍♀️"
+  },
+  "🤽": {
+    "body": "🤽",
+    "prefix": "ji:water-polo",
+    "description": "🤽"
+  },
+  "🤽‍♂️": {
+    "body": "🤽‍♂️",
+    "prefix": "ji:water-polo-male-sign",
+    "description": "🤽‍♂️"
+  },
+  "🤽‍♀️": {
+    "body": "🤽‍♀️",
+    "prefix": "ji:water-polo-female-sign",
+    "description": "🤽‍♀️"
+  },
+  "🤾": {
+    "body": "🤾",
+    "prefix": "ji:handball",
+    "description": "🤾"
+  },
+  "🤾‍♂️": {
+    "body": "🤾‍♂️",
+    "prefix": "ji:handball-male-sign",
+    "description": "🤾‍♂️"
+  },
+  "🤾‍♀️": {
+    "body": "🤾‍♀️",
+    "prefix": "ji:handball-female-sign",
+    "description": "🤾‍♀️"
+  },
+  "🤹": {
+    "body": "🤹",
+    "prefix": "ji:juggling",
+    "description": "🤹"
+  },
+  "🤹‍♂️": {
+    "body": "🤹‍♂️",
+    "prefix": "ji:juggling-male-sign",
+    "description": "🤹‍♂️"
+  },
+  "🤹‍♀️": {
+    "body": "🤹‍♀️",
+    "prefix": "ji:juggling-female-sign",
+    "description": "🤹‍♀️"
+  },
+  "👫": {
+    "body": "👫",
+    "prefix": "ji:man-and-woman-holding-hands",
+    "description": "👫"
+  },
+  "👬": {
+    "body": "👬",
+    "prefix": "ji:two-men-holding-hands",
+    "description": "👬"
+  },
+  "👭": {
+    "body": "👭",
+    "prefix": "ji:two-women-holding-hands",
+    "description": "👭"
+  },
+  "💏": {
+    "body": "💏",
+    "prefix": "ji:kiss",
+    "description": "💏"
+  },
+  "👩‍❤️‍💋‍👨": {
+    "body": "👩‍❤️‍💋‍👨",
+    "prefix": "ji:woman-heavy-black-heart-kiss-mark-man",
+    "description": "👩‍❤️‍💋‍👨"
+  },
+  "👨‍❤️‍💋‍👨": {
+    "body": "👨‍❤️‍💋‍👨",
+    "prefix": "ji:man-heavy-black-heart-kiss-mark-man",
+    "description": "👨‍❤️‍💋‍👨"
+  },
+  "👩‍❤️‍💋‍👩": {
+    "body": "👩‍❤️‍💋‍👩",
+    "prefix": "ji:woman-heavy-black-heart-kiss-mark-woman",
+    "description": "👩‍❤️‍💋‍👩"
+  },
+  "💑": {
+    "body": "💑",
+    "prefix": "ji:couple-with-heart",
+    "description": "💑"
+  },
+  "👩‍❤️‍👨": {
+    "body": "👩‍❤️‍👨",
+    "prefix": "ji:woman-heavy-black-heart-man",
+    "description": "👩‍❤️‍👨"
+  },
+  "👨‍❤️‍👨": {
+    "body": "👨‍❤️‍👨",
+    "prefix": "ji:man-heavy-black-heart-man",
+    "description": "👨‍❤️‍👨"
+  },
+  "👩‍❤️‍👩": {
+    "body": "👩‍❤️‍👩",
+    "prefix": "ji:woman-heavy-black-heart-woman",
+    "description": "👩‍❤️‍👩"
+  },
+  "👪️": {
+    "body": "👪️",
+    "prefix": "ji:family",
+    "description": "👪️"
+  },
+  "👨‍👩‍👦": {
+    "body": "👨‍👩‍👦",
+    "prefix": "ji:man-woman-boy",
+    "description": "👨‍👩‍👦"
+  },
+  "👨‍👩‍👧": {
+    "body": "👨‍👩‍👧",
+    "prefix": "ji:man-woman-girl",
+    "description": "👨‍👩‍👧"
+  },
+  "👨‍👩‍👧‍👦": {
+    "body": "👨‍👩‍👧‍👦",
+    "prefix": "ji:man-woman-girl-boy",
+    "description": "👨‍👩‍👧‍👦"
+  },
+  "👨‍👩‍👦‍👦": {
+    "body": "👨‍👩‍👦‍👦",
+    "prefix": "ji:man-woman-boy-boy",
+    "description": "👨‍👩‍👦‍👦"
+  },
+  "👨‍👩‍👧‍👧": {
+    "body": "👨‍👩‍👧‍👧",
+    "prefix": "ji:man-woman-girl-girl",
+    "description": "👨‍👩‍👧‍👧"
+  },
+  "👨‍👨‍👦": {
+    "body": "👨‍👨‍👦",
+    "prefix": "ji:man-man-boy",
+    "description": "👨‍👨‍👦"
+  },
+  "👨‍👨‍👧": {
+    "body": "👨‍👨‍👧",
+    "prefix": "ji:man-man-girl",
+    "description": "👨‍👨‍👧"
+  },
+  "👨‍👨‍👧‍👦": {
+    "body": "👨‍👨‍👧‍👦",
+    "prefix": "ji:man-man-girl-boy",
+    "description": "👨‍👨‍👧‍👦"
+  },
+  "👨‍👨‍👦‍👦": {
+    "body": "👨‍👨‍👦‍👦",
+    "prefix": "ji:man-man-boy-boy",
+    "description": "👨‍👨‍👦‍👦"
+  },
+  "👨‍👨‍👧‍👧": {
+    "body": "👨‍👨‍👧‍👧",
+    "prefix": "ji:man-man-girl-girl",
+    "description": "👨‍👨‍👧‍👧"
+  },
+  "👩‍👩‍👦": {
+    "body": "👩‍👩‍👦",
+    "prefix": "ji:woman-woman-boy",
+    "description": "👩‍👩‍👦"
+  },
+  "👩‍👩‍👧": {
+    "body": "👩‍👩‍👧",
+    "prefix": "ji:woman-woman-girl",
+    "description": "👩‍👩‍👧"
+  },
+  "👩‍👩‍👧‍👦": {
+    "body": "👩‍👩‍👧‍👦",
+    "prefix": "ji:woman-woman-girl-boy",
+    "description": "👩‍👩‍👧‍👦"
+  },
+  "👩‍👩‍👦‍👦": {
+    "body": "👩‍👩‍👦‍👦",
+    "prefix": "ji:woman-woman-boy-boy",
+    "description": "👩‍👩‍👦‍👦"
+  },
+  "👩‍👩‍👧‍👧": {
+    "body": "👩‍👩‍👧‍👧",
+    "prefix": "ji:woman-woman-girl-girl",
+    "description": "👩‍👩‍👧‍👧"
+  },
+  "👨‍👦": {
+    "body": "👨‍👦",
+    "prefix": "ji:man-boy",
+    "description": "👨‍👦"
+  },
+  "👨‍👦‍👦": {
+    "body": "👨‍👦‍👦",
+    "prefix": "ji:man-boy-boy",
+    "description": "👨‍👦‍👦"
+  },
+  "👨‍👧": {
+    "body": "👨‍👧",
+    "prefix": "ji:man-girl",
+    "description": "👨‍👧"
+  },
+  "👨‍👧‍👦": {
+    "body": "👨‍👧‍👦",
+    "prefix": "ji:man-girl-boy",
+    "description": "👨‍👧‍👦"
+  },
+  "👨‍👧‍👧": {
+    "body": "👨‍👧‍👧",
+    "prefix": "ji:man-girl-girl",
+    "description": "👨‍👧‍👧"
+  },
+  "👩‍👦": {
+    "body": "👩‍👦",
+    "prefix": "ji:woman-boy",
+    "description": "👩‍👦"
+  },
+  "👩‍👦‍👦": {
+    "body": "👩‍👦‍👦",
+    "prefix": "ji:woman-boy-boy",
+    "description": "👩‍👦‍👦"
+  },
+  "👩‍👧": {
+    "body": "👩‍👧",
+    "prefix": "ji:woman-girl",
+    "description": "👩‍👧"
+  },
+  "👩‍👧‍👦": {
+    "body": "👩‍👧‍👦",
+    "prefix": "ji:woman-girl-boy",
+    "description": "👩‍👧‍👦"
+  },
+  "👩‍👧‍👧": {
+    "body": "👩‍👧‍👧",
+    "prefix": "ji:woman-girl-girl",
+    "description": "👩‍👧‍👧"
+  },
+  "🤳": {
+    "body": "🤳",
+    "prefix": "ji:selfie",
+    "description": "🤳"
+  },
+  "💪": {
+    "body": "💪",
+    "prefix": "ji:flexed-biceps",
+    "description": "💪"
+  },
+  "🦵": {
+    "body": "🦵",
+    "prefix": "ji:leg",
+    "description": "🦵"
+  },
+  "🦶": {
+    "body": "🦶",
+    "prefix": "ji:foot",
+    "description": "🦶"
+  },
+  "👈️": {
+    "body": "👈️",
+    "prefix": "ji:white-left-pointing-backhand-index",
+    "description": "👈️"
+  },
+  "👉️": {
+    "body": "👉️",
+    "prefix": "ji:white-right-pointing-backhand-index",
+    "description": "👉️"
+  },
+  "☝️": {
+    "body": "☝️",
+    "prefix": "ji:white-up-pointing-index",
+    "description": "☝️"
+  },
+  "👆️": {
+    "body": "👆️",
+    "prefix": "ji:white-up-pointing-backhand-index",
+    "description": "👆️"
+  },
+  "🖕": {
+    "body": "🖕",
+    "prefix": "ji:reversed-hand-with-middle-finger-extended",
+    "description": "🖕"
+  },
+  "👇️": {
+    "body": "👇️",
+    "prefix": "ji:white-down-pointing-backhand-index",
+    "description": "👇️"
+  },
+  "✌️": {
+    "body": "✌️",
+    "prefix": "ji:victory-hand",
+    "description": "✌️"
+  },
+  "🤞": {
+    "body": "🤞",
+    "prefix": "ji:hand-with-index-and-middle-fingers-crossed",
+    "description": "🤞"
+  },
+  "🖖": {
+    "body": "🖖",
+    "prefix": "ji:raised-hand-with-part-between-middle-and-ring-fingers",
+    "description": "🖖"
+  },
+  "🤘": {
+    "body": "🤘",
+    "prefix": "ji:sign-of-the-horns",
+    "description": "🤘"
+  },
+  "🤙": {
+    "body": "🤙",
+    "prefix": "ji:call-me-hand",
+    "description": "🤙"
+  },
+  "🖐️": {
+    "body": "🖐️",
+    "prefix": "ji:raised-hand-with-fingers-splayed",
+    "description": "🖐️"
+  },
+  "✋": {
+    "body": "✋",
+    "prefix": "ji:raised-hand",
+    "description": "✋"
+  },
+  "👌": {
+    "body": "👌",
+    "prefix": "ji:ok-hand-sign",
+    "description": "👌"
+  },
+  "👍️": {
+    "body": "👍️",
+    "prefix": "ji:thumbs-up-sign",
+    "description": "👍️"
+  },
+  "👎️": {
+    "body": "👎️",
+    "prefix": "ji:thumbs-down-sign",
+    "description": "👎️"
+  },
+  "✊": {
+    "body": "✊",
+    "prefix": "ji:raised-fist",
+    "description": "✊"
+  },
+  "👊": {
+    "body": "👊",
+    "prefix": "ji:fisted-hand-sign",
+    "description": "👊"
+  },
+  "🤛": {
+    "body": "🤛",
+    "prefix": "ji:left-facing-fist",
+    "description": "🤛"
+  },
+  "🤜": {
+    "body": "🤜",
+    "prefix": "ji:right-facing-fist",
+    "description": "🤜"
+  },
+  "🤚": {
+    "body": "🤚",
+    "prefix": "ji:raised-back-of-hand",
+    "description": "🤚"
+  },
+  "👋": {
+    "body": "👋",
+    "prefix": "ji:waving-hand-sign",
+    "description": "👋"
+  },
+  "🤟": {
+    "body": "🤟",
+    "prefix": "ji:i-love-you-hand-sign",
+    "description": "🤟"
+  },
+  "✍️": {
+    "body": "✍️",
+    "prefix": "ji:writing-hand",
+    "description": "✍️"
+  },
+  "👏": {
+    "body": "👏",
+    "prefix": "ji:clapping-hands-sign",
+    "description": "👏"
+  },
+  "👐": {
+    "body": "👐",
+    "prefix": "ji:open-hands-sign",
+    "description": "👐"
+  },
+  "🙌": {
+    "body": "🙌",
+    "prefix": "ji:person-raising-both-hands-in-celebration",
+    "description": "🙌"
+  },
+  "🤲": {
+    "body": "🤲",
+    "prefix": "ji:palms-up-together",
+    "description": "🤲"
+  },
+  "🙏": {
+    "body": "🙏",
+    "prefix": "ji:person-with-folded-hands",
+    "description": "🙏"
+  },
+  "🤝": {
+    "body": "🤝",
+    "prefix": "ji:handshake",
+    "description": "🤝"
+  },
+  "💅": {
+    "body": "💅",
+    "prefix": "ji:nail-polish",
+    "description": "💅"
+  },
+  "👂️": {
+    "body": "👂️",
+    "prefix": "ji:ear",
+    "description": "👂️"
+  },
+  "👃": {
+    "body": "👃",
+    "prefix": "ji:nose",
+    "description": "👃"
+  },
+  "👣": {
+    "body": "👣",
+    "prefix": "ji:footprints",
+    "description": "👣"
+  },
+  "👀": {
+    "body": "👀",
+    "prefix": "ji:eyes",
+    "description": "👀"
+  },
+  "👁️": {
+    "body": "👁️",
+    "prefix": "ji:eye",
+    "description": "👁️"
+  },
+  "👁️‍🗨️": {
+    "body": "👁️‍🗨️",
+    "prefix": "ji:eye-left-speech-bubble",
+    "description": "👁️‍🗨️"
+  },
+  "🧠": {
+    "body": "🧠",
+    "prefix": "ji:brain",
+    "description": "🧠"
+  },
+  "🦴": {
+    "body": "🦴",
+    "prefix": "ji:bone",
+    "description": "🦴"
+  },
+  "🦷": {
+    "body": "🦷",
+    "prefix": "ji:tooth",
+    "description": "🦷"
+  },
+  "👅": {
+    "body": "👅",
+    "prefix": "ji:tongue",
+    "description": "👅"
+  },
+  "👄": {
+    "body": "👄",
+    "prefix": "ji:mouth",
+    "description": "👄"
+  },
+  "💋": {
+    "body": "💋",
+    "prefix": "ji:kiss-mark",
+    "description": "💋"
+  },
+  "💘": {
+    "body": "💘",
+    "prefix": "ji:heart-with-arrow",
+    "description": "💘"
+  },
+  "❤️": {
+    "body": "❤️",
+    "prefix": "ji:heavy-black-heart",
+    "description": "❤️"
+  },
+  "💓": {
+    "body": "💓",
+    "prefix": "ji:beating-heart",
+    "description": "💓"
+  },
+  "💔": {
+    "body": "💔",
+    "prefix": "ji:broken-heart",
+    "description": "💔"
+  },
+  "💕": {
+    "body": "💕",
+    "prefix": "ji:two-hearts",
+    "description": "💕"
+  },
+  "💖": {
+    "body": "💖",
+    "prefix": "ji:sparkling-heart",
+    "description": "💖"
+  },
+  "💗": {
+    "body": "💗",
+    "prefix": "ji:growing-heart",
+    "description": "💗"
+  },
+  "💙": {
+    "body": "💙",
+    "prefix": "ji:blue-heart",
+    "description": "💙"
+  },
+  "💚": {
+    "body": "💚",
+    "prefix": "ji:green-heart",
+    "description": "💚"
+  },
+  "💛": {
+    "body": "💛",
+    "prefix": "ji:yellow-heart",
+    "description": "💛"
+  },
+  "🧡": {
+    "body": "🧡",
+    "prefix": "ji:orange-heart",
+    "description": "🧡"
+  },
+  "💜": {
+    "body": "💜",
+    "prefix": "ji:purple-heart",
+    "description": "💜"
+  },
+  "🖤": {
+    "body": "🖤",
+    "prefix": "ji:black-heart",
+    "description": "🖤"
+  },
+  "💝": {
+    "body": "💝",
+    "prefix": "ji:heart-with-ribbon",
+    "description": "💝"
+  },
+  "💞": {
+    "body": "💞",
+    "prefix": "ji:revolving-hearts",
+    "description": "💞"
+  },
+  "💟": {
+    "body": "💟",
+    "prefix": "ji:heart-decoration",
+    "description": "💟"
+  },
+  "❣️": {
+    "body": "❣️",
+    "prefix": "ji:heavy-heart-exclamation-mark-ornament",
+    "description": "❣️"
+  },
+  "💌": {
+    "body": "💌",
+    "prefix": "ji:love-letter",
+    "description": "💌"
+  },
+  "💤": {
+    "body": "💤",
+    "prefix": "ji:sleeping-symbol",
+    "description": "💤"
+  },
+  "💢": {
+    "body": "💢",
+    "prefix": "ji:anger-symbol",
+    "description": "💢"
+  },
+  "💣️": {
+    "body": "💣️",
+    "prefix": "ji:bomb",
+    "description": "💣️"
+  },
+  "💥": {
+    "body": "💥",
+    "prefix": "ji:collision-symbol",
+    "description": "💥"
+  },
+  "💦": {
+    "body": "💦",
+    "prefix": "ji:splashing-sweat-symbol",
+    "description": "💦"
+  },
+  "💨": {
+    "body": "💨",
+    "prefix": "ji:dash-symbol",
+    "description": "💨"
+  },
+  "💫": {
+    "body": "💫",
+    "prefix": "ji:dizzy-symbol",
+    "description": "💫"
+  },
+  "💬": {
+    "body": "💬",
+    "prefix": "ji:speech-balloon",
+    "description": "💬"
+  },
+  "🗨️": {
+    "body": "🗨️",
+    "prefix": "ji:left-speech-bubble",
+    "description": "🗨️"
+  },
+  "🗯️": {
+    "body": "🗯️",
+    "prefix": "ji:right-anger-bubble",
+    "description": "🗯️"
+  },
+  "💭": {
+    "body": "💭",
+    "prefix": "ji:thought-balloon",
+    "description": "💭"
+  },
+  "🕳️": {
+    "body": "🕳️",
+    "prefix": "ji:hole",
+    "description": "🕳️"
+  },
+  "👓️": {
+    "body": "👓️",
+    "prefix": "ji:eyeglasses",
+    "description": "👓️"
+  },
+  "🕶️": {
+    "body": "🕶️",
+    "prefix": "ji:dark-sunglasses",
+    "description": "🕶️"
+  },
+  "🥽": {
+    "body": "🥽",
+    "prefix": "ji:goggles",
+    "description": "🥽"
+  },
+  "🥼": {
+    "body": "🥼",
+    "prefix": "ji:lab-coat",
+    "description": "🥼"
+  },
+  "👔": {
+    "body": "👔",
+    "prefix": "ji:necktie",
+    "description": "👔"
+  },
+  "👕": {
+    "body": "👕",
+    "prefix": "ji:t-shirt",
+    "description": "👕"
+  },
+  "👖": {
+    "body": "👖",
+    "prefix": "ji:jeans",
+    "description": "👖"
+  },
+  "🧣": {
+    "body": "🧣",
+    "prefix": "ji:scarf",
+    "description": "🧣"
+  },
+  "🧤": {
+    "body": "🧤",
+    "prefix": "ji:gloves",
+    "description": "🧤"
+  },
+  "🧥": {
+    "body": "🧥",
+    "prefix": "ji:coat",
+    "description": "🧥"
+  },
+  "🧦": {
+    "body": "🧦",
+    "prefix": "ji:socks",
+    "description": "🧦"
+  },
+  "👗": {
+    "body": "👗",
+    "prefix": "ji:dress",
+    "description": "👗"
+  },
+  "👘": {
+    "body": "👘",
+    "prefix": "ji:kimono",
+    "description": "👘"
+  },
+  "👙": {
+    "body": "👙",
+    "prefix": "ji:bikini",
+    "description": "👙"
+  },
+  "👚": {
+    "body": "👚",
+    "prefix": "ji:womans-clothes",
+    "description": "👚"
+  },
+  "👛": {
+    "body": "👛",
+    "prefix": "ji:purse",
+    "description": "👛"
+  },
+  "👜": {
+    "body": "👜",
+    "prefix": "ji:handbag",
+    "description": "👜"
+  },
+  "👝": {
+    "body": "👝",
+    "prefix": "ji:pouch",
+    "description": "👝"
+  },
+  "🛍️": {
+    "body": "🛍️",
+    "prefix": "ji:shopping-bags",
+    "description": "🛍️"
+  },
+  "🎒": {
+    "body": "🎒",
+    "prefix": "ji:school-satchel",
+    "description": "🎒"
+  },
+  "👞": {
+    "body": "👞",
+    "prefix": "ji:mans-shoe",
+    "description": "👞"
+  },
+  "👟": {
+    "body": "👟",
+    "prefix": "ji:athletic-shoe",
+    "description": "👟"
+  },
+  "🥾": {
+    "body": "🥾",
+    "prefix": "ji:hiking-boot",
+    "description": "🥾"
+  },
+  "🥿": {
+    "body": "🥿",
+    "prefix": "ji:flat-shoe",
+    "description": "🥿"
+  },
+  "👠": {
+    "body": "👠",
+    "prefix": "ji:high-heeled-shoe",
+    "description": "👠"
+  },
+  "👡": {
+    "body": "👡",
+    "prefix": "ji:womans-sandal",
+    "description": "👡"
+  },
+  "👢": {
+    "body": "👢",
+    "prefix": "ji:womans-boots",
+    "description": "👢"
+  },
+  "👑": {
+    "body": "👑",
+    "prefix": "ji:crown",
+    "description": "👑"
+  },
+  "👒": {
+    "body": "👒",
+    "prefix": "ji:womans-hat",
+    "description": "👒"
+  },
+  "🎩": {
+    "body": "🎩",
+    "prefix": "ji:top-hat",
+    "description": "🎩"
+  },
+  "🎓️": {
+    "body": "🎓️",
+    "prefix": "ji:graduation-cap",
+    "description": "🎓️"
+  },
+  "🧢": {
+    "body": "🧢",
+    "prefix": "ji:billed-cap",
+    "description": "🧢"
+  },
+  "⛑️": {
+    "body": "⛑️",
+    "prefix": "ji:helmet-with-white-cross",
+    "description": "⛑️"
+  },
+  "📿": {
+    "body": "📿",
+    "prefix": "ji:prayer-beads",
+    "description": "📿"
+  },
+  "💄": {
+    "body": "💄",
+    "prefix": "ji:lipstick",
+    "description": "💄"
+  },
+  "💍": {
+    "body": "💍",
+    "prefix": "ji:ring",
+    "description": "💍"
+  },
+  "💎": {
+    "body": "💎",
+    "prefix": "ji:gem-stone",
+    "description": "💎"
+  },
+  "🐵": {
+    "body": "🐵",
+    "prefix": "ji:monkey-face",
+    "description": "🐵"
+  },
+  "🐒": {
+    "body": "🐒",
+    "prefix": "ji:monkey",
+    "description": "🐒"
+  },
+  "🦍": {
+    "body": "🦍",
+    "prefix": "ji:gorilla",
+    "description": "🦍"
+  },
+  "🐶": {
+    "body": "🐶",
+    "prefix": "ji:dog-face",
+    "description": "🐶"
+  },
+  "🐕️": {
+    "body": "🐕️",
+    "prefix": "ji:dog",
+    "description": "🐕️"
+  },
+  "🐩": {
+    "body": "🐩",
+    "prefix": "ji:poodle",
+    "description": "🐩"
+  },
+  "🐺": {
+    "body": "🐺",
+    "prefix": "ji:wolf-face",
+    "description": "🐺"
+  },
+  "🦊": {
+    "body": "🦊",
+    "prefix": "ji:fox-face",
+    "description": "🦊"
+  },
+  "🦝": {
+    "body": "🦝",
+    "prefix": "ji:raccoon",
+    "description": "🦝"
+  },
+  "🐱": {
+    "body": "🐱",
+    "prefix": "ji:cat-face",
+    "description": "🐱"
+  },
+  "🐈️": {
+    "body": "🐈️",
+    "prefix": "ji:cat",
+    "description": "🐈️"
+  },
+  "🦁": {
+    "body": "🦁",
+    "prefix": "ji:lion-face",
+    "description": "🦁"
+  },
+  "🐯": {
+    "body": "🐯",
+    "prefix": "ji:tiger-face",
+    "description": "🐯"
+  },
+  "🐅": {
+    "body": "🐅",
+    "prefix": "ji:tiger",
+    "description": "🐅"
+  },
+  "🐆": {
+    "body": "🐆",
+    "prefix": "ji:leopard",
+    "description": "🐆"
+  },
+  "🐴": {
+    "body": "🐴",
+    "prefix": "ji:horse-face",
+    "description": "🐴"
+  },
+  "🐎": {
+    "body": "🐎",
+    "prefix": "ji:horse",
+    "description": "🐎"
+  },
+  "🦄": {
+    "body": "🦄",
+    "prefix": "ji:unicorn-face",
+    "description": "🦄"
+  },
+  "🦓": {
+    "body": "🦓",
+    "prefix": "ji:zebra-face",
+    "description": "🦓"
+  },
+  "🦌": {
+    "body": "🦌",
+    "prefix": "ji:deer",
+    "description": "🦌"
+  },
+  "🐮": {
+    "body": "🐮",
+    "prefix": "ji:cow-face",
+    "description": "🐮"
+  },
+  "🐂": {
+    "body": "🐂",
+    "prefix": "ji:ox",
+    "description": "🐂"
+  },
+  "🐃": {
+    "body": "🐃",
+    "prefix": "ji:water-buffalo",
+    "description": "🐃"
+  },
+  "🐄": {
+    "body": "🐄",
+    "prefix": "ji:cow",
+    "description": "🐄"
+  },
+  "🐷": {
+    "body": "🐷",
+    "prefix": "ji:pig-face",
+    "description": "🐷"
+  },
+  "🐖": {
+    "body": "🐖",
+    "prefix": "ji:pig",
+    "description": "🐖"
+  },
+  "🐗": {
+    "body": "🐗",
+    "prefix": "ji:boar",
+    "description": "🐗"
+  },
+  "🐽": {
+    "body": "🐽",
+    "prefix": "ji:pig-nose",
+    "description": "🐽"
+  },
+  "🐏": {
+    "body": "🐏",
+    "prefix": "ji:ram",
+    "description": "🐏"
+  },
+  "🐑": {
+    "body": "🐑",
+    "prefix": "ji:sheep",
+    "description": "🐑"
+  },
+  "🐐": {
+    "body": "🐐",
+    "prefix": "ji:goat",
+    "description": "🐐"
+  },
+  "🐪": {
+    "body": "🐪",
+    "prefix": "ji:dromedary-camel",
+    "description": "🐪"
+  },
+  "🐫": {
+    "body": "🐫",
+    "prefix": "ji:bactrian-camel",
+    "description": "🐫"
+  },
+  "🦙": {
+    "body": "🦙",
+    "prefix": "ji:llama",
+    "description": "🦙"
+  },
+  "🦒": {
+    "body": "🦒",
+    "prefix": "ji:giraffe-face",
+    "description": "🦒"
+  },
+  "🐘": {
+    "body": "🐘",
+    "prefix": "ji:elephant",
+    "description": "🐘"
+  },
+  "🦏": {
+    "body": "🦏",
+    "prefix": "ji:rhinoceros",
+    "description": "🦏"
+  },
+  "🦛": {
+    "body": "🦛",
+    "prefix": "ji:hippopotamus",
+    "description": "🦛"
+  },
+  "🐭": {
+    "body": "🐭",
+    "prefix": "ji:mouse-face",
+    "description": "🐭"
+  },
+  "🐁": {
+    "body": "🐁",
+    "prefix": "ji:mouse",
+    "description": "🐁"
+  },
+  "🐀": {
+    "body": "🐀",
+    "prefix": "ji:rat",
+    "description": "🐀"
+  },
+  "🐹": {
+    "body": "🐹",
+    "prefix": "ji:hamster-face",
+    "description": "🐹"
+  },
+  "🐰": {
+    "body": "🐰",
+    "prefix": "ji:rabbit-face",
+    "description": "🐰"
+  },
+  "🐇": {
+    "body": "🐇",
+    "prefix": "ji:rabbit",
+    "description": "🐇"
+  },
+  "🐿️": {
+    "body": "🐿️",
+    "prefix": "ji:chipmunk",
+    "description": "🐿️"
+  },
+  "🦔": {
+    "body": "🦔",
+    "prefix": "ji:hedgehog",
+    "description": "🦔"
+  },
+  "🦇": {
+    "body": "🦇",
+    "prefix": "ji:bat",
+    "description": "🦇"
+  },
+  "🐻": {
+    "body": "🐻",
+    "prefix": "ji:bear-face",
+    "description": "🐻"
+  },
+  "🐨": {
+    "body": "🐨",
+    "prefix": "ji:koala",
+    "description": "🐨"
+  },
+  "🐼": {
+    "body": "🐼",
+    "prefix": "ji:panda-face",
+    "description": "🐼"
+  },
+  "🦘": {
+    "body": "🦘",
+    "prefix": "ji:kangaroo",
+    "description": "🦘"
+  },
+  "🦡": {
+    "body": "🦡",
+    "prefix": "ji:badger",
+    "description": "🦡"
+  },
+  "🐾": {
+    "body": "🐾",
+    "prefix": "ji:paw-prints",
+    "description": "🐾"
+  },
+  "🦃": {
+    "body": "🦃",
+    "prefix": "ji:turkey",
+    "description": "🦃"
+  },
+  "🐔": {
+    "body": "🐔",
+    "prefix": "ji:chicken",
+    "description": "🐔"
+  },
+  "🐓": {
+    "body": "🐓",
+    "prefix": "ji:rooster",
+    "description": "🐓"
+  },
+  "🐣": {
+    "body": "🐣",
+    "prefix": "ji:hatching-chick",
+    "description": "🐣"
+  },
+  "🐤": {
+    "body": "🐤",
+    "prefix": "ji:baby-chick",
+    "description": "🐤"
+  },
+  "🐥": {
+    "body": "🐥",
+    "prefix": "ji:front-facing-baby-chick",
+    "description": "🐥"
+  },
+  "🐦️": {
+    "body": "🐦️",
+    "prefix": "ji:bird",
+    "description": "🐦️"
+  },
+  "🐧": {
+    "body": "🐧",
+    "prefix": "ji:penguin",
+    "description": "🐧"
+  },
+  "🕊️": {
+    "body": "🕊️",
+    "prefix": "ji:dove-of-peace",
+    "description": "🕊️"
+  },
+  "🦅": {
+    "body": "🦅",
+    "prefix": "ji:eagle",
+    "description": "🦅"
+  },
+  "🦆": {
+    "body": "🦆",
+    "prefix": "ji:duck",
+    "description": "🦆"
+  },
+  "🦢": {
+    "body": "🦢",
+    "prefix": "ji:swan",
+    "description": "🦢"
+  },
+  "🦉": {
+    "body": "🦉",
+    "prefix": "ji:owl",
+    "description": "🦉"
+  },
+  "🦚": {
+    "body": "🦚",
+    "prefix": "ji:peacock",
+    "description": "🦚"
+  },
+  "🦜": {
+    "body": "🦜",
+    "prefix": "ji:parrot",
+    "description": "🦜"
+  },
+  "🐸": {
+    "body": "🐸",
+    "prefix": "ji:frog-face",
+    "description": "🐸"
+  },
+  "🐊": {
+    "body": "🐊",
+    "prefix": "ji:crocodile",
+    "description": "🐊"
+  },
+  "🐢": {
+    "body": "🐢",
+    "prefix": "ji:turtle",
+    "description": "🐢"
+  },
+  "🦎": {
+    "body": "🦎",
+    "prefix": "ji:lizard",
+    "description": "🦎"
+  },
+  "🐍": {
+    "body": "🐍",
+    "prefix": "ji:snake",
+    "description": "🐍"
+  },
+  "🐲": {
+    "body": "🐲",
+    "prefix": "ji:dragon-face",
+    "description": "🐲"
+  },
+  "🐉": {
+    "body": "🐉",
+    "prefix": "ji:dragon",
+    "description": "🐉"
+  },
+  "🦕": {
+    "body": "🦕",
+    "prefix": "ji:sauropod",
+    "description": "🦕"
+  },
+  "🦖": {
+    "body": "🦖",
+    "prefix": "ji:t-rex",
+    "description": "🦖"
+  },
+  "🐳": {
+    "body": "🐳",
+    "prefix": "ji:spouting-whale",
+    "description": "🐳"
+  },
+  "🐋": {
+    "body": "🐋",
+    "prefix": "ji:whale",
+    "description": "🐋"
+  },
+  "🐬": {
+    "body": "🐬",
+    "prefix": "ji:dolphin",
+    "description": "🐬"
+  },
+  "🐟️": {
+    "body": "🐟️",
+    "prefix": "ji:fish",
+    "description": "🐟️"
+  },
+  "🐠": {
+    "body": "🐠",
+    "prefix": "ji:tropical-fish",
+    "description": "🐠"
+  },
+  "🐡": {
+    "body": "🐡",
+    "prefix": "ji:blowfish",
+    "description": "🐡"
+  },
+  "🦈": {
+    "body": "🦈",
+    "prefix": "ji:shark",
+    "description": "🦈"
+  },
+  "🐙": {
+    "body": "🐙",
+    "prefix": "ji:octopus",
+    "description": "🐙"
+  },
+  "🐚": {
+    "body": "🐚",
+    "prefix": "ji:spiral-shell",
+    "description": "🐚"
+  },
+  "🦀": {
+    "body": "🦀",
+    "prefix": "ji:crab",
+    "description": "🦀"
+  },
+  "🦞": {
+    "body": "🦞",
+    "prefix": "ji:lobster",
+    "description": "🦞"
+  },
+  "🦐": {
+    "body": "🦐",
+    "prefix": "ji:shrimp",
+    "description": "🦐"
+  },
+  "🦑": {
+    "body": "🦑",
+    "prefix": "ji:squid",
+    "description": "🦑"
+  },
+  "🐌": {
+    "body": "🐌",
+    "prefix": "ji:snail",
+    "description": "🐌"
+  },
+  "🦋": {
+    "body": "🦋",
+    "prefix": "ji:butterfly",
+    "description": "🦋"
+  },
+  "🐛": {
+    "body": "🐛",
+    "prefix": "ji:bug",
+    "description": "🐛"
+  },
+  "🐜": {
+    "body": "🐜",
+    "prefix": "ji:ant",
+    "description": "🐜"
+  },
+  "🐝": {
+    "body": "🐝",
+    "prefix": "ji:honeybee",
+    "description": "🐝"
+  },
+  "🐞": {
+    "body": "🐞",
+    "prefix": "ji:lady-beetle",
+    "description": "🐞"
+  },
+  "🦗": {
+    "body": "🦗",
+    "prefix": "ji:cricket",
+    "description": "🦗"
+  },
+  "🕷️": {
+    "body": "🕷️",
+    "prefix": "ji:spider",
+    "description": "🕷️"
+  },
+  "🕸️": {
+    "body": "🕸️",
+    "prefix": "ji:spider-web",
+    "description": "🕸️"
+  },
+  "🦂": {
+    "body": "🦂",
+    "prefix": "ji:scorpion",
+    "description": "🦂"
+  },
+  "🦟": {
+    "body": "🦟",
+    "prefix": "ji:mosquito",
+    "description": "🦟"
+  },
+  "🦠": {
+    "body": "🦠",
+    "prefix": "ji:microbe",
+    "description": "🦠"
+  },
+  "💐": {
+    "body": "💐",
+    "prefix": "ji:bouquet",
+    "description": "💐"
+  },
+  "🌸": {
+    "body": "🌸",
+    "prefix": "ji:cherry-blossom",
+    "description": "🌸"
+  },
+  "💮": {
+    "body": "💮",
+    "prefix": "ji:white-flower",
+    "description": "💮"
+  },
+  "🏵️": {
+    "body": "🏵️",
+    "prefix": "ji:rosette",
+    "description": "🏵️"
+  },
+  "🌹": {
+    "body": "🌹",
+    "prefix": "ji:rose",
+    "description": "🌹"
+  },
+  "🥀": {
+    "body": "🥀",
+    "prefix": "ji:wilted-flower",
+    "description": "🥀"
+  },
+  "🌺": {
+    "body": "🌺",
+    "prefix": "ji:hibiscus",
+    "description": "🌺"
+  },
+  "🌻": {
+    "body": "🌻",
+    "prefix": "ji:sunflower",
+    "description": "🌻"
+  },
+  "🌼": {
+    "body": "🌼",
+    "prefix": "ji:blossom",
+    "description": "🌼"
+  },
+  "🌷": {
+    "body": "🌷",
+    "prefix": "ji:tulip",
+    "description": "🌷"
+  },
+  "🌱": {
+    "body": "🌱",
+    "prefix": "ji:seedling",
+    "description": "🌱"
+  },
+  "🌲": {
+    "body": "🌲",
+    "prefix": "ji:evergreen-tree",
+    "description": "🌲"
+  },
+  "🌳": {
+    "body": "🌳",
+    "prefix": "ji:deciduous-tree",
+    "description": "🌳"
+  },
+  "🌴": {
+    "body": "🌴",
+    "prefix": "ji:palm-tree",
+    "description": "🌴"
+  },
+  "🌵": {
+    "body": "🌵",
+    "prefix": "ji:cactus",
+    "description": "🌵"
+  },
+  "🌾": {
+    "body": "🌾",
+    "prefix": "ji:ear-of-rice",
+    "description": "🌾"
+  },
+  "🌿": {
+    "body": "🌿",
+    "prefix": "ji:herb",
+    "description": "🌿"
+  },
+  "☘️": {
+    "body": "☘️",
+    "prefix": "ji:shamrock",
+    "description": "☘️"
+  },
+  "🍀": {
+    "body": "🍀",
+    "prefix": "ji:four-leaf-clover",
+    "description": "🍀"
+  },
+  "🍁": {
+    "body": "🍁",
+    "prefix": "ji:maple-leaf",
+    "description": "🍁"
+  },
+  "🍂": {
+    "body": "🍂",
+    "prefix": "ji:fallen-leaf",
+    "description": "🍂"
+  },
+  "🍃": {
+    "body": "🍃",
+    "prefix": "ji:leaf-fluttering-in-wind",
+    "description": "🍃"
+  },
+  "🍇": {
+    "body": "🍇",
+    "prefix": "ji:grapes",
+    "description": "🍇"
+  },
+  "🍈": {
+    "body": "🍈",
+    "prefix": "ji:melon",
+    "description": "🍈"
+  },
+  "🍉": {
+    "body": "🍉",
+    "prefix": "ji:watermelon",
+    "description": "🍉"
+  },
+  "🍊": {
+    "body": "🍊",
+    "prefix": "ji:tangerine",
+    "description": "🍊"
+  },
+  "🍋": {
+    "body": "🍋",
+    "prefix": "ji:lemon",
+    "description": "🍋"
+  },
+  "🍌": {
+    "body": "🍌",
+    "prefix": "ji:banana",
+    "description": "🍌"
+  },
+  "🍍": {
+    "body": "🍍",
+    "prefix": "ji:pineapple",
+    "description": "🍍"
+  },
+  "🥭": {
+    "body": "🥭",
+    "prefix": "ji:mango",
+    "description": "🥭"
+  },
+  "🍎": {
+    "body": "🍎",
+    "prefix": "ji:red-apple",
+    "description": "🍎"
+  },
+  "🍏": {
+    "body": "🍏",
+    "prefix": "ji:green-apple",
+    "description": "🍏"
+  },
+  "🍐": {
+    "body": "🍐",
+    "prefix": "ji:pear",
+    "description": "🍐"
+  },
+  "🍑": {
+    "body": "🍑",
+    "prefix": "ji:peach",
+    "description": "🍑"
+  },
+  "🍒": {
+    "body": "🍒",
+    "prefix": "ji:cherries",
+    "description": "🍒"
+  },
+  "🍓": {
+    "body": "🍓",
+    "prefix": "ji:strawberry",
+    "description": "🍓"
+  },
+  "🥝": {
+    "body": "🥝",
+    "prefix": "ji:kiwifruit",
+    "description": "🥝"
+  },
+  "🍅": {
+    "body": "🍅",
+    "prefix": "ji:tomato",
+    "description": "🍅"
+  },
+  "🥥": {
+    "body": "🥥",
+    "prefix": "ji:coconut",
+    "description": "🥥"
+  },
+  "🥑": {
+    "body": "🥑",
+    "prefix": "ji:avocado",
+    "description": "🥑"
+  },
+  "🍆": {
+    "body": "🍆",
+    "prefix": "ji:aubergine",
+    "description": "🍆"
+  },
+  "🥔": {
+    "body": "🥔",
+    "prefix": "ji:potato",
+    "description": "🥔"
+  },
+  "🥕": {
+    "body": "🥕",
+    "prefix": "ji:carrot",
+    "description": "🥕"
+  },
+  "🌽": {
+    "body": "🌽",
+    "prefix": "ji:ear-of-maize",
+    "description": "🌽"
+  },
+  "🌶️": {
+    "body": "🌶️",
+    "prefix": "ji:hot-pepper",
+    "description": "🌶️"
+  },
+  "🥒": {
+    "body": "🥒",
+    "prefix": "ji:cucumber",
+    "description": "🥒"
+  },
+  "🥬": {
+    "body": "🥬",
+    "prefix": "ji:leafy-green",
+    "description": "🥬"
+  },
+  "🥦": {
+    "body": "🥦",
+    "prefix": "ji:broccoli",
+    "description": "🥦"
+  },
+  "🍄": {
+    "body": "🍄",
+    "prefix": "ji:mushroom",
+    "description": "🍄"
+  },
+  "🥜": {
+    "body": "🥜",
+    "prefix": "ji:peanuts",
+    "description": "🥜"
+  },
+  "🌰": {
+    "body": "🌰",
+    "prefix": "ji:chestnut",
+    "description": "🌰"
+  },
+  "🍞": {
+    "body": "🍞",
+    "prefix": "ji:bread",
+    "description": "🍞"
+  },
+  "🥐": {
+    "body": "🥐",
+    "prefix": "ji:croissant",
+    "description": "🥐"
+  },
+  "🥖": {
+    "body": "🥖",
+    "prefix": "ji:baguette-bread",
+    "description": "🥖"
+  },
+  "🥨": {
+    "body": "🥨",
+    "prefix": "ji:pretzel",
+    "description": "🥨"
+  },
+  "🥯": {
+    "body": "🥯",
+    "prefix": "ji:bagel",
+    "description": "🥯"
+  },
+  "🥞": {
+    "body": "🥞",
+    "prefix": "ji:pancakes",
+    "description": "🥞"
+  },
+  "🧀": {
+    "body": "🧀",
+    "prefix": "ji:cheese-wedge",
+    "description": "🧀"
+  },
+  "🍖": {
+    "body": "🍖",
+    "prefix": "ji:meat-on-bone",
+    "description": "🍖"
+  },
+  "🍗": {
+    "body": "🍗",
+    "prefix": "ji:poultry-leg",
+    "description": "🍗"
+  },
+  "🥩": {
+    "body": "🥩",
+    "prefix": "ji:cut-of-meat",
+    "description": "🥩"
+  },
+  "🥓": {
+    "body": "🥓",
+    "prefix": "ji:bacon",
+    "description": "🥓"
+  },
+  "🍔": {
+    "body": "🍔",
+    "prefix": "ji:hamburger",
+    "description": "🍔"
+  },
+  "🍟": {
+    "body": "🍟",
+    "prefix": "ji:french-fries",
+    "description": "🍟"
+  },
+  "🍕": {
+    "body": "🍕",
+    "prefix": "ji:slice-of-pizza",
+    "description": "🍕"
+  },
+  "🌭": {
+    "body": "🌭",
+    "prefix": "ji:hot-dog",
+    "description": "🌭"
+  },
+  "🥪": {
+    "body": "🥪",
+    "prefix": "ji:sandwich",
+    "description": "🥪"
+  },
+  "🌮": {
+    "body": "🌮",
+    "prefix": "ji:taco",
+    "description": "🌮"
+  },
+  "🌯": {
+    "body": "🌯",
+    "prefix": "ji:burrito",
+    "description": "🌯"
+  },
+  "🥙": {
+    "body": "🥙",
+    "prefix": "ji:stuffed-flatbread",
+    "description": "🥙"
+  },
+  "🥚": {
+    "body": "🥚",
+    "prefix": "ji:egg",
+    "description": "🥚"
+  },
+  "🍳": {
+    "body": "🍳",
+    "prefix": "ji:cooking",
+    "description": "🍳"
+  },
+  "🥘": {
+    "body": "🥘",
+    "prefix": "ji:shallow-pan-of-food",
+    "description": "🥘"
+  },
+  "🍲": {
+    "body": "🍲",
+    "prefix": "ji:pot-of-food",
+    "description": "🍲"
+  },
+  "🥣": {
+    "body": "🥣",
+    "prefix": "ji:bowl-with-spoon",
+    "description": "🥣"
+  },
+  "🥗": {
+    "body": "🥗",
+    "prefix": "ji:green-salad",
+    "description": "🥗"
+  },
+  "🍿": {
+    "body": "🍿",
+    "prefix": "ji:popcorn",
+    "description": "🍿"
+  },
+  "🧂": {
+    "body": "🧂",
+    "prefix": "ji:salt-shaker",
+    "description": "🧂"
+  },
+  "🥫": {
+    "body": "🥫",
+    "prefix": "ji:canned-food",
+    "description": "🥫"
+  },
+  "🍱": {
+    "body": "🍱",
+    "prefix": "ji:bento-box",
+    "description": "🍱"
+  },
+  "🍘": {
+    "body": "🍘",
+    "prefix": "ji:rice-cracker",
+    "description": "🍘"
+  },
+  "🍙": {
+    "body": "🍙",
+    "prefix": "ji:rice-ball",
+    "description": "🍙"
+  },
+  "🍚": {
+    "body": "🍚",
+    "prefix": "ji:cooked-rice",
+    "description": "🍚"
+  },
+  "🍛": {
+    "body": "🍛",
+    "prefix": "ji:curry-and-rice",
+    "description": "🍛"
+  },
+  "🍜": {
+    "body": "🍜",
+    "prefix": "ji:steaming-bowl",
+    "description": "🍜"
+  },
+  "🍝": {
+    "body": "🍝",
+    "prefix": "ji:spaghetti",
+    "description": "🍝"
+  },
+  "🍠": {
+    "body": "🍠",
+    "prefix": "ji:roasted-sweet-potato",
+    "description": "🍠"
+  },
+  "🍢": {
+    "body": "🍢",
+    "prefix": "ji:oden",
+    "description": "🍢"
+  },
+  "🍣": {
+    "body": "🍣",
+    "prefix": "ji:sushi",
+    "description": "🍣"
+  },
+  "🍤": {
+    "body": "🍤",
+    "prefix": "ji:fried-shrimp",
+    "description": "🍤"
+  },
+  "🍥": {
+    "body": "🍥",
+    "prefix": "ji:fish-cake-with-swirl-design",
+    "description": "🍥"
+  },
+  "🥮": {
+    "body": "🥮",
+    "prefix": "ji:moon-cake",
+    "description": "🥮"
+  },
+  "🍡": {
+    "body": "🍡",
+    "prefix": "ji:dango",
+    "description": "🍡"
+  },
+  "🥟": {
+    "body": "🥟",
+    "prefix": "ji:dumpling",
+    "description": "🥟"
+  },
+  "🥠": {
+    "body": "🥠",
+    "prefix": "ji:fortune-cookie",
+    "description": "🥠"
+  },
+  "🥡": {
+    "body": "🥡",
+    "prefix": "ji:takeout-box",
+    "description": "🥡"
+  },
+  "🍦": {
+    "body": "🍦",
+    "prefix": "ji:soft-ice-cream",
+    "description": "🍦"
+  },
+  "🍧": {
+    "body": "🍧",
+    "prefix": "ji:shaved-ice",
+    "description": "🍧"
+  },
+  "🍨": {
+    "body": "🍨",
+    "prefix": "ji:ice-cream",
+    "description": "🍨"
+  },
+  "🍩": {
+    "body": "🍩",
+    "prefix": "ji:doughnut",
+    "description": "🍩"
+  },
+  "🍪": {
+    "body": "🍪",
+    "prefix": "ji:cookie",
+    "description": "🍪"
+  },
+  "🎂": {
+    "body": "🎂",
+    "prefix": "ji:birthday-cake",
+    "description": "🎂"
+  },
+  "🍰": {
+    "body": "🍰",
+    "prefix": "ji:shortcake",
+    "description": "🍰"
+  },
+  "🧁": {
+    "body": "🧁",
+    "prefix": "ji:cupcake",
+    "description": "🧁"
+  },
+  "🥧": {
+    "body": "🥧",
+    "prefix": "ji:pie",
+    "description": "🥧"
+  },
+  "🍫": {
+    "body": "🍫",
+    "prefix": "ji:chocolate-bar",
+    "description": "🍫"
+  },
+  "🍬": {
+    "body": "🍬",
+    "prefix": "ji:candy",
+    "description": "🍬"
+  },
+  "🍭": {
+    "body": "🍭",
+    "prefix": "ji:lollipop",
+    "description": "🍭"
+  },
+  "🍮": {
+    "body": "🍮",
+    "prefix": "ji:custard",
+    "description": "🍮"
+  },
+  "🍯": {
+    "body": "🍯",
+    "prefix": "ji:honey-pot",
+    "description": "🍯"
+  },
+  "🍼": {
+    "body": "🍼",
+    "prefix": "ji:baby-bottle",
+    "description": "🍼"
+  },
+  "🥛": {
+    "body": "🥛",
+    "prefix": "ji:glass-of-milk",
+    "description": "🥛"
+  },
+  "☕️": {
+    "body": "☕️",
+    "prefix": "ji:hot-beverage",
+    "description": "☕️"
+  },
+  "🍵": {
+    "body": "🍵",
+    "prefix": "ji:teacup-without-handle",
+    "description": "🍵"
+  },
+  "🍶": {
+    "body": "🍶",
+    "prefix": "ji:sake-bottle-and-cup",
+    "description": "🍶"
+  },
+  "🍾": {
+    "body": "🍾",
+    "prefix": "ji:bottle-with-popping-cork",
+    "description": "🍾"
+  },
+  "🍷": {
+    "body": "🍷",
+    "prefix": "ji:wine-glass",
+    "description": "🍷"
+  },
+  "🍸️": {
+    "body": "🍸️",
+    "prefix": "ji:cocktail-glass",
+    "description": "🍸️"
+  },
+  "🍹": {
+    "body": "🍹",
+    "prefix": "ji:tropical-drink",
+    "description": "🍹"
+  },
+  "🍺": {
+    "body": "🍺",
+    "prefix": "ji:beer-mug",
+    "description": "🍺"
+  },
+  "🍻": {
+    "body": "🍻",
+    "prefix": "ji:clinking-beer-mugs",
+    "description": "🍻"
+  },
+  "🥂": {
+    "body": "🥂",
+    "prefix": "ji:clinking-glasses",
+    "description": "🥂"
+  },
+  "🥃": {
+    "body": "🥃",
+    "prefix": "ji:tumbler-glass",
+    "description": "🥃"
+  },
+  "🥤": {
+    "body": "🥤",
+    "prefix": "ji:cup-with-straw",
+    "description": "🥤"
+  },
+  "🥢": {
+    "body": "🥢",
+    "prefix": "ji:chopsticks",
+    "description": "🥢"
+  },
+  "🍽️": {
+    "body": "🍽️",
+    "prefix": "ji:fork-and-knife-with-plate",
+    "description": "🍽️"
+  },
+  "🍴": {
+    "body": "🍴",
+    "prefix": "ji:fork-and-knife",
+    "description": "🍴"
+  },
+  "🥄": {
+    "body": "🥄",
+    "prefix": "ji:spoon",
+    "description": "🥄"
+  },
+  "🔪": {
+    "body": "🔪",
+    "prefix": "ji:hocho",
+    "description": "🔪"
+  },
+  "🏺": {
+    "body": "🏺",
+    "prefix": "ji:amphora",
+    "description": "🏺"
+  },
+  "🌍️": {
+    "body": "🌍️",
+    "prefix": "ji:earth-globe-europe-africa",
+    "description": "🌍️"
+  },
+  "🌎️": {
+    "body": "🌎️",
+    "prefix": "ji:earth-globe-americas",
+    "description": "🌎️"
+  },
+  "🌏️": {
+    "body": "🌏️",
+    "prefix": "ji:earth-globe-asia-australia",
+    "description": "🌏️"
+  },
+  "🌐": {
+    "body": "🌐",
+    "prefix": "ji:globe-with-meridians",
+    "description": "🌐"
+  },
+  "🗺️": {
+    "body": "🗺️",
+    "prefix": "ji:world-map",
+    "description": "🗺️"
+  },
+  "🗾": {
+    "body": "🗾",
+    "prefix": "ji:silhouette-of-japan",
+    "description": "🗾"
+  },
+  "🧭": {
+    "body": "🧭",
+    "prefix": "ji:compass",
+    "description": "🧭"
+  },
+  "🏔️": {
+    "body": "🏔️",
+    "prefix": "ji:snow-capped-mountain",
+    "description": "🏔️"
+  },
+  "⛰️": {
+    "body": "⛰️",
+    "prefix": "ji:mountain",
+    "description": "⛰️"
+  },
+  "🌋": {
+    "body": "🌋",
+    "prefix": "ji:volcano",
+    "description": "🌋"
+  },
+  "🗻": {
+    "body": "🗻",
+    "prefix": "ji:mount-fuji",
+    "description": "🗻"
+  },
+  "🏕️": {
+    "body": "🏕️",
+    "prefix": "ji:camping",
+    "description": "🏕️"
+  },
+  "🏖️": {
+    "body": "🏖️",
+    "prefix": "ji:beach-with-umbrella",
+    "description": "🏖️"
+  },
+  "🏜️": {
+    "body": "🏜️",
+    "prefix": "ji:desert",
+    "description": "🏜️"
+  },
+  "🏝️": {
+    "body": "🏝️",
+    "prefix": "ji:desert-island",
+    "description": "🏝️"
+  },
+  "🏞️": {
+    "body": "🏞️",
+    "prefix": "ji:national-park",
+    "description": "🏞️"
+  },
+  "🏟️": {
+    "body": "🏟️",
+    "prefix": "ji:stadium",
+    "description": "🏟️"
+  },
+  "🏛️": {
+    "body": "🏛️",
+    "prefix": "ji:classical-building",
+    "description": "🏛️"
+  },
+  "🏗️": {
+    "body": "🏗️",
+    "prefix": "ji:building-construction",
+    "description": "🏗️"
+  },
+  "🧱": {
+    "body": "🧱",
+    "prefix": "ji:brick",
+    "description": "🧱"
+  },
+  "🏘️": {
+    "body": "🏘️",
+    "prefix": "ji:house-buildings",
+    "description": "🏘️"
+  },
+  "🏚️": {
+    "body": "🏚️",
+    "prefix": "ji:derelict-house-building",
+    "description": "🏚️"
+  },
+  "🏠️": {
+    "body": "🏠️",
+    "prefix": "ji:house-building",
+    "description": "🏠️"
+  },
+  "🏡": {
+    "body": "🏡",
+    "prefix": "ji:house-with-garden",
+    "description": "🏡"
+  },
+  "🏢": {
+    "body": "🏢",
+    "prefix": "ji:office-building",
+    "description": "🏢"
+  },
+  "🏣": {
+    "body": "🏣",
+    "prefix": "ji:japanese-post-office",
+    "description": "🏣"
+  },
+  "🏤": {
+    "body": "🏤",
+    "prefix": "ji:european-post-office",
+    "description": "🏤"
+  },
+  "🏥": {
+    "body": "🏥",
+    "prefix": "ji:hospital",
+    "description": "🏥"
+  },
+  "🏦": {
+    "body": "🏦",
+    "prefix": "ji:bank",
+    "description": "🏦"
+  },
+  "🏨": {
+    "body": "🏨",
+    "prefix": "ji:hotel",
+    "description": "🏨"
+  },
+  "🏩": {
+    "body": "🏩",
+    "prefix": "ji:love-hotel",
+    "description": "🏩"
+  },
+  "🏪": {
+    "body": "🏪",
+    "prefix": "ji:convenience-store",
+    "description": "🏪"
+  },
+  "🏫": {
+    "body": "🏫",
+    "prefix": "ji:school",
+    "description": "🏫"
+  },
+  "🏬": {
+    "body": "🏬",
+    "prefix": "ji:department-store",
+    "description": "🏬"
+  },
+  "🏭️": {
+    "body": "🏭️",
+    "prefix": "ji:factory",
+    "description": "🏭️"
+  },
+  "🏯": {
+    "body": "🏯",
+    "prefix": "ji:japanese-castle",
+    "description": "🏯"
+  },
+  "🏰": {
+    "body": "🏰",
+    "prefix": "ji:european-castle",
+    "description": "🏰"
+  },
+  "💒": {
+    "body": "💒",
+    "prefix": "ji:wedding",
+    "description": "💒"
+  },
+  "🗼": {
+    "body": "🗼",
+    "prefix": "ji:tokyo-tower",
+    "description": "🗼"
+  },
+  "🗽": {
+    "body": "🗽",
+    "prefix": "ji:statue-of-liberty",
+    "description": "🗽"
+  },
+  "⛪️": {
+    "body": "⛪️",
+    "prefix": "ji:church",
+    "description": "⛪️"
+  },
+  "🕌": {
+    "body": "🕌",
+    "prefix": "ji:mosque",
+    "description": "🕌"
+  },
+  "🕍": {
+    "body": "🕍",
+    "prefix": "ji:synagogue",
+    "description": "🕍"
+  },
+  "⛩️": {
+    "body": "⛩️",
+    "prefix": "ji:shinto-shrine",
+    "description": "⛩️"
+  },
+  "🕋": {
+    "body": "🕋",
+    "prefix": "ji:kaaba",
+    "description": "🕋"
+  },
+  "⛲️": {
+    "body": "⛲️",
+    "prefix": "ji:fountain",
+    "description": "⛲️"
+  },
+  "⛺️": {
+    "body": "⛺️",
+    "prefix": "ji:tent",
+    "description": "⛺️"
+  },
+  "🌁": {
+    "body": "🌁",
+    "prefix": "ji:foggy",
+    "description": "🌁"
+  },
+  "🌃": {
+    "body": "🌃",
+    "prefix": "ji:night-with-stars",
+    "description": "🌃"
+  },
+  "🏙️": {
+    "body": "🏙️",
+    "prefix": "ji:cityscape",
+    "description": "🏙️"
+  },
+  "🌄": {
+    "body": "🌄",
+    "prefix": "ji:sunrise-over-mountains",
+    "description": "🌄"
+  },
+  "🌅": {
+    "body": "🌅",
+    "prefix": "ji:sunrise",
+    "description": "🌅"
+  },
+  "🌆": {
+    "body": "🌆",
+    "prefix": "ji:cityscape-at-dusk",
+    "description": "🌆"
+  },
+  "🌇": {
+    "body": "🌇",
+    "prefix": "ji:sunset-over-buildings",
+    "description": "🌇"
+  },
+  "🌉": {
+    "body": "🌉",
+    "prefix": "ji:bridge-at-night",
+    "description": "🌉"
+  },
+  "♨️": {
+    "body": "♨️",
+    "prefix": "ji:hot-springs",
+    "description": "♨️"
+  },
+  "🌌": {
+    "body": "🌌",
+    "prefix": "ji:milky-way",
+    "description": "🌌"
+  },
+  "🎠": {
+    "body": "🎠",
+    "prefix": "ji:carousel-horse",
+    "description": "🎠"
+  },
+  "🎡": {
+    "body": "🎡",
+    "prefix": "ji:ferris-wheel",
+    "description": "🎡"
+  },
+  "🎢": {
+    "body": "🎢",
+    "prefix": "ji:roller-coaster",
+    "description": "🎢"
+  },
+  "💈": {
+    "body": "💈",
+    "prefix": "ji:barber-pole",
+    "description": "💈"
+  },
+  "🎪": {
+    "body": "🎪",
+    "prefix": "ji:circus-tent",
+    "description": "🎪"
+  },
+  "🚂": {
+    "body": "🚂",
+    "prefix": "ji:steam-locomotive",
+    "description": "🚂"
+  },
+  "🚃": {
+    "body": "🚃",
+    "prefix": "ji:railway-car",
+    "description": "🚃"
+  },
+  "🚄": {
+    "body": "🚄",
+    "prefix": "ji:high-speed-train",
+    "description": "🚄"
+  },
+  "🚅": {
+    "body": "🚅",
+    "prefix": "ji:high-speed-train-with-bullet-nose",
+    "description": "🚅"
+  },
+  "🚆": {
+    "body": "🚆",
+    "prefix": "ji:train",
+    "description": "🚆"
+  },
+  "🚇️": {
+    "body": "🚇️",
+    "prefix": "ji:metro",
+    "description": "🚇️"
+  },
+  "🚈": {
+    "body": "🚈",
+    "prefix": "ji:light-rail",
+    "description": "🚈"
+  },
+  "🚉": {
+    "body": "🚉",
+    "prefix": "ji:station",
+    "description": "🚉"
+  },
+  "🚊": {
+    "body": "🚊",
+    "prefix": "ji:tram",
+    "description": "🚊"
+  },
+  "🚝": {
+    "body": "🚝",
+    "prefix": "ji:monorail",
+    "description": "🚝"
+  },
+  "🚞": {
+    "body": "🚞",
+    "prefix": "ji:mountain-railway",
+    "description": "🚞"
+  },
+  "🚋": {
+    "body": "🚋",
+    "prefix": "ji:tram-car",
+    "description": "🚋"
+  },
+  "🚌": {
+    "body": "🚌",
+    "prefix": "ji:bus",
+    "description": "🚌"
+  },
+  "🚍️": {
+    "body": "🚍️",
+    "prefix": "ji:oncoming-bus",
+    "description": "🚍️"
+  },
+  "🚎": {
+    "body": "🚎",
+    "prefix": "ji:trolleybus",
+    "description": "🚎"
+  },
+  "🚐": {
+    "body": "🚐",
+    "prefix": "ji:minibus",
+    "description": "🚐"
+  },
+  "🚑️": {
+    "body": "🚑️",
+    "prefix": "ji:ambulance",
+    "description": "🚑️"
+  },
+  "🚒": {
+    "body": "🚒",
+    "prefix": "ji:fire-engine",
+    "description": "🚒"
+  },
+  "🚓": {
+    "body": "🚓",
+    "prefix": "ji:police-car",
+    "description": "🚓"
+  },
+  "🚔️": {
+    "body": "🚔️",
+    "prefix": "ji:oncoming-police-car",
+    "description": "🚔️"
+  },
+  "🚕": {
+    "body": "🚕",
+    "prefix": "ji:taxi",
+    "description": "🚕"
+  },
+  "🚖": {
+    "body": "🚖",
+    "prefix": "ji:oncoming-taxi",
+    "description": "🚖"
+  },
+  "🚗": {
+    "body": "🚗",
+    "prefix": "ji:automobile",
+    "description": "🚗"
+  },
+  "🚘️": {
+    "body": "🚘️",
+    "prefix": "ji:oncoming-automobile",
+    "description": "🚘️"
+  },
+  "🚙": {
+    "body": "🚙",
+    "prefix": "ji:recreational-vehicle",
+    "description": "🚙"
+  },
+  "🚚": {
+    "body": "🚚",
+    "prefix": "ji:delivery-truck",
+    "description": "🚚"
+  },
+  "🚛": {
+    "body": "🚛",
+    "prefix": "ji:articulated-lorry",
+    "description": "🚛"
+  },
+  "🚜": {
+    "body": "🚜",
+    "prefix": "ji:tractor",
+    "description": "🚜"
+  },
+  "🚲️": {
+    "body": "🚲️",
+    "prefix": "ji:bicycle",
+    "description": "🚲️"
+  },
+  "🛴": {
+    "body": "🛴",
+    "prefix": "ji:scooter",
+    "description": "🛴"
+  },
+  "🛹": {
+    "body": "🛹",
+    "prefix": "ji:skateboard",
+    "description": "🛹"
+  },
+  "🛵": {
+    "body": "🛵",
+    "prefix": "ji:motor-scooter",
+    "description": "🛵"
+  },
+  "🚏": {
+    "body": "🚏",
+    "prefix": "ji:bus-stop",
+    "description": "🚏"
+  },
+  "🛣️": {
+    "body": "🛣️",
+    "prefix": "ji:motorway",
+    "description": "🛣️"
+  },
+  "🛤️": {
+    "body": "🛤️",
+    "prefix": "ji:railway-track",
+    "description": "🛤️"
+  },
+  "🛢️": {
+    "body": "🛢️",
+    "prefix": "ji:oil-drum",
+    "description": "🛢️"
+  },
+  "⛽️": {
+    "body": "⛽️",
+    "prefix": "ji:fuel-pump",
+    "description": "⛽️"
+  },
+  "🚨": {
+    "body": "🚨",
+    "prefix": "ji:police-cars-revolving-light",
+    "description": "🚨"
+  },
+  "🚥": {
+    "body": "🚥",
+    "prefix": "ji:horizontal-traffic-light",
+    "description": "🚥"
+  },
+  "🚦": {
+    "body": "🚦",
+    "prefix": "ji:vertical-traffic-light",
+    "description": "🚦"
+  },
+  "🛑": {
+    "body": "🛑",
+    "prefix": "ji:octagonal-sign",
+    "description": "🛑"
+  },
+  "🚧": {
+    "body": "🚧",
+    "prefix": "ji:construction-sign",
+    "description": "🚧"
+  },
+  "⚓️": {
+    "body": "⚓️",
+    "prefix": "ji:anchor",
+    "description": "⚓️"
+  },
+  "⛵️": {
+    "body": "⛵️",
+    "prefix": "ji:sailboat",
+    "description": "⛵️"
+  },
+  "🛶": {
+    "body": "🛶",
+    "prefix": "ji:canoe",
+    "description": "🛶"
+  },
+  "🚤": {
+    "body": "🚤",
+    "prefix": "ji:speedboat",
+    "description": "🚤"
+  },
+  "🛳️": {
+    "body": "🛳️",
+    "prefix": "ji:passenger-ship",
+    "description": "🛳️"
+  },
+  "⛴️": {
+    "body": "⛴️",
+    "prefix": "ji:ferry",
+    "description": "⛴️"
+  },
+  "🛥️": {
+    "body": "🛥️",
+    "prefix": "ji:motor-boat",
+    "description": "🛥️"
+  },
+  "🚢": {
+    "body": "🚢",
+    "prefix": "ji:ship",
+    "description": "🚢"
+  },
+  "✈️": {
+    "body": "✈️",
+    "prefix": "ji:airplane",
+    "description": "✈️"
+  },
+  "🛩️": {
+    "body": "🛩️",
+    "prefix": "ji:small-airplane",
+    "description": "🛩️"
+  },
+  "🛫": {
+    "body": "🛫",
+    "prefix": "ji:airplane-departure",
+    "description": "🛫"
+  },
+  "🛬": {
+    "body": "🛬",
+    "prefix": "ji:airplane-arriving",
+    "description": "🛬"
+  },
+  "💺": {
+    "body": "💺",
+    "prefix": "ji:seat",
+    "description": "💺"
+  },
+  "🚁": {
+    "body": "🚁",
+    "prefix": "ji:helicopter",
+    "description": "🚁"
+  },
+  "🚟": {
+    "body": "🚟",
+    "prefix": "ji:suspension-railway",
+    "description": "🚟"
+  },
+  "🚠": {
+    "body": "🚠",
+    "prefix": "ji:mountain-cableway",
+    "description": "🚠"
+  },
+  "🚡": {
+    "body": "🚡",
+    "prefix": "ji:aerial-tramway",
+    "description": "🚡"
+  },
+  "🛰️": {
+    "body": "🛰️",
+    "prefix": "ji:satellite",
+    "description": "🛰️"
+  },
+  "🚀": {
+    "body": "🚀",
+    "prefix": "ji:rocket",
+    "description": "🚀"
+  },
+  "🛸": {
+    "body": "🛸",
+    "prefix": "ji:flying-saucer",
+    "description": "🛸"
+  },
+  "🛎️": {
+    "body": "🛎️",
+    "prefix": "ji:bellhop-bell",
+    "description": "🛎️"
+  },
+  "🧳": {
+    "body": "🧳",
+    "prefix": "ji:luggage",
+    "description": "🧳"
+  },
+  "⌛️": {
+    "body": "⌛️",
+    "prefix": "ji:hourglass",
+    "description": "⌛️"
+  },
+  "⏳️": {
+    "body": "⏳️",
+    "prefix": "ji:hourglass-with-flowing-sand",
+    "description": "⏳️"
+  },
+  "⌚️": {
+    "body": "⌚️",
+    "prefix": "ji:watch",
+    "description": "⌚️"
+  },
+  "⏰": {
+    "body": "⏰",
+    "prefix": "ji:alarm-clock",
+    "description": "⏰"
+  },
+  "⏱️": {
+    "body": "⏱️",
+    "prefix": "ji:stopwatch",
+    "description": "⏱️"
+  },
+  "⏲️": {
+    "body": "⏲️",
+    "prefix": "ji:timer-clock",
+    "description": "⏲️"
+  },
+  "🕰️": {
+    "body": "🕰️",
+    "prefix": "ji:mantelpiece-clock",
+    "description": "🕰️"
+  },
+  "🕛️": {
+    "body": "🕛️",
+    "prefix": "ji:clock-face-twelve-oclock",
+    "description": "🕛️"
+  },
+  "🕧️": {
+    "body": "🕧️",
+    "prefix": "ji:clock-face-twelve-thirty",
+    "description": "🕧️"
+  },
+  "🕐️": {
+    "body": "🕐️",
+    "prefix": "ji:clock-face-one-oclock",
+    "description": "🕐️"
+  },
+  "🕜️": {
+    "body": "🕜️",
+    "prefix": "ji:clock-face-one-thirty",
+    "description": "🕜️"
+  },
+  "🕑️": {
+    "body": "🕑️",
+    "prefix": "ji:clock-face-two-oclock",
+    "description": "🕑️"
+  },
+  "🕝️": {
+    "body": "🕝️",
+    "prefix": "ji:clock-face-two-thirty",
+    "description": "🕝️"
+  },
+  "🕒️": {
+    "body": "🕒️",
+    "prefix": "ji:clock-face-three-oclock",
+    "description": "🕒️"
+  },
+  "🕞️": {
+    "body": "🕞️",
+    "prefix": "ji:clock-face-three-thirty",
+    "description": "🕞️"
+  },
+  "🕓️": {
+    "body": "🕓️",
+    "prefix": "ji:clock-face-four-oclock",
+    "description": "🕓️"
+  },
+  "🕟️": {
+    "body": "🕟️",
+    "prefix": "ji:clock-face-four-thirty",
+    "description": "🕟️"
+  },
+  "🕔️": {
+    "body": "🕔️",
+    "prefix": "ji:clock-face-five-oclock",
+    "description": "🕔️"
+  },
+  "🕠️": {
+    "body": "🕠️",
+    "prefix": "ji:clock-face-five-thirty",
+    "description": "🕠️"
+  },
+  "🕕️": {
+    "body": "🕕️",
+    "prefix": "ji:clock-face-six-oclock",
+    "description": "🕕️"
+  },
+  "🕡️": {
+    "body": "🕡️",
+    "prefix": "ji:clock-face-six-thirty",
+    "description": "🕡️"
+  },
+  "🕖️": {
+    "body": "🕖️",
+    "prefix": "ji:clock-face-seven-oclock",
+    "description": "🕖️"
+  },
+  "🕢️": {
+    "body": "🕢️",
+    "prefix": "ji:clock-face-seven-thirty",
+    "description": "🕢️"
+  },
+  "🕗️": {
+    "body": "🕗️",
+    "prefix": "ji:clock-face-eight-oclock",
+    "description": "🕗️"
+  },
+  "🕣️": {
+    "body": "🕣️",
+    "prefix": "ji:clock-face-eight-thirty",
+    "description": "🕣️"
+  },
+  "🕘️": {
+    "body": "🕘️",
+    "prefix": "ji:clock-face-nine-oclock",
+    "description": "🕘️"
+  },
+  "🕤️": {
+    "body": "🕤️",
+    "prefix": "ji:clock-face-nine-thirty",
+    "description": "🕤️"
+  },
+  "🕙️": {
+    "body": "🕙️",
+    "prefix": "ji:clock-face-ten-oclock",
+    "description": "🕙️"
+  },
+  "🕥️": {
+    "body": "🕥️",
+    "prefix": "ji:clock-face-ten-thirty",
+    "description": "🕥️"
+  },
+  "🕚️": {
+    "body": "🕚️",
+    "prefix": "ji:clock-face-eleven-oclock",
+    "description": "🕚️"
+  },
+  "🕦️": {
+    "body": "🕦️",
+    "prefix": "ji:clock-face-eleven-thirty",
+    "description": "🕦️"
+  },
+  "🌑": {
+    "body": "🌑",
+    "prefix": "ji:new-moon-symbol",
+    "description": "🌑"
+  },
+  "🌒": {
+    "body": "🌒",
+    "prefix": "ji:waxing-crescent-moon-symbol",
+    "description": "🌒"
+  },
+  "🌓": {
+    "body": "🌓",
+    "prefix": "ji:first-quarter-moon-symbol",
+    "description": "🌓"
+  },
+  "🌔": {
+    "body": "🌔",
+    "prefix": "ji:waxing-gibbous-moon-symbol",
+    "description": "🌔"
+  },
+  "🌕️": {
+    "body": "🌕️",
+    "prefix": "ji:full-moon-symbol",
+    "description": "🌕️"
+  },
+  "🌖": {
+    "body": "🌖",
+    "prefix": "ji:waning-gibbous-moon-symbol",
+    "description": "🌖"
+  },
+  "🌗": {
+    "body": "🌗",
+    "prefix": "ji:last-quarter-moon-symbol",
+    "description": "🌗"
+  },
+  "🌘": {
+    "body": "🌘",
+    "prefix": "ji:waning-crescent-moon-symbol",
+    "description": "🌘"
+  },
+  "🌙": {
+    "body": "🌙",
+    "prefix": "ji:crescent-moon",
+    "description": "🌙"
+  },
+  "🌚": {
+    "body": "🌚",
+    "prefix": "ji:new-moon-with-face",
+    "description": "🌚"
+  },
+  "🌛": {
+    "body": "🌛",
+    "prefix": "ji:first-quarter-moon-with-face",
+    "description": "🌛"
+  },
+  "🌜️": {
+    "body": "🌜️",
+    "prefix": "ji:last-quarter-moon-with-face",
+    "description": "🌜️"
+  },
+  "🌡️": {
+    "body": "🌡️",
+    "prefix": "ji:thermometer",
+    "description": "🌡️"
+  },
+  "☀️": {
+    "body": "☀️",
+    "prefix": "ji:black-sun-with-rays",
+    "description": "☀️"
+  },
+  "🌝": {
+    "body": "🌝",
+    "prefix": "ji:full-moon-with-face",
+    "description": "🌝"
+  },
+  "🌞": {
+    "body": "🌞",
+    "prefix": "ji:sun-with-face",
+    "description": "🌞"
+  },
+  "⭐️": {
+    "body": "⭐️",
+    "prefix": "ji:white-medium-star",
+    "description": "⭐️"
+  },
+  "🌟": {
+    "body": "🌟",
+    "prefix": "ji:glowing-star",
+    "description": "🌟"
+  },
+  "🌠": {
+    "body": "🌠",
+    "prefix": "ji:shooting-star",
+    "description": "🌠"
+  },
+  "☁️": {
+    "body": "☁️",
+    "prefix": "ji:cloud",
+    "description": "☁️"
+  },
+  "⛅️": {
+    "body": "⛅️",
+    "prefix": "ji:sun-behind-cloud",
+    "description": "⛅️"
+  },
+  "⛈️": {
+    "body": "⛈️",
+    "prefix": "ji:thunder-cloud-and-rain",
+    "description": "⛈️"
+  },
+  "🌤️": {
+    "body": "🌤️",
+    "prefix": "ji:white-sun-with-small-cloud",
+    "description": "🌤️"
+  },
+  "🌥️": {
+    "body": "🌥️",
+    "prefix": "ji:white-sun-behind-cloud",
+    "description": "🌥️"
+  },
+  "🌦️": {
+    "body": "🌦️",
+    "prefix": "ji:white-sun-behind-cloud-with-rain",
+    "description": "🌦️"
+  },
+  "🌧️": {
+    "body": "🌧️",
+    "prefix": "ji:cloud-with-rain",
+    "description": "🌧️"
+  },
+  "🌨️": {
+    "body": "🌨️",
+    "prefix": "ji:cloud-with-snow",
+    "description": "🌨️"
+  },
+  "🌩️": {
+    "body": "🌩️",
+    "prefix": "ji:cloud-with-lightning",
+    "description": "🌩️"
+  },
+  "🌪️": {
+    "body": "🌪️",
+    "prefix": "ji:cloud-with-tornado",
+    "description": "🌪️"
+  },
+  "🌫️": {
+    "body": "🌫️",
+    "prefix": "ji:fog",
+    "description": "🌫️"
+  },
+  "🌬️": {
+    "body": "🌬️",
+    "prefix": "ji:wind-blowing-face",
+    "description": "🌬️"
+  },
+  "🌀": {
+    "body": "🌀",
+    "prefix": "ji:cyclone",
+    "description": "🌀"
+  },
+  "🌈": {
+    "body": "🌈",
+    "prefix": "ji:rainbow",
+    "description": "🌈"
+  },
+  "🌂": {
+    "body": "🌂",
+    "prefix": "ji:closed-umbrella",
+    "description": "🌂"
+  },
+  "☂️": {
+    "body": "☂️",
+    "prefix": "ji:umbrella",
+    "description": "☂️"
+  },
+  "☔️": {
+    "body": "☔️",
+    "prefix": "ji:umbrella-with-rain-drops",
+    "description": "☔️"
+  },
+  "⛱️": {
+    "body": "⛱️",
+    "prefix": "ji:umbrella-on-ground",
+    "description": "⛱️"
+  },
+  "⚡️": {
+    "body": "⚡️",
+    "prefix": "ji:high-voltage-sign",
+    "description": "⚡️"
+  },
+  "❄️": {
+    "body": "❄️",
+    "prefix": "ji:snowflake",
+    "description": "❄️"
+  },
+  "☃️": {
+    "body": "☃️",
+    "prefix": "ji:snowman",
+    "description": "☃️"
+  },
+  "⛄️": {
+    "body": "⛄️",
+    "prefix": "ji:snowman-without-snow",
+    "description": "⛄️"
+  },
+  "☄️": {
+    "body": "☄️",
+    "prefix": "ji:comet",
+    "description": "☄️"
+  },
+  "🔥": {
+    "body": "🔥",
+    "prefix": "ji:fire",
+    "description": "🔥"
+  },
+  "💧": {
+    "body": "💧",
+    "prefix": "ji:droplet",
+    "description": "💧"
+  },
+  "🌊": {
+    "body": "🌊",
+    "prefix": "ji:water-wave",
+    "description": "🌊"
+  },
+  "🎃": {
+    "body": "🎃",
+    "prefix": "ji:jack-o-lantern",
+    "description": "🎃"
+  },
+  "🎄": {
+    "body": "🎄",
+    "prefix": "ji:christmas-tree",
+    "description": "🎄"
+  },
+  "🎆": {
+    "body": "🎆",
+    "prefix": "ji:fireworks",
+    "description": "🎆"
+  },
+  "🎇": {
+    "body": "🎇",
+    "prefix": "ji:firework-sparkler",
+    "description": "🎇"
+  },
+  "🧨": {
+    "body": "🧨",
+    "prefix": "ji:firecracker",
+    "description": "🧨"
+  },
+  "✨": {
+    "body": "✨",
+    "prefix": "ji:sparkles",
+    "description": "✨"
+  },
+  "🎈": {
+    "body": "🎈",
+    "prefix": "ji:balloon",
+    "description": "🎈"
+  },
+  "🎉": {
+    "body": "🎉",
+    "prefix": "ji:party-popper",
+    "description": "🎉"
+  },
+  "🎊": {
+    "body": "🎊",
+    "prefix": "ji:confetti-ball",
+    "description": "🎊"
+  },
+  "🎋": {
+    "body": "🎋",
+    "prefix": "ji:tanabata-tree",
+    "description": "🎋"
+  },
+  "🎍": {
+    "body": "🎍",
+    "prefix": "ji:pine-decoration",
+    "description": "🎍"
+  },
+  "🎎": {
+    "body": "🎎",
+    "prefix": "ji:japanese-dolls",
+    "description": "🎎"
+  },
+  "🎏": {
+    "body": "🎏",
+    "prefix": "ji:carp-streamer",
+    "description": "🎏"
+  },
+  "🎐": {
+    "body": "🎐",
+    "prefix": "ji:wind-chime",
+    "description": "🎐"
+  },
+  "🎑": {
+    "body": "🎑",
+    "prefix": "ji:moon-viewing-ceremony",
+    "description": "🎑"
+  },
+  "🧧": {
+    "body": "🧧",
+    "prefix": "ji:red-gift-envelope",
+    "description": "🧧"
+  },
+  "🎀": {
+    "body": "🎀",
+    "prefix": "ji:ribbon",
+    "description": "🎀"
+  },
+  "🎁": {
+    "body": "🎁",
+    "prefix": "ji:wrapped-present",
+    "description": "🎁"
+  },
+  "🎗️": {
+    "body": "🎗️",
+    "prefix": "ji:reminder-ribbon",
+    "description": "🎗️"
+  },
+  "🎟️": {
+    "body": "🎟️",
+    "prefix": "ji:admission-tickets",
+    "description": "🎟️"
+  },
+  "🎫": {
+    "body": "🎫",
+    "prefix": "ji:ticket",
+    "description": "🎫"
+  },
+  "🎖️": {
+    "body": "🎖️",
+    "prefix": "ji:military-medal",
+    "description": "🎖️"
+  },
+  "🏆️": {
+    "body": "🏆️",
+    "prefix": "ji:trophy",
+    "description": "🏆️"
+  },
+  "🏅": {
+    "body": "🏅",
+    "prefix": "ji:sports-medal",
+    "description": "🏅"
+  },
+  "🥇": {
+    "body": "🥇",
+    "prefix": "ji:first-place-medal",
+    "description": "🥇"
+  },
+  "🥈": {
+    "body": "🥈",
+    "prefix": "ji:second-place-medal",
+    "description": "🥈"
+  },
+  "🥉": {
+    "body": "🥉",
+    "prefix": "ji:third-place-medal",
+    "description": "🥉"
+  },
+  "⚽️": {
+    "body": "⚽️",
+    "prefix": "ji:soccer-ball",
+    "description": "⚽️"
+  },
+  "⚾️": {
+    "body": "⚾️",
+    "prefix": "ji:baseball",
+    "description": "⚾️"
+  },
+  "🥎": {
+    "body": "🥎",
+    "prefix": "ji:softball",
+    "description": "🥎"
+  },
+  "🏀": {
+    "body": "🏀",
+    "prefix": "ji:basketball-and-hoop",
+    "description": "🏀"
+  },
+  "🏐": {
+    "body": "🏐",
+    "prefix": "ji:volleyball",
+    "description": "🏐"
+  },
+  "🏈": {
+    "body": "🏈",
+    "prefix": "ji:american-football",
+    "description": "🏈"
+  },
+  "🏉": {
+    "body": "🏉",
+    "prefix": "ji:rugby-football",
+    "description": "🏉"
+  },
+  "🎾": {
+    "body": "🎾",
+    "prefix": "ji:tennis-racquet-and-ball",
+    "description": "🎾"
+  },
+  "🥏": {
+    "body": "🥏",
+    "prefix": "ji:flying-disc",
+    "description": "🥏"
+  },
+  "🎳": {
+    "body": "🎳",
+    "prefix": "ji:bowling",
+    "description": "🎳"
+  },
+  "🏏": {
+    "body": "🏏",
+    "prefix": "ji:cricket-bat-and-ball",
+    "description": "🏏"
+  },
+  "🏑": {
+    "body": "🏑",
+    "prefix": "ji:field-hockey-stick-and-ball",
+    "description": "🏑"
+  },
+  "🏒": {
+    "body": "🏒",
+    "prefix": "ji:ice-hockey-stick-and-puck",
+    "description": "🏒"
+  },
+  "🥍": {
+    "body": "🥍",
+    "prefix": "ji:lacrosse-stick-and-ball",
+    "description": "🥍"
+  },
+  "🏓": {
+    "body": "🏓",
+    "prefix": "ji:table-tennis-paddle-and-ball",
+    "description": "🏓"
+  },
+  "🏸": {
+    "body": "🏸",
+    "prefix": "ji:badminton-racquet-and-shuttlecock",
+    "description": "🏸"
+  },
+  "🥊": {
+    "body": "🥊",
+    "prefix": "ji:boxing-glove",
+    "description": "🥊"
+  },
+  "🥋": {
+    "body": "🥋",
+    "prefix": "ji:martial-arts-uniform",
+    "description": "🥋"
+  },
+  "🥅": {
+    "body": "🥅",
+    "prefix": "ji:goal-net",
+    "description": "🥅"
+  },
+  "⛳️": {
+    "body": "⛳️",
+    "prefix": "ji:flag-in-hole",
+    "description": "⛳️"
+  },
+  "⛸️": {
+    "body": "⛸️",
+    "prefix": "ji:ice-skate",
+    "description": "⛸️"
+  },
+  "🎣": {
+    "body": "🎣",
+    "prefix": "ji:fishing-pole-and-fish",
+    "description": "🎣"
+  },
+  "🎽": {
+    "body": "🎽",
+    "prefix": "ji:running-shirt-with-sash",
+    "description": "🎽"
+  },
+  "🎿": {
+    "body": "🎿",
+    "prefix": "ji:ski-and-ski-boot",
+    "description": "🎿"
+  },
+  "🛷": {
+    "body": "🛷",
+    "prefix": "ji:sled",
+    "description": "🛷"
+  },
+  "🥌": {
+    "body": "🥌",
+    "prefix": "ji:curling-stone",
+    "description": "🥌"
+  },
+  "🎯": {
+    "body": "🎯",
+    "prefix": "ji:direct-hit",
+    "description": "🎯"
+  },
+  "🎱": {
+    "body": "🎱",
+    "prefix": "ji:billiards",
+    "description": "🎱"
+  },
+  "🔮": {
+    "body": "🔮",
+    "prefix": "ji:crystal-ball",
+    "description": "🔮"
+  },
+  "🧿": {
+    "body": "🧿",
+    "prefix": "ji:nazar-amulet",
+    "description": "🧿"
+  },
+  "🎮️": {
+    "body": "🎮️",
+    "prefix": "ji:video-game",
+    "description": "🎮️"
+  },
+  "🕹️": {
+    "body": "🕹️",
+    "prefix": "ji:joystick",
+    "description": "🕹️"
+  },
+  "🎰": {
+    "body": "🎰",
+    "prefix": "ji:slot-machine",
+    "description": "🎰"
+  },
+  "🎲": {
+    "body": "🎲",
+    "prefix": "ji:game-die",
+    "description": "🎲"
+  },
+  "🧩": {
+    "body": "🧩",
+    "prefix": "ji:jigsaw-puzzle-piece",
+    "description": "🧩"
+  },
+  "🧸": {
+    "body": "🧸",
+    "prefix": "ji:teddy-bear",
+    "description": "🧸"
+  },
+  "♠️": {
+    "body": "♠️",
+    "prefix": "ji:black-spade-suit",
+    "description": "♠️"
+  },
+  "♥️": {
+    "body": "♥️",
+    "prefix": "ji:black-heart-suit",
+    "description": "♥️"
+  },
+  "♦️": {
+    "body": "♦️",
+    "prefix": "ji:black-diamond-suit",
+    "description": "♦️"
+  },
+  "♣️": {
+    "body": "♣️",
+    "prefix": "ji:black-club-suit",
+    "description": "♣️"
+  },
+  "♟️": {
+    "body": "♟️",
+    "prefix": "ji:black-chess-pawn",
+    "description": "♟️"
+  },
+  "🃏": {
+    "body": "🃏",
+    "prefix": "ji:playing-card-black-joker",
+    "description": "🃏"
+  },
+  "🀄️": {
+    "body": "🀄️",
+    "prefix": "ji:mahjong-tile-red-dragon",
+    "description": "🀄️"
+  },
+  "🎴": {
+    "body": "🎴",
+    "prefix": "ji:flower-playing-cards",
+    "description": "🎴"
+  },
+  "🎭️": {
+    "body": "🎭️",
+    "prefix": "ji:performing-arts",
+    "description": "🎭️"
+  },
+  "🖼️": {
+    "body": "🖼️",
+    "prefix": "ji:frame-with-picture",
+    "description": "🖼️"
+  },
+  "🎨": {
+    "body": "🎨",
+    "prefix": "ji:artist-palette",
+    "description": "🎨"
+  },
+  "🧵": {
+    "body": "🧵",
+    "prefix": "ji:spool-of-thread",
+    "description": "🧵"
+  },
+  "🧶": {
+    "body": "🧶",
+    "prefix": "ji:ball-of-yarn",
+    "description": "🧶"
+  },
+  "🔇": {
+    "body": "🔇",
+    "prefix": "ji:speaker-with-cancellation-stroke",
+    "description": "🔇"
+  },
+  "🔈️": {
+    "body": "🔈️",
+    "prefix": "ji:speaker",
+    "description": "🔈️"
+  },
+  "🔉": {
+    "body": "🔉",
+    "prefix": "ji:speaker-with-one-sound-wave",
+    "description": "🔉"
+  },
+  "🔊": {
+    "body": "🔊",
+    "prefix": "ji:speaker-with-three-sound-waves",
+    "description": "🔊"
+  },
+  "📢": {
+    "body": "📢",
+    "prefix": "ji:public-address-loudspeaker",
+    "description": "📢"
+  },
+  "📣": {
+    "body": "📣",
+    "prefix": "ji:cheering-megaphone",
+    "description": "📣"
+  },
+  "📯": {
+    "body": "📯",
+    "prefix": "ji:postal-horn",
+    "description": "📯"
+  },
+  "🔔": {
+    "body": "🔔",
+    "prefix": "ji:bell",
+    "description": "🔔"
+  },
+  "🔕": {
+    "body": "🔕",
+    "prefix": "ji:bell-with-cancellation-stroke",
+    "description": "🔕"
+  },
+  "🎼": {
+    "body": "🎼",
+    "prefix": "ji:musical-score",
+    "description": "🎼"
+  },
+  "🎵": {
+    "body": "🎵",
+    "prefix": "ji:musical-note",
+    "description": "🎵"
+  },
+  "🎶": {
+    "body": "🎶",
+    "prefix": "ji:multiple-musical-notes",
+    "description": "🎶"
+  },
+  "🎙️": {
+    "body": "🎙️",
+    "prefix": "ji:studio-microphone",
+    "description": "🎙️"
+  },
+  "🎚️": {
+    "body": "🎚️",
+    "prefix": "ji:level-slider",
+    "description": "🎚️"
+  },
+  "🎛️": {
+    "body": "🎛️",
+    "prefix": "ji:control-knobs",
+    "description": "🎛️"
+  },
+  "🎤": {
+    "body": "🎤",
+    "prefix": "ji:microphone",
+    "description": "🎤"
+  },
+  "🎧️": {
+    "body": "🎧️",
+    "prefix": "ji:headphone",
+    "description": "🎧️"
+  },
+  "📻️": {
+    "body": "📻️",
+    "prefix": "ji:radio",
+    "description": "📻️"
+  },
+  "🎷": {
+    "body": "🎷",
+    "prefix": "ji:saxophone",
+    "description": "🎷"
+  },
+  "🎸": {
+    "body": "🎸",
+    "prefix": "ji:guitar",
+    "description": "🎸"
+  },
+  "🎹": {
+    "body": "🎹",
+    "prefix": "ji:musical-keyboard",
+    "description": "🎹"
+  },
+  "🎺": {
+    "body": "🎺",
+    "prefix": "ji:trumpet",
+    "description": "🎺"
+  },
+  "🎻": {
+    "body": "🎻",
+    "prefix": "ji:violin",
+    "description": "🎻"
+  },
+  "🥁": {
+    "body": "🥁",
+    "prefix": "ji:drum-with-drumsticks",
+    "description": "🥁"
+  },
+  "📱": {
+    "body": "📱",
+    "prefix": "ji:mobile-phone",
+    "description": "📱"
+  },
+  "📲": {
+    "body": "📲",
+    "prefix": "ji:mobile-phone-with-rightwards-arrow-at-left",
+    "description": "📲"
+  },
+  "☎️": {
+    "body": "☎️",
+    "prefix": "ji:black-telephone",
+    "description": "☎️"
+  },
+  "📞": {
+    "body": "📞",
+    "prefix": "ji:telephone-receiver",
+    "description": "📞"
+  },
+  "📟️": {
+    "body": "📟️",
+    "prefix": "ji:pager",
+    "description": "📟️"
+  },
+  "📠": {
+    "body": "📠",
+    "prefix": "ji:fax-machine",
+    "description": "📠"
+  },
+  "🔋": {
+    "body": "🔋",
+    "prefix": "ji:battery",
+    "description": "🔋"
+  },
+  "🔌": {
+    "body": "🔌",
+    "prefix": "ji:electric-plug",
+    "description": "🔌"
+  },
+  "💻️": {
+    "body": "💻️",
+    "prefix": "ji:personal-computer",
+    "description": "💻️"
+  },
+  "🖥️": {
+    "body": "🖥️",
+    "prefix": "ji:desktop-computer",
+    "description": "🖥️"
+  },
+  "🖨️": {
+    "body": "🖨️",
+    "prefix": "ji:printer",
+    "description": "🖨️"
+  },
+  "⌨️": {
+    "body": "⌨️",
+    "prefix": "ji:keyboard",
+    "description": "⌨️"
+  },
+  "🖱️": {
+    "body": "🖱️",
+    "prefix": "ji:three-button-mouse",
+    "description": "🖱️"
+  },
+  "🖲️": {
+    "body": "🖲️",
+    "prefix": "ji:trackball",
+    "description": "🖲️"
+  },
+  "💽": {
+    "body": "💽",
+    "prefix": "ji:minidisc",
+    "description": "💽"
+  },
+  "💾": {
+    "body": "💾",
+    "prefix": "ji:floppy-disk",
+    "description": "💾"
+  },
+  "💿️": {
+    "body": "💿️",
+    "prefix": "ji:optical-disc",
+    "description": "💿️"
+  },
+  "📀": {
+    "body": "📀",
+    "prefix": "ji:dvd",
+    "description": "📀"
+  },
+  "🧮": {
+    "body": "🧮",
+    "prefix": "ji:abacus",
+    "description": "🧮"
+  },
+  "🎥": {
+    "body": "🎥",
+    "prefix": "ji:movie-camera",
+    "description": "🎥"
+  },
+  "🎞️": {
+    "body": "🎞️",
+    "prefix": "ji:film-frames",
+    "description": "🎞️"
+  },
+  "📽️": {
+    "body": "📽️",
+    "prefix": "ji:film-projector",
+    "description": "📽️"
+  },
+  "🎬️": {
+    "body": "🎬️",
+    "prefix": "ji:clapper-board",
+    "description": "🎬️"
+  },
+  "📺️": {
+    "body": "📺️",
+    "prefix": "ji:television",
+    "description": "📺️"
+  },
+  "📷️": {
+    "body": "📷️",
+    "prefix": "ji:camera",
+    "description": "📷️"
+  },
+  "📸": {
+    "body": "📸",
+    "prefix": "ji:camera-with-flash",
+    "description": "📸"
+  },
+  "📹️": {
+    "body": "📹️",
+    "prefix": "ji:video-camera",
+    "description": "📹️"
+  },
+  "📼": {
+    "body": "📼",
+    "prefix": "ji:videocassette",
+    "description": "📼"
+  },
+  "🔍️": {
+    "body": "🔍️",
+    "prefix": "ji:left-pointing-magnifying-glass",
+    "description": "🔍️"
+  },
+  "🔎": {
+    "body": "🔎",
+    "prefix": "ji:right-pointing-magnifying-glass",
+    "description": "🔎"
+  },
+  "🕯️": {
+    "body": "🕯️",
+    "prefix": "ji:candle",
+    "description": "🕯️"
+  },
+  "💡": {
+    "body": "💡",
+    "prefix": "ji:electric-light-bulb",
+    "description": "💡"
+  },
+  "🔦": {
+    "body": "🔦",
+    "prefix": "ji:electric-torch",
+    "description": "🔦"
+  },
+  "🏮": {
+    "body": "🏮",
+    "prefix": "ji:izakaya-lantern",
+    "description": "🏮"
+  },
+  "📔": {
+    "body": "📔",
+    "prefix": "ji:notebook-with-decorative-cover",
+    "description": "📔"
+  },
+  "📕": {
+    "body": "📕",
+    "prefix": "ji:closed-book",
+    "description": "📕"
+  },
+  "📖": {
+    "body": "📖",
+    "prefix": "ji:open-book",
+    "description": "📖"
+  },
+  "📗": {
+    "body": "📗",
+    "prefix": "ji:green-book",
+    "description": "📗"
+  },
+  "📘": {
+    "body": "📘",
+    "prefix": "ji:blue-book",
+    "description": "📘"
+  },
+  "📙": {
+    "body": "📙",
+    "prefix": "ji:orange-book",
+    "description": "📙"
+  },
+  "📚️": {
+    "body": "📚️",
+    "prefix": "ji:books",
+    "description": "📚️"
+  },
+  "📓": {
+    "body": "📓",
+    "prefix": "ji:notebook",
+    "description": "📓"
+  },
+  "📒": {
+    "body": "📒",
+    "prefix": "ji:ledger",
+    "description": "📒"
+  },
+  "📃": {
+    "body": "📃",
+    "prefix": "ji:page-with-curl",
+    "description": "📃"
+  },
+  "📜": {
+    "body": "📜",
+    "prefix": "ji:scroll",
+    "description": "📜"
+  },
+  "📄": {
+    "body": "📄",
+    "prefix": "ji:page-facing-up",
+    "description": "📄"
+  },
+  "📰": {
+    "body": "📰",
+    "prefix": "ji:newspaper",
+    "description": "📰"
+  },
+  "🗞️": {
+    "body": "🗞️",
+    "prefix": "ji:rolled-up-newspaper",
+    "description": "🗞️"
+  },
+  "📑": {
+    "body": "📑",
+    "prefix": "ji:bookmark-tabs",
+    "description": "📑"
+  },
+  "🔖": {
+    "body": "🔖",
+    "prefix": "ji:bookmark",
+    "description": "🔖"
+  },
+  "🏷️": {
+    "body": "🏷️",
+    "prefix": "ji:label",
+    "description": "🏷️"
+  },
+  "💰️": {
+    "body": "💰️",
+    "prefix": "ji:money-bag",
+    "description": "💰️"
+  },
+  "💴": {
+    "body": "💴",
+    "prefix": "ji:banknote-with-yen-sign",
+    "description": "💴"
+  },
+  "💵": {
+    "body": "💵",
+    "prefix": "ji:banknote-with-dollar-sign",
+    "description": "💵"
+  },
+  "💶": {
+    "body": "💶",
+    "prefix": "ji:banknote-with-euro-sign",
+    "description": "💶"
+  },
+  "💷": {
+    "body": "💷",
+    "prefix": "ji:banknote-with-pound-sign",
+    "description": "💷"
+  },
+  "💸": {
+    "body": "💸",
+    "prefix": "ji:money-with-wings",
+    "description": "💸"
+  },
+  "💳️": {
+    "body": "💳️",
+    "prefix": "ji:credit-card",
+    "description": "💳️"
+  },
+  "🧾": {
+    "body": "🧾",
+    "prefix": "ji:receipt",
+    "description": "🧾"
+  },
+  "💹": {
+    "body": "💹",
+    "prefix": "ji:chart-with-upwards-trend-and-yen-sign",
+    "description": "💹"
+  },
+  "💱": {
+    "body": "💱",
+    "prefix": "ji:currency-exchange",
+    "description": "💱"
+  },
+  "💲": {
+    "body": "💲",
+    "prefix": "ji:heavy-dollar-sign",
+    "description": "💲"
+  },
+  "✉️": {
+    "body": "✉️",
+    "prefix": "ji:envelope",
+    "description": "✉️"
+  },
+  "📧": {
+    "body": "📧",
+    "prefix": "ji:e-mail-symbol",
+    "description": "📧"
+  },
+  "📨": {
+    "body": "📨",
+    "prefix": "ji:incoming-envelope",
+    "description": "📨"
+  },
+  "📩": {
+    "body": "📩",
+    "prefix": "ji:envelope-with-downwards-arrow-above",
+    "description": "📩"
+  },
+  "📤️": {
+    "body": "📤️",
+    "prefix": "ji:outbox-tray",
+    "description": "📤️"
+  },
+  "📥️": {
+    "body": "📥️",
+    "prefix": "ji:inbox-tray",
+    "description": "📥️"
+  },
+  "📦️": {
+    "body": "📦️",
+    "prefix": "ji:package",
+    "description": "📦️"
+  },
+  "📫️": {
+    "body": "📫️",
+    "prefix": "ji:closed-mailbox-with-raised-flag",
+    "description": "📫️"
+  },
+  "📪️": {
+    "body": "📪️",
+    "prefix": "ji:closed-mailbox-with-lowered-flag",
+    "description": "📪️"
+  },
+  "📬️": {
+    "body": "📬️",
+    "prefix": "ji:open-mailbox-with-raised-flag",
+    "description": "📬️"
+  },
+  "📭️": {
+    "body": "📭️",
+    "prefix": "ji:open-mailbox-with-lowered-flag",
+    "description": "📭️"
+  },
+  "📮": {
+    "body": "📮",
+    "prefix": "ji:postbox",
+    "description": "📮"
+  },
+  "🗳️": {
+    "body": "🗳️",
+    "prefix": "ji:ballot-box-with-ballot",
+    "description": "🗳️"
+  },
+  "✏️": {
+    "body": "✏️",
+    "prefix": "ji:pencil",
+    "description": "✏️"
+  },
+  "✒️": {
+    "body": "✒️",
+    "prefix": "ji:black-nib",
+    "description": "✒️"
+  },
+  "🖋️": {
+    "body": "🖋️",
+    "prefix": "ji:lower-left-fountain-pen",
+    "description": "🖋️"
+  },
+  "🖊️": {
+    "body": "🖊️",
+    "prefix": "ji:lower-left-ballpoint-pen",
+    "description": "🖊️"
+  },
+  "🖌️": {
+    "body": "🖌️",
+    "prefix": "ji:lower-left-paintbrush",
+    "description": "🖌️"
+  },
+  "🖍️": {
+    "body": "🖍️",
+    "prefix": "ji:lower-left-crayon",
+    "description": "🖍️"
+  },
+  "📝": {
+    "body": "📝",
+    "prefix": "ji:memo",
+    "description": "📝"
+  },
+  "💼": {
+    "body": "💼",
+    "prefix": "ji:briefcase",
+    "description": "💼"
+  },
+  "📁": {
+    "body": "📁",
+    "prefix": "ji:file-folder",
+    "description": "📁"
+  },
+  "📂": {
+    "body": "📂",
+    "prefix": "ji:open-file-folder",
+    "description": "📂"
+  },
+  "🗂️": {
+    "body": "🗂️",
+    "prefix": "ji:card-index-dividers",
+    "description": "🗂️"
+  },
+  "📅": {
+    "body": "📅",
+    "prefix": "ji:calendar",
+    "description": "📅"
+  },
+  "📆": {
+    "body": "📆",
+    "prefix": "ji:tear-off-calendar",
+    "description": "📆"
+  },
+  "🗒️": {
+    "body": "🗒️",
+    "prefix": "ji:spiral-note-pad",
+    "description": "🗒️"
+  },
+  "🗓️": {
+    "body": "🗓️",
+    "prefix": "ji:spiral-calendar-pad",
+    "description": "🗓️"
+  },
+  "📇": {
+    "body": "📇",
+    "prefix": "ji:card-index",
+    "description": "📇"
+  },
+  "📈": {
+    "body": "📈",
+    "prefix": "ji:chart-with-upwards-trend",
+    "description": "📈"
+  },
+  "📉": {
+    "body": "📉",
+    "prefix": "ji:chart-with-downwards-trend",
+    "description": "📉"
+  },
+  "📊": {
+    "body": "📊",
+    "prefix": "ji:bar-chart",
+    "description": "📊"
+  },
+  "📋️": {
+    "body": "📋️",
+    "prefix": "ji:clipboard",
+    "description": "📋️"
+  },
+  "📌": {
+    "body": "📌",
+    "prefix": "ji:pushpin",
+    "description": "📌"
+  },
+  "📍": {
+    "body": "📍",
+    "prefix": "ji:round-pushpin",
+    "description": "📍"
+  },
+  "📎": {
+    "body": "📎",
+    "prefix": "ji:paperclip",
+    "description": "📎"
+  },
+  "🖇️": {
+    "body": "🖇️",
+    "prefix": "ji:linked-paperclips",
+    "description": "🖇️"
+  },
+  "📏": {
+    "body": "📏",
+    "prefix": "ji:straight-ruler",
+    "description": "📏"
+  },
+  "📐": {
+    "body": "📐",
+    "prefix": "ji:triangular-ruler",
+    "description": "📐"
+  },
+  "✂️": {
+    "body": "✂️",
+    "prefix": "ji:black-scissors",
+    "description": "✂️"
+  },
+  "🗃️": {
+    "body": "🗃️",
+    "prefix": "ji:card-file-box",
+    "description": "🗃️"
+  },
+  "🗄️": {
+    "body": "🗄️",
+    "prefix": "ji:file-cabinet",
+    "description": "🗄️"
+  },
+  "🗑️": {
+    "body": "🗑️",
+    "prefix": "ji:wastebasket",
+    "description": "🗑️"
+  },
+  "🔒️": {
+    "body": "🔒️",
+    "prefix": "ji:lock",
+    "description": "🔒️"
+  },
+  "🔓️": {
+    "body": "🔓️",
+    "prefix": "ji:open-lock",
+    "description": "🔓️"
+  },
+  "🔏": {
+    "body": "🔏",
+    "prefix": "ji:lock-with-ink-pen",
+    "description": "🔏"
+  },
+  "🔐": {
+    "body": "🔐",
+    "prefix": "ji:closed-lock-with-key",
+    "description": "🔐"
+  },
+  "🔑": {
+    "body": "🔑",
+    "prefix": "ji:key",
+    "description": "🔑"
+  },
+  "🗝️": {
+    "body": "🗝️",
+    "prefix": "ji:old-key",
+    "description": "🗝️"
+  },
+  "🔨": {
+    "body": "🔨",
+    "prefix": "ji:hammer",
+    "description": "🔨"
+  },
+  "⛏️": {
+    "body": "⛏️",
+    "prefix": "ji:pick",
+    "description": "⛏️"
+  },
+  "⚒️": {
+    "body": "⚒️",
+    "prefix": "ji:hammer-and-pick",
+    "description": "⚒️"
+  },
+  "🛠️": {
+    "body": "🛠️",
+    "prefix": "ji:hammer-and-wrench",
+    "description": "🛠️"
+  },
+  "🗡️": {
+    "body": "🗡️",
+    "prefix": "ji:dagger-knife",
+    "description": "🗡️"
+  },
+  "⚔️": {
+    "body": "⚔️",
+    "prefix": "ji:crossed-swords",
+    "description": "⚔️"
+  },
+  "🔫": {
+    "body": "🔫",
+    "prefix": "ji:pistol",
+    "description": "🔫"
+  },
+  "🏹": {
+    "body": "🏹",
+    "prefix": "ji:bow-and-arrow",
+    "description": "🏹"
+  },
+  "🛡️": {
+    "body": "🛡️",
+    "prefix": "ji:shield",
+    "description": "🛡️"
+  },
+  "🔧": {
+    "body": "🔧",
+    "prefix": "ji:wrench",
+    "description": "🔧"
+  },
+  "🔩": {
+    "body": "🔩",
+    "prefix": "ji:nut-and-bolt",
+    "description": "🔩"
+  },
+  "⚙️": {
+    "body": "⚙️",
+    "prefix": "ji:gear",
+    "description": "⚙️"
+  },
+  "🗜️": {
+    "body": "🗜️",
+    "prefix": "ji:compression",
+    "description": "🗜️"
+  },
+  "⚖️": {
+    "body": "⚖️",
+    "prefix": "ji:scales",
+    "description": "⚖️"
+  },
+  "🔗": {
+    "body": "🔗",
+    "prefix": "ji:link-symbol",
+    "description": "🔗"
+  },
+  "⛓️": {
+    "body": "⛓️",
+    "prefix": "ji:chains",
+    "description": "⛓️"
+  },
+  "🧰": {
+    "body": "🧰",
+    "prefix": "ji:toolbox",
+    "description": "🧰"
+  },
+  "🧲": {
+    "body": "🧲",
+    "prefix": "ji:magnet",
+    "description": "🧲"
+  },
+  "⚗️": {
+    "body": "⚗️",
+    "prefix": "ji:alembic",
+    "description": "⚗️"
+  },
+  "🧪": {
+    "body": "🧪",
+    "prefix": "ji:test-tube",
+    "description": "🧪"
+  },
+  "🧫": {
+    "body": "🧫",
+    "prefix": "ji:petri-dish",
+    "description": "🧫"
+  },
+  "🧬": {
+    "body": "🧬",
+    "prefix": "ji:dna-double-helix",
+    "description": "🧬"
+  },
+  "🔬": {
+    "body": "🔬",
+    "prefix": "ji:microscope",
+    "description": "🔬"
+  },
+  "🔭": {
+    "body": "🔭",
+    "prefix": "ji:telescope",
+    "description": "🔭"
+  },
+  "📡": {
+    "body": "📡",
+    "prefix": "ji:satellite-antenna",
+    "description": "📡"
+  },
+  "💉": {
+    "body": "💉",
+    "prefix": "ji:syringe",
+    "description": "💉"
+  },
+  "💊": {
+    "body": "💊",
+    "prefix": "ji:pill",
+    "description": "💊"
+  },
+  "🚪": {
+    "body": "🚪",
+    "prefix": "ji:door",
+    "description": "🚪"
+  },
+  "🛏️": {
+    "body": "🛏️",
+    "prefix": "ji:bed",
+    "description": "🛏️"
+  },
+  "🛋️": {
+    "body": "🛋️",
+    "prefix": "ji:couch-and-lamp",
+    "description": "🛋️"
+  },
+  "🚽": {
+    "body": "🚽",
+    "prefix": "ji:toilet",
+    "description": "🚽"
+  },
+  "🚿": {
+    "body": "🚿",
+    "prefix": "ji:shower",
+    "description": "🚿"
+  },
+  "🛁": {
+    "body": "🛁",
+    "prefix": "ji:bathtub",
+    "description": "🛁"
+  },
+  "🧴": {
+    "body": "🧴",
+    "prefix": "ji:lotion-bottle",
+    "description": "🧴"
+  },
+  "🧷": {
+    "body": "🧷",
+    "prefix": "ji:safety-pin",
+    "description": "🧷"
+  },
+  "🧹": {
+    "body": "🧹",
+    "prefix": "ji:broom",
+    "description": "🧹"
+  },
+  "🧺": {
+    "body": "🧺",
+    "prefix": "ji:basket",
+    "description": "🧺"
+  },
+  "🧻": {
+    "body": "🧻",
+    "prefix": "ji:roll-of-paper",
+    "description": "🧻"
+  },
+  "🧼": {
+    "body": "🧼",
+    "prefix": "ji:bar-of-soap",
+    "description": "🧼"
+  },
+  "🧽": {
+    "body": "🧽",
+    "prefix": "ji:sponge",
+    "description": "🧽"
+  },
+  "🧯": {
+    "body": "🧯",
+    "prefix": "ji:fire-extinguisher",
+    "description": "🧯"
+  },
+  "🛒": {
+    "body": "🛒",
+    "prefix": "ji:shopping-trolley",
+    "description": "🛒"
+  },
+  "🚬": {
+    "body": "🚬",
+    "prefix": "ji:smoking-symbol",
+    "description": "🚬"
+  },
+  "⚰️": {
+    "body": "⚰️",
+    "prefix": "ji:coffin",
+    "description": "⚰️"
+  },
+  "⚱️": {
+    "body": "⚱️",
+    "prefix": "ji:funeral-urn",
+    "description": "⚱️"
+  },
+  "🗿": {
+    "body": "🗿",
+    "prefix": "ji:moyai",
+    "description": "🗿"
+  },
+  "🏧": {
+    "body": "🏧",
+    "prefix": "ji:automated-teller-machine",
+    "description": "🏧"
+  },
+  "🚮": {
+    "body": "🚮",
+    "prefix": "ji:put-litter-in-its-place-symbol",
+    "description": "🚮"
+  },
+  "🚰": {
+    "body": "🚰",
+    "prefix": "ji:potable-water-symbol",
+    "description": "🚰"
+  },
+  "♿️": {
+    "body": "♿️",
+    "prefix": "ji:wheelchair-symbol",
+    "description": "♿️"
+  },
+  "🚹️": {
+    "body": "🚹️",
+    "prefix": "ji:mens-symbol",
+    "description": "🚹️"
+  },
+  "🚺️": {
+    "body": "🚺️",
+    "prefix": "ji:womens-symbol",
+    "description": "🚺️"
+  },
+  "🚻": {
+    "body": "🚻",
+    "prefix": "ji:restroom",
+    "description": "🚻"
+  },
+  "🚼️": {
+    "body": "🚼️",
+    "prefix": "ji:baby-symbol",
+    "description": "🚼️"
+  },
+  "🚾": {
+    "body": "🚾",
+    "prefix": "ji:water-closet",
+    "description": "🚾"
+  },
+  "🛂": {
+    "body": "🛂",
+    "prefix": "ji:passport-control",
+    "description": "🛂"
+  },
+  "🛃": {
+    "body": "🛃",
+    "prefix": "ji:customs",
+    "description": "🛃"
+  },
+  "🛄": {
+    "body": "🛄",
+    "prefix": "ji:baggage-claim",
+    "description": "🛄"
+  },
+  "🛅": {
+    "body": "🛅",
+    "prefix": "ji:left-luggage",
+    "description": "🛅"
+  },
+  "⚠️": {
+    "body": "⚠️",
+    "prefix": "ji:warning-sign",
+    "description": "⚠️"
+  },
+  "🚸": {
+    "body": "🚸",
+    "prefix": "ji:children-crossing",
+    "description": "🚸"
+  },
+  "⛔️": {
+    "body": "⛔️",
+    "prefix": "ji:no-entry",
+    "description": "⛔️"
+  },
+  "🚫": {
+    "body": "🚫",
+    "prefix": "ji:no-entry-sign",
+    "description": "🚫"
+  },
+  "🚳": {
+    "body": "🚳",
+    "prefix": "ji:no-bicycles",
+    "description": "🚳"
+  },
+  "🚭️": {
+    "body": "🚭️",
+    "prefix": "ji:no-smoking-symbol",
+    "description": "🚭️"
+  },
+  "🚯": {
+    "body": "🚯",
+    "prefix": "ji:do-not-litter-symbol",
+    "description": "🚯"
+  },
+  "🚱": {
+    "body": "🚱",
+    "prefix": "ji:non-potable-water-symbol",
+    "description": "🚱"
+  },
+  "🚷": {
+    "body": "🚷",
+    "prefix": "ji:no-pedestrians",
+    "description": "🚷"
+  },
+  "📵": {
+    "body": "📵",
+    "prefix": "ji:no-mobile-phones",
+    "description": "📵"
+  },
+  "🔞": {
+    "body": "🔞",
+    "prefix": "ji:no-one-under-eighteen-symbol",
+    "description": "🔞"
+  },
+  "☢️": {
+    "body": "☢️",
+    "prefix": "ji:radioactive-sign",
+    "description": "☢️"
+  },
+  "☣️": {
+    "body": "☣️",
+    "prefix": "ji:biohazard-sign",
+    "description": "☣️"
+  },
+  "⬆️": {
+    "body": "⬆️",
+    "prefix": "ji:upwards-black-arrow",
+    "description": "⬆️"
+  },
+  "↗️": {
+    "body": "↗️",
+    "prefix": "ji:north-east-arrow",
+    "description": "↗️"
+  },
+  "➡️": {
+    "body": "➡️",
+    "prefix": "ji:black-rightwards-arrow",
+    "description": "➡️"
+  },
+  "↘️": {
+    "body": "↘️",
+    "prefix": "ji:south-east-arrow",
+    "description": "↘️"
+  },
+  "⬇️": {
+    "body": "⬇️",
+    "prefix": "ji:downwards-black-arrow",
+    "description": "⬇️"
+  },
+  "↙️": {
+    "body": "↙️",
+    "prefix": "ji:south-west-arrow",
+    "description": "↙️"
+  },
+  "⬅️": {
+    "body": "⬅️",
+    "prefix": "ji:leftwards-black-arrow",
+    "description": "⬅️"
+  },
+  "↖️": {
+    "body": "↖️",
+    "prefix": "ji:north-west-arrow",
+    "description": "↖️"
+  },
+  "↕️": {
+    "body": "↕️",
+    "prefix": "ji:up-down-arrow",
+    "description": "↕️"
+  },
+  "↔️": {
+    "body": "↔️",
+    "prefix": "ji:left-right-arrow",
+    "description": "↔️"
+  },
+  "↩️": {
+    "body": "↩️",
+    "prefix": "ji:leftwards-arrow-with-hook",
+    "description": "↩️"
+  },
+  "↪️": {
+    "body": "↪️",
+    "prefix": "ji:rightwards-arrow-with-hook",
+    "description": "↪️"
+  },
+  "⤴️": {
+    "body": "⤴️",
+    "prefix": "ji:arrow-pointing-rightwards-then-curving-upwards",
+    "description": "⤴️"
+  },
+  "⤵️": {
+    "body": "⤵️",
+    "prefix": "ji:arrow-pointing-rightwards-then-curving-downwards",
+    "description": "⤵️"
+  },
+  "🔃": {
+    "body": "🔃",
+    "prefix": "ji:clockwise-downwards-and-upwards-open-circle-arrows",
+    "description": "🔃"
+  },
+  "🔄": {
+    "body": "🔄",
+    "prefix": "ji:anticlockwise-downwards-and-upwards-open-circle-arrows",
+    "description": "🔄"
+  },
+  "🔙": {
+    "body": "🔙",
+    "prefix": "ji:back-with-leftwards-arrow-above",
+    "description": "🔙"
+  },
+  "🔚": {
+    "body": "🔚",
+    "prefix": "ji:end-with-leftwards-arrow-above",
+    "description": "🔚"
+  },
+  "🔛": {
+    "body": "🔛",
+    "prefix": "ji:on-with-exclamation-mark-with-left-right-arrow-above",
+    "description": "🔛"
+  },
+  "🔜": {
+    "body": "🔜",
+    "prefix": "ji:soon-with-rightwards-arrow-above",
+    "description": "🔜"
+  },
+  "🔝": {
+    "body": "🔝",
+    "prefix": "ji:top-with-upwards-arrow-above",
+    "description": "🔝"
+  },
+  "🛐": {
+    "body": "🛐",
+    "prefix": "ji:place-of-worship",
+    "description": "🛐"
+  },
+  "⚛️": {
+    "body": "⚛️",
+    "prefix": "ji:atom-symbol",
+    "description": "⚛️"
+  },
+  "🕉️": {
+    "body": "🕉️",
+    "prefix": "ji:om-symbol",
+    "description": "🕉️"
+  },
+  "✡️": {
+    "body": "✡️",
+    "prefix": "ji:star-of-david",
+    "description": "✡️"
+  },
+  "☸️": {
+    "body": "☸️",
+    "prefix": "ji:wheel-of-dharma",
+    "description": "☸️"
+  },
+  "☯️": {
+    "body": "☯️",
+    "prefix": "ji:yin-yang",
+    "description": "☯️"
+  },
+  "✝️": {
+    "body": "✝️",
+    "prefix": "ji:latin-cross",
+    "description": "✝️"
+  },
+  "☦️": {
+    "body": "☦️",
+    "prefix": "ji:orthodox-cross",
+    "description": "☦️"
+  },
+  "☪️": {
+    "body": "☪️",
+    "prefix": "ji:star-and-crescent",
+    "description": "☪️"
+  },
+  "☮️": {
+    "body": "☮️",
+    "prefix": "ji:peace-symbol",
+    "description": "☮️"
+  },
+  "🕎": {
+    "body": "🕎",
+    "prefix": "ji:menorah-with-nine-branches",
+    "description": "🕎"
+  },
+  "🔯": {
+    "body": "🔯",
+    "prefix": "ji:six-pointed-star-with-middle-dot",
+    "description": "🔯"
+  },
+  "♈️": {
+    "body": "♈️",
+    "prefix": "ji:aries",
+    "description": "♈️"
+  },
+  "♉️": {
+    "body": "♉️",
+    "prefix": "ji:taurus",
+    "description": "♉️"
+  },
+  "♊️": {
+    "body": "♊️",
+    "prefix": "ji:gemini",
+    "description": "♊️"
+  },
+  "♋️": {
+    "body": "♋️",
+    "prefix": "ji:cancer",
+    "description": "♋️"
+  },
+  "♌️": {
+    "body": "♌️",
+    "prefix": "ji:leo",
+    "description": "♌️"
+  },
+  "♍️": {
+    "body": "♍️",
+    "prefix": "ji:virgo",
+    "description": "♍️"
+  },
+  "♎️": {
+    "body": "♎️",
+    "prefix": "ji:libra",
+    "description": "♎️"
+  },
+  "♏️": {
+    "body": "♏️",
+    "prefix": "ji:scorpius",
+    "description": "♏️"
+  },
+  "♐️": {
+    "body": "♐️",
+    "prefix": "ji:sagittarius",
+    "description": "♐️"
+  },
+  "♑️": {
+    "body": "♑️",
+    "prefix": "ji:capricorn",
+    "description": "♑️"
+  },
+  "♒️": {
+    "body": "♒️",
+    "prefix": "ji:aquarius",
+    "description": "♒️"
+  },
+  "♓️": {
+    "body": "♓️",
+    "prefix": "ji:pisces",
+    "description": "♓️"
+  },
+  "⛎": {
+    "body": "⛎",
+    "prefix": "ji:ophiuchus",
+    "description": "⛎"
+  },
+  "🔀": {
+    "body": "🔀",
+    "prefix": "ji:twisted-rightwards-arrows",
+    "description": "🔀"
+  },
+  "🔁": {
+    "body": "🔁",
+    "prefix": "ji:clockwise-rightwards-and-leftwards-open-circle-arrows",
+    "description": "🔁"
+  },
+  "🔂": {
+    "body": "🔂",
+    "prefix": "ji:clockwise-rightwards-and-leftwards-open-circle-arrows-with-circled-one-overlay",
+    "description": "🔂"
+  },
+  "▶️": {
+    "body": "▶️",
+    "prefix": "ji:black-right-pointing-triangle",
+    "description": "▶️"
+  },
+  "⏩️": {
+    "body": "⏩️",
+    "prefix": "ji:black-right-pointing-double-triangle",
+    "description": "⏩️"
+  },
+  "⏭️": {
+    "body": "⏭️",
+    "prefix": "ji:black-right-pointing-double-triangle-with-vertical-bar",
+    "description": "⏭️"
+  },
+  "⏯️": {
+    "body": "⏯️",
+    "prefix": "ji:black-right-pointing-triangle-with-double-vertical-bar",
+    "description": "⏯️"
+  },
+  "◀️": {
+    "body": "◀️",
+    "prefix": "ji:black-left-pointing-triangle",
+    "description": "◀️"
+  },
+  "⏪️": {
+    "body": "⏪️",
+    "prefix": "ji:black-left-pointing-double-triangle",
+    "description": "⏪️"
+  },
+  "⏮️": {
+    "body": "⏮️",
+    "prefix": "ji:black-left-pointing-double-triangle-with-vertical-bar",
+    "description": "⏮️"
+  },
+  "🔼": {
+    "body": "🔼",
+    "prefix": "ji:up-pointing-small-red-triangle",
+    "description": "🔼"
+  },
+  "⏫": {
+    "body": "⏫",
+    "prefix": "ji:black-up-pointing-double-triangle",
+    "description": "⏫"
+  },
+  "🔽": {
+    "body": "🔽",
+    "prefix": "ji:down-pointing-small-red-triangle",
+    "description": "🔽"
+  },
+  "⏬": {
+    "body": "⏬",
+    "prefix": "ji:black-down-pointing-double-triangle",
+    "description": "⏬"
+  },
+  "⏸️": {
+    "body": "⏸️",
+    "prefix": "ji:double-vertical-bar",
+    "description": "⏸️"
+  },
+  "⏹️": {
+    "body": "⏹️",
+    "prefix": "ji:black-square-for-stop",
+    "description": "⏹️"
+  },
+  "⏺️": {
+    "body": "⏺️",
+    "prefix": "ji:black-circle-for-record",
+    "description": "⏺️"
+  },
+  "⏏️": {
+    "body": "⏏️",
+    "prefix": "ji:eject-symbol",
+    "description": "⏏️"
+  },
+  "🎦": {
+    "body": "🎦",
+    "prefix": "ji:cinema",
+    "description": "🎦"
+  },
+  "🔅": {
+    "body": "🔅",
+    "prefix": "ji:low-brightness-symbol",
+    "description": "🔅"
+  },
+  "🔆": {
+    "body": "🔆",
+    "prefix": "ji:high-brightness-symbol",
+    "description": "🔆"
+  },
+  "📶": {
+    "body": "📶",
+    "prefix": "ji:antenna-with-bars",
+    "description": "📶"
+  },
+  "📳": {
+    "body": "📳",
+    "prefix": "ji:vibration-mode",
+    "description": "📳"
+  },
+  "📴": {
+    "body": "📴",
+    "prefix": "ji:mobile-phone-off",
+    "description": "📴"
+  },
+  "♀️": {
+    "body": "♀️",
+    "prefix": "ji:female-sign",
+    "description": "♀️"
+  },
+  "♂️": {
+    "body": "♂️",
+    "prefix": "ji:male-sign",
+    "description": "♂️"
+  },
+  "⚕️": {
+    "body": "⚕️",
+    "prefix": "ji:staff-of-aesculapius",
+    "description": "⚕️"
+  },
+  "♾️": {
+    "body": "♾️",
+    "prefix": "ji:permanent-paper-sign",
+    "description": "♾️"
+  },
+  "♻️": {
+    "body": "♻️",
+    "prefix": "ji:black-universal-recycling-symbol",
+    "description": "♻️"
+  },
+  "⚜️": {
+    "body": "⚜️",
+    "prefix": "ji:fleur-de-lis",
+    "description": "⚜️"
+  },
+  "🔱": {
+    "body": "🔱",
+    "prefix": "ji:trident-emblem",
+    "description": "🔱"
+  },
+  "📛": {
+    "body": "📛",
+    "prefix": "ji:name-badge",
+    "description": "📛"
+  },
+  "🔰": {
+    "body": "🔰",
+    "prefix": "ji:japanese-symbol-for-beginner",
+    "description": "🔰"
+  },
+  "⭕️": {
+    "body": "⭕️",
+    "prefix": "ji:heavy-large-circle",
+    "description": "⭕️"
+  },
+  "✅": {
+    "body": "✅",
+    "prefix": "ji:white-heavy-check-mark",
+    "description": "✅"
+  },
+  "☑️": {
+    "body": "☑️",
+    "prefix": "ji:ballot-box-with-check",
+    "description": "☑️"
+  },
+  "✔️": {
+    "body": "✔️",
+    "prefix": "ji:heavy-check-mark",
+    "description": "✔️"
+  },
+  "✖️": {
+    "body": "✖️",
+    "prefix": "ji:heavy-multiplication-x",
+    "description": "✖️"
+  },
+  "❌": {
+    "body": "❌",
+    "prefix": "ji:cross-mark",
+    "description": "❌"
+  },
+  "❎": {
+    "body": "❎",
+    "prefix": "ji:negative-squared-cross-mark",
+    "description": "❎"
+  },
+  "➕": {
+    "body": "➕",
+    "prefix": "ji:heavy-plus-sign",
+    "description": "➕"
+  },
+  "➖": {
+    "body": "➖",
+    "prefix": "ji:heavy-minus-sign",
+    "description": "➖"
+  },
+  "➗": {
+    "body": "➗",
+    "prefix": "ji:heavy-division-sign",
+    "description": "➗"
+  },
+  "➰": {
+    "body": "➰",
+    "prefix": "ji:curly-loop",
+    "description": "➰"
+  },
+  "➿": {
+    "body": "➿",
+    "prefix": "ji:double-curly-loop",
+    "description": "➿"
+  },
+  "〽️": {
+    "body": "〽️",
+    "prefix": "ji:part-alternation-mark",
+    "description": "〽️"
+  },
+  "✳️": {
+    "body": "✳️",
+    "prefix": "ji:eight-spoked-asterisk",
+    "description": "✳️"
+  },
+  "✴️": {
+    "body": "✴️",
+    "prefix": "ji:eight-pointed-black-star",
+    "description": "✴️"
+  },
+  "❇️": {
+    "body": "❇️",
+    "prefix": "ji:sparkle",
+    "description": "❇️"
+  },
+  "‼️": {
+    "body": "‼️",
+    "prefix": "ji:double-exclamation-mark",
+    "description": "‼️"
+  },
+  "⁉️": {
+    "body": "⁉️",
+    "prefix": "ji:exclamation-question-mark",
+    "description": "⁉️"
+  },
+  "❓️": {
+    "body": "❓️",
+    "prefix": "ji:black-question-mark-ornament",
+    "description": "❓️"
+  },
+  "❔": {
+    "body": "❔",
+    "prefix": "ji:white-question-mark-ornament",
+    "description": "❔"
+  },
+  "❕": {
+    "body": "❕",
+    "prefix": "ji:white-exclamation-mark-ornament",
+    "description": "❕"
+  },
+  "❗️": {
+    "body": "❗️",
+    "prefix": "ji:heavy-exclamation-mark-symbol",
+    "description": "❗️"
+  },
+  "〰️": {
+    "body": "〰️",
+    "prefix": "ji:wavy-dash",
+    "description": "〰️"
+  },
+  "©️": {
+    "body": "©️",
+    "prefix": "ji:copyright-sign",
+    "description": "©️"
+  },
+  "®️": {
+    "body": "®️",
+    "prefix": "ji:registered-sign",
+    "description": "®️"
+  },
+  "™️": {
+    "body": "™️",
+    "prefix": "ji:trade-mark-sign",
+    "description": "™️"
+  },
+  "#️⃣": {
+    "body": "#️⃣",
+    "prefix": "ji:number-sign-combining-enclosing-keycap",
+    "description": "#️⃣"
+  },
+  "*️⃣": {
+    "body": "*️⃣",
+    "prefix": "ji:asterisk-combining-enclosing-keycap",
+    "description": "*️⃣"
+  },
+  "0️⃣": {
+    "body": "0️⃣",
+    "prefix": "ji:digit-zero-combining-enclosing-keycap",
+    "description": "0️⃣"
+  },
+  "1️⃣": {
+    "body": "1️⃣",
+    "prefix": "ji:digit-one-combining-enclosing-keycap",
+    "description": "1️⃣"
+  },
+  "2️⃣": {
+    "body": "2️⃣",
+    "prefix": "ji:digit-two-combining-enclosing-keycap",
+    "description": "2️⃣"
+  },
+  "3️⃣": {
+    "body": "3️⃣",
+    "prefix": "ji:digit-three-combining-enclosing-keycap",
+    "description": "3️⃣"
+  },
+  "4️⃣": {
+    "body": "4️⃣",
+    "prefix": "ji:digit-four-combining-enclosing-keycap",
+    "description": "4️⃣"
+  },
+  "5️⃣": {
+    "body": "5️⃣",
+    "prefix": "ji:digit-five-combining-enclosing-keycap",
+    "description": "5️⃣"
+  },
+  "6️⃣": {
+    "body": "6️⃣",
+    "prefix": "ji:digit-six-combining-enclosing-keycap",
+    "description": "6️⃣"
+  },
+  "7️⃣": {
+    "body": "7️⃣",
+    "prefix": "ji:digit-seven-combining-enclosing-keycap",
+    "description": "7️⃣"
+  },
+  "8️⃣": {
+    "body": "8️⃣",
+    "prefix": "ji:digit-eight-combining-enclosing-keycap",
+    "description": "8️⃣"
+  },
+  "9️⃣": {
+    "body": "9️⃣",
+    "prefix": "ji:digit-nine-combining-enclosing-keycap",
+    "description": "9️⃣"
+  },
+  "🔟": {
+    "body": "🔟",
+    "prefix": "ji:keycap-ten",
+    "description": "🔟"
+  },
+  "💯": {
+    "body": "💯",
+    "prefix": "ji:hundred-points-symbol",
+    "description": "💯"
+  },
+  "🔠": {
+    "body": "🔠",
+    "prefix": "ji:input-symbol-for-latin-capital-letters",
+    "description": "🔠"
+  },
+  "🔡": {
+    "body": "🔡",
+    "prefix": "ji:input-symbol-for-latin-small-letters",
+    "description": "🔡"
+  },
+  "🔢": {
+    "body": "🔢",
+    "prefix": "ji:input-symbol-for-numbers",
+    "description": "🔢"
+  },
+  "🔣": {
+    "body": "🔣",
+    "prefix": "ji:input-symbol-for-symbols",
+    "description": "🔣"
+  },
+  "🔤": {
+    "body": "🔤",
+    "prefix": "ji:input-symbol-for-latin-letters",
+    "description": "🔤"
+  },
+  "🅰️": {
+    "body": "🅰️",
+    "prefix": "ji:negative-squared-latin-capital-letter-a",
+    "description": "🅰️"
+  },
+  "🆎": {
+    "body": "🆎",
+    "prefix": "ji:negative-squared-ab",
+    "description": "🆎"
+  },
+  "🅱️": {
+    "body": "🅱️",
+    "prefix": "ji:negative-squared-latin-capital-letter-b",
+    "description": "🅱️"
+  },
+  "🆑": {
+    "body": "🆑",
+    "prefix": "ji:squared-cl",
+    "description": "🆑"
+  },
+  "🆒": {
+    "body": "🆒",
+    "prefix": "ji:squared-cool",
+    "description": "🆒"
+  },
+  "🆓": {
+    "body": "🆓",
+    "prefix": "ji:squared-free",
+    "description": "🆓"
+  },
+  "ℹ️": {
+    "body": "ℹ️",
+    "prefix": "ji:information-source",
+    "description": "ℹ️"
+  },
+  "🆔": {
+    "body": "🆔",
+    "prefix": "ji:squared-id",
+    "description": "🆔"
+  },
+  "Ⓜ️": {
+    "body": "Ⓜ️",
+    "prefix": "ji:circled-latin-capital-letter-m",
+    "description": "Ⓜ️"
+  },
+  "🆕": {
+    "body": "🆕",
+    "prefix": "ji:squared-new",
+    "description": "🆕"
+  },
+  "🆖": {
+    "body": "🆖",
+    "prefix": "ji:squared-ng",
+    "description": "🆖"
+  },
+  "🅾️": {
+    "body": "🅾️",
+    "prefix": "ji:negative-squared-latin-capital-letter-o",
+    "description": "🅾️"
+  },
+  "🆗": {
+    "body": "🆗",
+    "prefix": "ji:squared-ok",
+    "description": "🆗"
+  },
+  "🅿️": {
+    "body": "🅿️",
+    "prefix": "ji:negative-squared-latin-capital-letter-p",
+    "description": "🅿️"
+  },
+  "🆘": {
+    "body": "🆘",
+    "prefix": "ji:squared-sos",
+    "description": "🆘"
+  },
+  "🆙": {
+    "body": "🆙",
+    "prefix": "ji:squared-up-with-exclamation-mark",
+    "description": "🆙"
+  },
+  "🆚": {
+    "body": "🆚",
+    "prefix": "ji:squared-vs",
+    "description": "🆚"
+  },
+  "🈁": {
+    "body": "🈁",
+    "prefix": "ji:squared-katakana-koko",
+    "description": "🈁"
+  },
+  "🈂️": {
+    "body": "🈂️",
+    "prefix": "ji:squared-katakana-sa",
+    "description": "🈂️"
+  },
+  "🈷️": {
+    "body": "🈷️",
+    "prefix": "ji:squared-cjk-unified-ideograph-6708",
+    "description": "🈷️"
+  },
+  "🈶": {
+    "body": "🈶",
+    "prefix": "ji:squared-cjk-unified-ideograph-6709",
+    "description": "🈶"
+  },
+  "🈯️": {
+    "body": "🈯️",
+    "prefix": "ji:squared-cjk-unified-ideograph-6307",
+    "description": "🈯️"
+  },
+  "🉐": {
+    "body": "🉐",
+    "prefix": "ji:circled-ideograph-advantage",
+    "description": "🉐"
+  },
+  "🈹": {
+    "body": "🈹",
+    "prefix": "ji:squared-cjk-unified-ideograph-5272",
+    "description": "🈹"
+  },
+  "🈚️": {
+    "body": "🈚️",
+    "prefix": "ji:squared-cjk-unified-ideograph-7121",
+    "description": "🈚️"
+  },
+  "🈲": {
+    "body": "🈲",
+    "prefix": "ji:squared-cjk-unified-ideograph-7981",
+    "description": "🈲"
+  },
+  "🉑": {
+    "body": "🉑",
+    "prefix": "ji:circled-ideograph-accept",
+    "description": "🉑"
+  },
+  "🈸": {
+    "body": "🈸",
+    "prefix": "ji:squared-cjk-unified-ideograph-7533",
+    "description": "🈸"
+  },
+  "🈴": {
+    "body": "🈴",
+    "prefix": "ji:squared-cjk-unified-ideograph-5408",
+    "description": "🈴"
+  },
+  "🈳": {
+    "body": "🈳",
+    "prefix": "ji:squared-cjk-unified-ideograph-7a7a",
+    "description": "🈳"
+  },
+  "㊗️": {
+    "body": "㊗️",
+    "prefix": "ji:circled-ideograph-congratulation",
+    "description": "㊗️"
+  },
+  "㊙️": {
+    "body": "㊙️",
+    "prefix": "ji:circled-ideograph-secret",
+    "description": "㊙️"
+  },
+  "🈺": {
+    "body": "🈺",
+    "prefix": "ji:squared-cjk-unified-ideograph-55b6",
+    "description": "🈺"
+  },
+  "🈵": {
+    "body": "🈵",
+    "prefix": "ji:squared-cjk-unified-ideograph-6e80",
+    "description": "🈵"
+  },
+  "▪️": {
+    "body": "▪️",
+    "prefix": "ji:black-small-square",
+    "description": "▪️"
+  },
+  "▫️": {
+    "body": "▫️",
+    "prefix": "ji:white-small-square",
+    "description": "▫️"
+  },
+  "◻️": {
+    "body": "◻️",
+    "prefix": "ji:white-medium-square",
+    "description": "◻️"
+  },
+  "◼️": {
+    "body": "◼️",
+    "prefix": "ji:black-medium-square",
+    "description": "◼️"
+  },
+  "◽️": {
+    "body": "◽️",
+    "prefix": "ji:white-medium-small-square",
+    "description": "◽️"
+  },
+  "◾️": {
+    "body": "◾️",
+    "prefix": "ji:black-medium-small-square",
+    "description": "◾️"
+  },
+  "⬛️": {
+    "body": "⬛️",
+    "prefix": "ji:black-large-square",
+    "description": "⬛️"
+  },
+  "⬜️": {
+    "body": "⬜️",
+    "prefix": "ji:white-large-square",
+    "description": "⬜️"
+  },
+  "🔶": {
+    "body": "🔶",
+    "prefix": "ji:large-orange-diamond",
+    "description": "🔶"
+  },
+  "🔷": {
+    "body": "🔷",
+    "prefix": "ji:large-blue-diamond",
+    "description": "🔷"
+  },
+  "🔸": {
+    "body": "🔸",
+    "prefix": "ji:small-orange-diamond",
+    "description": "🔸"
+  },
+  "🔹": {
+    "body": "🔹",
+    "prefix": "ji:small-blue-diamond",
+    "description": "🔹"
+  },
+  "🔺": {
+    "body": "🔺",
+    "prefix": "ji:up-pointing-red-triangle",
+    "description": "🔺"
+  },
+  "🔻": {
+    "body": "🔻",
+    "prefix": "ji:down-pointing-red-triangle",
+    "description": "🔻"
+  },
+  "💠": {
+    "body": "💠",
+    "prefix": "ji:diamond-shape-with-a-dot-inside",
+    "description": "💠"
+  },
+  "🔘": {
+    "body": "🔘",
+    "prefix": "ji:radio-button",
+    "description": "🔘"
+  },
+  "🔲": {
+    "body": "🔲",
+    "prefix": "ji:black-square-button",
+    "description": "🔲"
+  },
+  "🔳": {
+    "body": "🔳",
+    "prefix": "ji:white-square-button",
+    "description": "🔳"
+  },
+  "⚪️": {
+    "body": "⚪️",
+    "prefix": "ji:medium-white-circle",
+    "description": "⚪️"
+  },
+  "⚫️": {
+    "body": "⚫️",
+    "prefix": "ji:medium-black-circle",
+    "description": "⚫️"
+  },
+  "🔴": {
+    "body": "🔴",
+    "prefix": "ji:large-red-circle",
+    "description": "🔴"
+  },
+  "🔵": {
+    "body": "🔵",
+    "prefix": "ji:large-blue-circle",
+    "description": "🔵"
+  },
+  "🏁": {
+    "body": "🏁",
+    "prefix": "ji:chequered-flag",
+    "description": "🏁"
+  },
+  "🚩": {
+    "body": "🚩",
+    "prefix": "ji:triangular-flag-on-post",
+    "description": "🚩"
+  },
+  "🎌": {
+    "body": "🎌",
+    "prefix": "ji:crossed-flags",
+    "description": "🎌"
+  },
+  "🏴": {
+    "body": "🏴",
+    "prefix": "ji:waving-black-flag",
+    "description": "🏴"
+  },
+  "🏳️": {
+    "body": "🏳️",
+    "prefix": "ji:waving-white-flag",
+    "description": "🏳️"
+  },
+  "🏳️‍🌈": {
+    "body": "🏳️‍🌈",
+    "prefix": "ji:waving-white-flag-rainbow",
+    "description": "🏳️‍🌈"
+  },
+  "🏴‍☠️": {
+    "body": "🏴‍☠️",
+    "prefix": "ji:waving-black-flag-skull-and-crossbones",
+    "description": "🏴‍☠️"
+  },
+  "🇦🇨": {
+    "body": "🇦🇨",
+    "prefix": "ji:ascension-island",
+    "description": "🇦🇨"
+  },
+  "🇦🇩": {
+    "body": "🇦🇩",
+    "prefix": "ji:andorra",
+    "description": "🇦🇩"
+  },
+  "🇦🇪": {
+    "body": "🇦🇪",
+    "prefix": "ji:united-arab-emirates",
+    "description": "🇦🇪"
+  },
+  "🇦🇫": {
+    "body": "🇦🇫",
+    "prefix": "ji:afghanistan",
+    "description": "🇦🇫"
+  },
+  "🇦🇬": {
+    "body": "🇦🇬",
+    "prefix": "ji:antigua-&-barbuda",
+    "description": "🇦🇬"
+  },
+  "🇦🇮": {
+    "body": "🇦🇮",
+    "prefix": "ji:anguilla",
+    "description": "🇦🇮"
+  },
+  "🇦🇱": {
+    "body": "🇦🇱",
+    "prefix": "ji:albania",
+    "description": "🇦🇱"
+  },
+  "🇦🇲": {
+    "body": "🇦🇲",
+    "prefix": "ji:armenia",
+    "description": "🇦🇲"
+  },
+  "🇦🇴": {
+    "body": "🇦🇴",
+    "prefix": "ji:angola",
+    "description": "🇦🇴"
+  },
+  "🇦🇶": {
+    "body": "🇦🇶",
+    "prefix": "ji:antarctica",
+    "description": "🇦🇶"
+  },
+  "🇦🇷": {
+    "body": "🇦🇷",
+    "prefix": "ji:argentina",
+    "description": "🇦🇷"
+  },
+  "🇦🇸": {
+    "body": "🇦🇸",
+    "prefix": "ji:american-samoa",
+    "description": "🇦🇸"
+  },
+  "🇦🇹": {
+    "body": "🇦🇹",
+    "prefix": "ji:austria",
+    "description": "🇦🇹"
+  },
+  "🇦🇺": {
+    "body": "🇦🇺",
+    "prefix": "ji:australia",
+    "description": "🇦🇺"
+  },
+  "🇦🇼": {
+    "body": "🇦🇼",
+    "prefix": "ji:aruba",
+    "description": "🇦🇼"
+  },
+  "🇦🇽": {
+    "body": "🇦🇽",
+    "prefix": "ji:åland-islands",
+    "description": "🇦🇽"
+  },
+  "🇦🇿": {
+    "body": "🇦🇿",
+    "prefix": "ji:azerbaijan",
+    "description": "🇦🇿"
+  },
+  "🇧🇦": {
+    "body": "🇧🇦",
+    "prefix": "ji:bosnia-&-herzegovina",
+    "description": "🇧🇦"
+  },
+  "🇧🇧": {
+    "body": "🇧🇧",
+    "prefix": "ji:barbados",
+    "description": "🇧🇧"
+  },
+  "🇧🇩": {
+    "body": "🇧🇩",
+    "prefix": "ji:bangladesh",
+    "description": "🇧🇩"
+  },
+  "🇧🇪": {
+    "body": "🇧🇪",
+    "prefix": "ji:belgium",
+    "description": "🇧🇪"
+  },
+  "🇧🇫": {
+    "body": "🇧🇫",
+    "prefix": "ji:burkina-faso",
+    "description": "🇧🇫"
+  },
+  "🇧🇬": {
+    "body": "🇧🇬",
+    "prefix": "ji:bulgaria",
+    "description": "🇧🇬"
+  },
+  "🇧🇭": {
+    "body": "🇧🇭",
+    "prefix": "ji:bahrain",
+    "description": "🇧🇭"
+  },
+  "🇧🇮": {
+    "body": "🇧🇮",
+    "prefix": "ji:burundi",
+    "description": "🇧🇮"
+  },
+  "🇧🇯": {
+    "body": "🇧🇯",
+    "prefix": "ji:benin",
+    "description": "🇧🇯"
+  },
+  "🇧🇱": {
+    "body": "🇧🇱",
+    "prefix": "ji:st-barthélemy",
+    "description": "🇧🇱"
+  },
+  "🇧🇲": {
+    "body": "🇧🇲",
+    "prefix": "ji:bermuda",
+    "description": "🇧🇲"
+  },
+  "🇧🇳": {
+    "body": "🇧🇳",
+    "prefix": "ji:brunei",
+    "description": "🇧🇳"
+  },
+  "🇧🇴": {
+    "body": "🇧🇴",
+    "prefix": "ji:bolivia",
+    "description": "🇧🇴"
+  },
+  "🇧🇶": {
+    "body": "🇧🇶",
+    "prefix": "ji:caribbean-netherlands",
+    "description": "🇧🇶"
+  },
+  "🇧🇷": {
+    "body": "🇧🇷",
+    "prefix": "ji:brazil",
+    "description": "🇧🇷"
+  },
+  "🇧🇸": {
+    "body": "🇧🇸",
+    "prefix": "ji:bahamas",
+    "description": "🇧🇸"
+  },
+  "🇧🇹": {
+    "body": "🇧🇹",
+    "prefix": "ji:bhutan",
+    "description": "🇧🇹"
+  },
+  "🇧🇻": {
+    "body": "🇧🇻",
+    "prefix": "ji:bouvet-island",
+    "description": "🇧🇻"
+  },
+  "🇧🇼": {
+    "body": "🇧🇼",
+    "prefix": "ji:botswana",
+    "description": "🇧🇼"
+  },
+  "🇧🇾": {
+    "body": "🇧🇾",
+    "prefix": "ji:belarus",
+    "description": "🇧🇾"
+  },
+  "🇧🇿": {
+    "body": "🇧🇿",
+    "prefix": "ji:belize",
+    "description": "🇧🇿"
+  },
+  "🇨🇦": {
+    "body": "🇨🇦",
+    "prefix": "ji:canada",
+    "description": "🇨🇦"
+  },
+  "🇨🇨": {
+    "body": "🇨🇨",
+    "prefix": "ji:cocos-(keeling)-islands",
+    "description": "🇨🇨"
+  },
+  "🇨🇩": {
+    "body": "🇨🇩",
+    "prefix": "ji:congo---kinshasa",
+    "description": "🇨🇩"
+  },
+  "🇨🇫": {
+    "body": "🇨🇫",
+    "prefix": "ji:central-african-republic",
+    "description": "🇨🇫"
+  },
+  "🇨🇬": {
+    "body": "🇨🇬",
+    "prefix": "ji:congo---brazzaville",
+    "description": "🇨🇬"
+  },
+  "🇨🇭": {
+    "body": "🇨🇭",
+    "prefix": "ji:switzerland",
+    "description": "🇨🇭"
+  },
+  "🇨🇮": {
+    "body": "🇨🇮",
+    "prefix": "ji:côte-d’ivoire",
+    "description": "🇨🇮"
+  },
+  "🇨🇰": {
+    "body": "🇨🇰",
+    "prefix": "ji:cook-islands",
+    "description": "🇨🇰"
+  },
+  "🇨🇱": {
+    "body": "🇨🇱",
+    "prefix": "ji:chile",
+    "description": "🇨🇱"
+  },
+  "🇨🇲": {
+    "body": "🇨🇲",
+    "prefix": "ji:cameroon",
+    "description": "🇨🇲"
+  },
+  "🇨🇳": {
+    "body": "🇨🇳",
+    "prefix": "ji:china",
+    "description": "🇨🇳"
+  },
+  "🇨🇴": {
+    "body": "🇨🇴",
+    "prefix": "ji:colombia",
+    "description": "🇨🇴"
+  },
+  "🇨🇵": {
+    "body": "🇨🇵",
+    "prefix": "ji:clipperton-island",
+    "description": "🇨🇵"
+  },
+  "🇨🇷": {
+    "body": "🇨🇷",
+    "prefix": "ji:costa-rica",
+    "description": "🇨🇷"
+  },
+  "🇨🇺": {
+    "body": "🇨🇺",
+    "prefix": "ji:cuba",
+    "description": "🇨🇺"
+  },
+  "🇨🇻": {
+    "body": "🇨🇻",
+    "prefix": "ji:cape-verde",
+    "description": "🇨🇻"
+  },
+  "🇨🇼": {
+    "body": "🇨🇼",
+    "prefix": "ji:curaçao",
+    "description": "🇨🇼"
+  },
+  "🇨🇽": {
+    "body": "🇨🇽",
+    "prefix": "ji:christmas-island",
+    "description": "🇨🇽"
+  },
+  "🇨🇾": {
+    "body": "🇨🇾",
+    "prefix": "ji:cyprus",
+    "description": "🇨🇾"
+  },
+  "🇨🇿": {
+    "body": "🇨🇿",
+    "prefix": "ji:czechia",
+    "description": "🇨🇿"
+  },
+  "🇩🇪": {
+    "body": "🇩🇪",
+    "prefix": "ji:germany",
+    "description": "🇩🇪"
+  },
+  "🇩🇬": {
+    "body": "🇩🇬",
+    "prefix": "ji:diego-garcia",
+    "description": "🇩🇬"
+  },
+  "🇩🇯": {
+    "body": "🇩🇯",
+    "prefix": "ji:djibouti",
+    "description": "🇩🇯"
+  },
+  "🇩🇰": {
+    "body": "🇩🇰",
+    "prefix": "ji:denmark",
+    "description": "🇩🇰"
+  },
+  "🇩🇲": {
+    "body": "🇩🇲",
+    "prefix": "ji:dominica",
+    "description": "🇩🇲"
+  },
+  "🇩🇴": {
+    "body": "🇩🇴",
+    "prefix": "ji:dominican-republic",
+    "description": "🇩🇴"
+  },
+  "🇩🇿": {
+    "body": "🇩🇿",
+    "prefix": "ji:algeria",
+    "description": "🇩🇿"
+  },
+  "🇪🇦": {
+    "body": "🇪🇦",
+    "prefix": "ji:ceuta-&-melilla",
+    "description": "🇪🇦"
+  },
+  "🇪🇨": {
+    "body": "🇪🇨",
+    "prefix": "ji:ecuador",
+    "description": "🇪🇨"
+  },
+  "🇪🇪": {
+    "body": "🇪🇪",
+    "prefix": "ji:estonia",
+    "description": "🇪🇪"
+  },
+  "🇪🇬": {
+    "body": "🇪🇬",
+    "prefix": "ji:egypt",
+    "description": "🇪🇬"
+  },
+  "🇪🇭": {
+    "body": "🇪🇭",
+    "prefix": "ji:western-sahara",
+    "description": "🇪🇭"
+  },
+  "🇪🇷": {
+    "body": "🇪🇷",
+    "prefix": "ji:eritrea",
+    "description": "🇪🇷"
+  },
+  "🇪🇸": {
+    "body": "🇪🇸",
+    "prefix": "ji:spain",
+    "description": "🇪🇸"
+  },
+  "🇪🇹": {
+    "body": "🇪🇹",
+    "prefix": "ji:ethiopia",
+    "description": "🇪🇹"
+  },
+  "🇪🇺": {
+    "body": "🇪🇺",
+    "prefix": "ji:european-union",
+    "description": "🇪🇺"
+  },
+  "🇫🇮": {
+    "body": "🇫🇮",
+    "prefix": "ji:finland",
+    "description": "🇫🇮"
+  },
+  "🇫🇯": {
+    "body": "🇫🇯",
+    "prefix": "ji:fiji",
+    "description": "🇫🇯"
+  },
+  "🇫🇰": {
+    "body": "🇫🇰",
+    "prefix": "ji:falkland-islands",
+    "description": "🇫🇰"
+  },
+  "🇫🇲": {
+    "body": "🇫🇲",
+    "prefix": "ji:micronesia",
+    "description": "🇫🇲"
+  },
+  "🇫🇴": {
+    "body": "🇫🇴",
+    "prefix": "ji:faroe-islands",
+    "description": "🇫🇴"
+  },
+  "🇫🇷": {
+    "body": "🇫🇷",
+    "prefix": "ji:france",
+    "description": "🇫🇷"
+  },
+  "🇬🇦": {
+    "body": "🇬🇦",
+    "prefix": "ji:gabon",
+    "description": "🇬🇦"
+  },
+  "🇬🇧": {
+    "body": "🇬🇧",
+    "prefix": "ji:united-kingdom",
+    "description": "🇬🇧"
+  },
+  "🇬🇩": {
+    "body": "🇬🇩",
+    "prefix": "ji:grenada",
+    "description": "🇬🇩"
+  },
+  "🇬🇪": {
+    "body": "🇬🇪",
+    "prefix": "ji:georgia",
+    "description": "🇬🇪"
+  },
+  "🇬🇫": {
+    "body": "🇬🇫",
+    "prefix": "ji:french-guiana",
+    "description": "🇬🇫"
+  },
+  "🇬🇬": {
+    "body": "🇬🇬",
+    "prefix": "ji:guernsey",
+    "description": "🇬🇬"
+  },
+  "🇬🇭": {
+    "body": "🇬🇭",
+    "prefix": "ji:ghana",
+    "description": "🇬🇭"
+  },
+  "🇬🇮": {
+    "body": "🇬🇮",
+    "prefix": "ji:gibraltar",
+    "description": "🇬🇮"
+  },
+  "🇬🇱": {
+    "body": "🇬🇱",
+    "prefix": "ji:greenland",
+    "description": "🇬🇱"
+  },
+  "🇬🇲": {
+    "body": "🇬🇲",
+    "prefix": "ji:gambia",
+    "description": "🇬🇲"
+  },
+  "🇬🇳": {
+    "body": "🇬🇳",
+    "prefix": "ji:guinea",
+    "description": "🇬🇳"
+  },
+  "🇬🇵": {
+    "body": "🇬🇵",
+    "prefix": "ji:guadeloupe",
+    "description": "🇬🇵"
+  },
+  "🇬🇶": {
+    "body": "🇬🇶",
+    "prefix": "ji:equatorial-guinea",
+    "description": "🇬🇶"
+  },
+  "🇬🇷": {
+    "body": "🇬🇷",
+    "prefix": "ji:greece",
+    "description": "🇬🇷"
+  },
+  "🇬🇸": {
+    "body": "🇬🇸",
+    "prefix": "ji:south-georgia-&-south-sandwich-islands",
+    "description": "🇬🇸"
+  },
+  "🇬🇹": {
+    "body": "🇬🇹",
+    "prefix": "ji:guatemala",
+    "description": "🇬🇹"
+  },
+  "🇬🇺": {
+    "body": "🇬🇺",
+    "prefix": "ji:guam",
+    "description": "🇬🇺"
+  },
+  "🇬🇼": {
+    "body": "🇬🇼",
+    "prefix": "ji:guinea-bissau",
+    "description": "🇬🇼"
+  },
+  "🇬🇾": {
+    "body": "🇬🇾",
+    "prefix": "ji:guyana",
+    "description": "🇬🇾"
+  },
+  "🇭🇰": {
+    "body": "🇭🇰",
+    "prefix": "ji:hong-kong-sar-china",
+    "description": "🇭🇰"
+  },
+  "🇭🇲": {
+    "body": "🇭🇲",
+    "prefix": "ji:heard-&-mcdonald-islands",
+    "description": "🇭🇲"
+  },
+  "🇭🇳": {
+    "body": "🇭🇳",
+    "prefix": "ji:honduras",
+    "description": "🇭🇳"
+  },
+  "🇭🇷": {
+    "body": "🇭🇷",
+    "prefix": "ji:croatia",
+    "description": "🇭🇷"
+  },
+  "🇭🇹": {
+    "body": "🇭🇹",
+    "prefix": "ji:haiti",
+    "description": "🇭🇹"
+  },
+  "🇭🇺": {
+    "body": "🇭🇺",
+    "prefix": "ji:hungary",
+    "description": "🇭🇺"
+  },
+  "🇮🇨": {
+    "body": "🇮🇨",
+    "prefix": "ji:canary-islands",
+    "description": "🇮🇨"
+  },
+  "🇮🇩": {
+    "body": "🇮🇩",
+    "prefix": "ji:indonesia",
+    "description": "🇮🇩"
+  },
+  "🇮🇪": {
+    "body": "🇮🇪",
+    "prefix": "ji:ireland",
+    "description": "🇮🇪"
+  },
+  "🇮🇱": {
+    "body": "🇮🇱",
+    "prefix": "ji:israel",
+    "description": "🇮🇱"
+  },
+  "🇮🇲": {
+    "body": "🇮🇲",
+    "prefix": "ji:isle-of-man",
+    "description": "🇮🇲"
+  },
+  "🇮🇳": {
+    "body": "🇮🇳",
+    "prefix": "ji:india",
+    "description": "🇮🇳"
+  },
+  "🇮🇴": {
+    "body": "🇮🇴",
+    "prefix": "ji:british-indian-ocean-territory",
+    "description": "🇮🇴"
+  },
+  "🇮🇶": {
+    "body": "🇮🇶",
+    "prefix": "ji:iraq",
+    "description": "🇮🇶"
+  },
+  "🇮🇷": {
+    "body": "🇮🇷",
+    "prefix": "ji:iran",
+    "description": "🇮🇷"
+  },
+  "🇮🇸": {
+    "body": "🇮🇸",
+    "prefix": "ji:iceland",
+    "description": "🇮🇸"
+  },
+  "🇮🇹": {
+    "body": "🇮🇹",
+    "prefix": "ji:italy",
+    "description": "🇮🇹"
+  },
+  "🇯🇪": {
+    "body": "🇯🇪",
+    "prefix": "ji:jersey",
+    "description": "🇯🇪"
+  },
+  "🇯🇲": {
+    "body": "🇯🇲",
+    "prefix": "ji:jamaica",
+    "description": "🇯🇲"
+  },
+  "🇯🇴": {
+    "body": "🇯🇴",
+    "prefix": "ji:jordan",
+    "description": "🇯🇴"
+  },
+  "🇯🇵": {
+    "body": "🇯🇵",
+    "prefix": "ji:japan",
+    "description": "🇯🇵"
+  },
+  "🇰🇪": {
+    "body": "🇰🇪",
+    "prefix": "ji:kenya",
+    "description": "🇰🇪"
+  },
+  "🇰🇬": {
+    "body": "🇰🇬",
+    "prefix": "ji:kyrgyzstan",
+    "description": "🇰🇬"
+  },
+  "🇰🇭": {
+    "body": "🇰🇭",
+    "prefix": "ji:cambodia",
+    "description": "🇰🇭"
+  },
+  "🇰🇮": {
+    "body": "🇰🇮",
+    "prefix": "ji:kiribati",
+    "description": "🇰🇮"
+  },
+  "🇰🇲": {
+    "body": "🇰🇲",
+    "prefix": "ji:comoros",
+    "description": "🇰🇲"
+  },
+  "🇰🇳": {
+    "body": "🇰🇳",
+    "prefix": "ji:st-kitts-&-nevis",
+    "description": "🇰🇳"
+  },
+  "🇰🇵": {
+    "body": "🇰🇵",
+    "prefix": "ji:north-korea",
+    "description": "🇰🇵"
+  },
+  "🇰🇷": {
+    "body": "🇰🇷",
+    "prefix": "ji:south-korea",
+    "description": "🇰🇷"
+  },
+  "🇰🇼": {
+    "body": "🇰🇼",
+    "prefix": "ji:kuwait",
+    "description": "🇰🇼"
+  },
+  "🇰🇾": {
+    "body": "🇰🇾",
+    "prefix": "ji:cayman-islands",
+    "description": "🇰🇾"
+  },
+  "🇰🇿": {
+    "body": "🇰🇿",
+    "prefix": "ji:kazakhstan",
+    "description": "🇰🇿"
+  },
+  "🇱🇦": {
+    "body": "🇱🇦",
+    "prefix": "ji:laos",
+    "description": "🇱🇦"
+  },
+  "🇱🇧": {
+    "body": "🇱🇧",
+    "prefix": "ji:lebanon",
+    "description": "🇱🇧"
+  },
+  "🇱🇨": {
+    "body": "🇱🇨",
+    "prefix": "ji:st-lucia",
+    "description": "🇱🇨"
+  },
+  "🇱🇮": {
+    "body": "🇱🇮",
+    "prefix": "ji:liechtenstein",
+    "description": "🇱🇮"
+  },
+  "🇱🇰": {
+    "body": "🇱🇰",
+    "prefix": "ji:sri-lanka",
+    "description": "🇱🇰"
+  },
+  "🇱🇷": {
+    "body": "🇱🇷",
+    "prefix": "ji:liberia",
+    "description": "🇱🇷"
+  },
+  "🇱🇸": {
+    "body": "🇱🇸",
+    "prefix": "ji:lesotho",
+    "description": "🇱🇸"
+  },
+  "🇱🇹": {
+    "body": "🇱🇹",
+    "prefix": "ji:lithuania",
+    "description": "🇱🇹"
+  },
+  "🇱🇺": {
+    "body": "🇱🇺",
+    "prefix": "ji:luxembourg",
+    "description": "🇱🇺"
+  },
+  "🇱🇻": {
+    "body": "🇱🇻",
+    "prefix": "ji:latvia",
+    "description": "🇱🇻"
+  },
+  "🇱🇾": {
+    "body": "🇱🇾",
+    "prefix": "ji:libya",
+    "description": "🇱🇾"
+  },
+  "🇲🇦": {
+    "body": "🇲🇦",
+    "prefix": "ji:morocco",
+    "description": "🇲🇦"
+  },
+  "🇲🇨": {
+    "body": "🇲🇨",
+    "prefix": "ji:monaco",
+    "description": "🇲🇨"
+  },
+  "🇲🇩": {
+    "body": "🇲🇩",
+    "prefix": "ji:moldova",
+    "description": "🇲🇩"
+  },
+  "🇲🇪": {
+    "body": "🇲🇪",
+    "prefix": "ji:montenegro",
+    "description": "🇲🇪"
+  },
+  "🇲🇫": {
+    "body": "🇲🇫",
+    "prefix": "ji:st-martin",
+    "description": "🇲🇫"
+  },
+  "🇲🇬": {
+    "body": "🇲🇬",
+    "prefix": "ji:madagascar",
+    "description": "🇲🇬"
+  },
+  "🇲🇭": {
+    "body": "🇲🇭",
+    "prefix": "ji:marshall-islands",
+    "description": "🇲🇭"
+  },
+  "🇲🇰": {
+    "body": "🇲🇰",
+    "prefix": "ji:macedonia",
+    "description": "🇲🇰"
+  },
+  "🇲🇱": {
+    "body": "🇲🇱",
+    "prefix": "ji:mali",
+    "description": "🇲🇱"
+  },
+  "🇲🇲": {
+    "body": "🇲🇲",
+    "prefix": "ji:myanmar-(burma)",
+    "description": "🇲🇲"
+  },
+  "🇲🇳": {
+    "body": "🇲🇳",
+    "prefix": "ji:mongolia",
+    "description": "🇲🇳"
+  },
+  "🇲🇴": {
+    "body": "🇲🇴",
+    "prefix": "ji:macau-sar-china",
+    "description": "🇲🇴"
+  },
+  "🇲🇵": {
+    "body": "🇲🇵",
+    "prefix": "ji:northern-mariana-islands",
+    "description": "🇲🇵"
+  },
+  "🇲🇶": {
+    "body": "🇲🇶",
+    "prefix": "ji:martinique",
+    "description": "🇲🇶"
+  },
+  "🇲🇷": {
+    "body": "🇲🇷",
+    "prefix": "ji:mauritania",
+    "description": "🇲🇷"
+  },
+  "🇲🇸": {
+    "body": "🇲🇸",
+    "prefix": "ji:montserrat",
+    "description": "🇲🇸"
+  },
+  "🇲🇹": {
+    "body": "🇲🇹",
+    "prefix": "ji:malta",
+    "description": "🇲🇹"
+  },
+  "🇲🇺": {
+    "body": "🇲🇺",
+    "prefix": "ji:mauritius",
+    "description": "🇲🇺"
+  },
+  "🇲🇻": {
+    "body": "🇲🇻",
+    "prefix": "ji:maldives",
+    "description": "🇲🇻"
+  },
+  "🇲🇼": {
+    "body": "🇲🇼",
+    "prefix": "ji:malawi",
+    "description": "🇲🇼"
+  },
+  "🇲🇽": {
+    "body": "🇲🇽",
+    "prefix": "ji:mexico",
+    "description": "🇲🇽"
+  },
+  "🇲🇾": {
+    "body": "🇲🇾",
+    "prefix": "ji:malaysia",
+    "description": "🇲🇾"
+  },
+  "🇲🇿": {
+    "body": "🇲🇿",
+    "prefix": "ji:mozambique",
+    "description": "🇲🇿"
+  },
+  "🇳🇦": {
+    "body": "🇳🇦",
+    "prefix": "ji:namibia",
+    "description": "🇳🇦"
+  },
+  "🇳🇨": {
+    "body": "🇳🇨",
+    "prefix": "ji:new-caledonia",
+    "description": "🇳🇨"
+  },
+  "🇳🇪": {
+    "body": "🇳🇪",
+    "prefix": "ji:niger",
+    "description": "🇳🇪"
+  },
+  "🇳🇫": {
+    "body": "🇳🇫",
+    "prefix": "ji:norfolk-island",
+    "description": "🇳🇫"
+  },
+  "🇳🇬": {
+    "body": "🇳🇬",
+    "prefix": "ji:nigeria",
+    "description": "🇳🇬"
+  },
+  "🇳🇮": {
+    "body": "🇳🇮",
+    "prefix": "ji:nicaragua",
+    "description": "🇳🇮"
+  },
+  "🇳🇱": {
+    "body": "🇳🇱",
+    "prefix": "ji:netherlands",
+    "description": "🇳🇱"
+  },
+  "🇳🇴": {
+    "body": "🇳🇴",
+    "prefix": "ji:norway",
+    "description": "🇳🇴"
+  },
+  "🇳🇵": {
+    "body": "🇳🇵",
+    "prefix": "ji:nepal",
+    "description": "🇳🇵"
+  },
+  "🇳🇷": {
+    "body": "🇳🇷",
+    "prefix": "ji:nauru",
+    "description": "🇳🇷"
+  },
+  "🇳🇺": {
+    "body": "🇳🇺",
+    "prefix": "ji:niue",
+    "description": "🇳🇺"
+  },
+  "🇳🇿": {
+    "body": "🇳🇿",
+    "prefix": "ji:new-zealand",
+    "description": "🇳🇿"
+  },
+  "🇴🇲": {
+    "body": "🇴🇲",
+    "prefix": "ji:oman",
+    "description": "🇴🇲"
+  },
+  "🇵🇦": {
+    "body": "🇵🇦",
+    "prefix": "ji:panama",
+    "description": "🇵🇦"
+  },
+  "🇵🇪": {
+    "body": "🇵🇪",
+    "prefix": "ji:peru",
+    "description": "🇵🇪"
+  },
+  "🇵🇫": {
+    "body": "🇵🇫",
+    "prefix": "ji:french-polynesia",
+    "description": "🇵🇫"
+  },
+  "🇵🇬": {
+    "body": "🇵🇬",
+    "prefix": "ji:papua-new-guinea",
+    "description": "🇵🇬"
+  },
+  "🇵🇭": {
+    "body": "🇵🇭",
+    "prefix": "ji:philippines",
+    "description": "🇵🇭"
+  },
+  "🇵🇰": {
+    "body": "🇵🇰",
+    "prefix": "ji:pakistan",
+    "description": "🇵🇰"
+  },
+  "🇵🇱": {
+    "body": "🇵🇱",
+    "prefix": "ji:poland",
+    "description": "🇵🇱"
+  },
+  "🇵🇲": {
+    "body": "🇵🇲",
+    "prefix": "ji:st-pierre-&-miquelon",
+    "description": "🇵🇲"
+  },
+  "🇵🇳": {
+    "body": "🇵🇳",
+    "prefix": "ji:pitcairn-islands",
+    "description": "🇵🇳"
+  },
+  "🇵🇷": {
+    "body": "🇵🇷",
+    "prefix": "ji:puerto-rico",
+    "description": "🇵🇷"
+  },
+  "🇵🇸": {
+    "body": "🇵🇸",
+    "prefix": "ji:palestinian-territories",
+    "description": "🇵🇸"
+  },
+  "🇵🇹": {
+    "body": "🇵🇹",
+    "prefix": "ji:portugal",
+    "description": "🇵🇹"
+  },
+  "🇵🇼": {
+    "body": "🇵🇼",
+    "prefix": "ji:palau",
+    "description": "🇵🇼"
+  },
+  "🇵🇾": {
+    "body": "🇵🇾",
+    "prefix": "ji:paraguay",
+    "description": "🇵🇾"
+  },
+  "🇶🇦": {
+    "body": "🇶🇦",
+    "prefix": "ji:qatar",
+    "description": "🇶🇦"
+  },
+  "🇷🇪": {
+    "body": "🇷🇪",
+    "prefix": "ji:réunion",
+    "description": "🇷🇪"
+  },
+  "🇷🇴": {
+    "body": "🇷🇴",
+    "prefix": "ji:romania",
+    "description": "🇷🇴"
+  },
+  "🇷🇸": {
+    "body": "🇷🇸",
+    "prefix": "ji:serbia",
+    "description": "🇷🇸"
+  },
+  "🇷🇺": {
+    "body": "🇷🇺",
+    "prefix": "ji:russia",
+    "description": "🇷🇺"
+  },
+  "🇷🇼": {
+    "body": "🇷🇼",
+    "prefix": "ji:rwanda",
+    "description": "🇷🇼"
+  },
+  "🇸🇦": {
+    "body": "🇸🇦",
+    "prefix": "ji:saudi-arabia",
+    "description": "🇸🇦"
+  },
+  "🇸🇧": {
+    "body": "🇸🇧",
+    "prefix": "ji:solomon-islands",
+    "description": "🇸🇧"
+  },
+  "🇸🇨": {
+    "body": "🇸🇨",
+    "prefix": "ji:seychelles",
+    "description": "🇸🇨"
+  },
+  "🇸🇩": {
+    "body": "🇸🇩",
+    "prefix": "ji:sudan",
+    "description": "🇸🇩"
+  },
+  "🇸🇪": {
+    "body": "🇸🇪",
+    "prefix": "ji:sweden",
+    "description": "🇸🇪"
+  },
+  "🇸🇬": {
+    "body": "🇸🇬",
+    "prefix": "ji:singapore",
+    "description": "🇸🇬"
+  },
+  "🇸🇭": {
+    "body": "🇸🇭",
+    "prefix": "ji:st-helena",
+    "description": "🇸🇭"
+  },
+  "🇸🇮": {
+    "body": "🇸🇮",
+    "prefix": "ji:slovenia",
+    "description": "🇸🇮"
+  },
+  "🇸🇯": {
+    "body": "🇸🇯",
+    "prefix": "ji:svalbard-&-jan-mayen",
+    "description": "🇸🇯"
+  },
+  "🇸🇰": {
+    "body": "🇸🇰",
+    "prefix": "ji:slovakia",
+    "description": "🇸🇰"
+  },
+  "🇸🇱": {
+    "body": "🇸🇱",
+    "prefix": "ji:sierra-leone",
+    "description": "🇸🇱"
+  },
+  "🇸🇲": {
+    "body": "🇸🇲",
+    "prefix": "ji:san-marino",
+    "description": "🇸🇲"
+  },
+  "🇸🇳": {
+    "body": "🇸🇳",
+    "prefix": "ji:senegal",
+    "description": "🇸🇳"
+  },
+  "🇸🇴": {
+    "body": "🇸🇴",
+    "prefix": "ji:somalia",
+    "description": "🇸🇴"
+  },
+  "🇸🇷": {
+    "body": "🇸🇷",
+    "prefix": "ji:suriname",
+    "description": "🇸🇷"
+  },
+  "🇸🇸": {
+    "body": "🇸🇸",
+    "prefix": "ji:south-sudan",
+    "description": "🇸🇸"
+  },
+  "🇸🇹": {
+    "body": "🇸🇹",
+    "prefix": "ji:são-tomé-&-príncipe",
+    "description": "🇸🇹"
+  },
+  "🇸🇻": {
+    "body": "🇸🇻",
+    "prefix": "ji:el-salvador",
+    "description": "🇸🇻"
+  },
+  "🇸🇽": {
+    "body": "🇸🇽",
+    "prefix": "ji:sint-maarten",
+    "description": "🇸🇽"
+  },
+  "🇸🇾": {
+    "body": "🇸🇾",
+    "prefix": "ji:syria",
+    "description": "🇸🇾"
+  },
+  "🇸🇿": {
+    "body": "🇸🇿",
+    "prefix": "ji:swaziland",
+    "description": "🇸🇿"
+  },
+  "🇹🇦": {
+    "body": "🇹🇦",
+    "prefix": "ji:tristan-da-cunha",
+    "description": "🇹🇦"
+  },
+  "🇹🇨": {
+    "body": "🇹🇨",
+    "prefix": "ji:turks-&-caicos-islands",
+    "description": "🇹🇨"
+  },
+  "🇹🇩": {
+    "body": "🇹🇩",
+    "prefix": "ji:chad",
+    "description": "🇹🇩"
+  },
+  "🇹🇫": {
+    "body": "🇹🇫",
+    "prefix": "ji:french-southern-territories",
+    "description": "🇹🇫"
+  },
+  "🇹🇬": {
+    "body": "🇹🇬",
+    "prefix": "ji:togo",
+    "description": "🇹🇬"
+  },
+  "🇹🇭": {
+    "body": "🇹🇭",
+    "prefix": "ji:thailand",
+    "description": "🇹🇭"
+  },
+  "🇹🇯": {
+    "body": "🇹🇯",
+    "prefix": "ji:tajikistan",
+    "description": "🇹🇯"
+  },
+  "🇹🇰": {
+    "body": "🇹🇰",
+    "prefix": "ji:tokelau",
+    "description": "🇹🇰"
+  },
+  "🇹🇱": {
+    "body": "🇹🇱",
+    "prefix": "ji:timor-leste",
+    "description": "🇹🇱"
+  },
+  "🇹🇲": {
+    "body": "🇹🇲",
+    "prefix": "ji:turkmenistan",
+    "description": "🇹🇲"
+  },
+  "🇹🇳": {
+    "body": "🇹🇳",
+    "prefix": "ji:tunisia",
+    "description": "🇹🇳"
+  },
+  "🇹🇴": {
+    "body": "🇹🇴",
+    "prefix": "ji:tonga",
+    "description": "🇹🇴"
+  },
+  "🇹🇷": {
+    "body": "🇹🇷",
+    "prefix": "ji:turkey",
+    "description": "🇹🇷"
+  },
+  "🇹🇹": {
+    "body": "🇹🇹",
+    "prefix": "ji:trinidad-&-tobago",
+    "description": "🇹🇹"
+  },
+  "🇹🇻": {
+    "body": "🇹🇻",
+    "prefix": "ji:tuvalu",
+    "description": "🇹🇻"
+  },
+  "🇹🇼": {
+    "body": "🇹🇼",
+    "prefix": "ji:taiwan",
+    "description": "🇹🇼"
+  },
+  "🇹🇿": {
+    "body": "🇹🇿",
+    "prefix": "ji:tanzania",
+    "description": "🇹🇿"
+  },
+  "🇺🇦": {
+    "body": "🇺🇦",
+    "prefix": "ji:ukraine",
+    "description": "🇺🇦"
+  },
+  "🇺🇬": {
+    "body": "🇺🇬",
+    "prefix": "ji:uganda",
+    "description": "🇺🇬"
+  },
+  "🇺🇲": {
+    "body": "🇺🇲",
+    "prefix": "ji:u-s-outlying-islands",
+    "description": "🇺🇲"
+  },
+  "🇺🇳": {
+    "body": "🇺🇳",
+    "prefix": "ji:united-nations",
+    "description": "🇺🇳"
+  },
+  "🇺🇸": {
+    "body": "🇺🇸",
+    "prefix": "ji:united-states",
+    "description": "🇺🇸"
+  },
+  "🇺🇾": {
+    "body": "🇺🇾",
+    "prefix": "ji:uruguay",
+    "description": "🇺🇾"
+  },
+  "🇺🇿": {
+    "body": "🇺🇿",
+    "prefix": "ji:uzbekistan",
+    "description": "🇺🇿"
+  },
+  "🇻🇦": {
+    "body": "🇻🇦",
+    "prefix": "ji:vatican-city",
+    "description": "🇻🇦"
+  },
+  "🇻🇨": {
+    "body": "🇻🇨",
+    "prefix": "ji:st-vincent-&-grenadines",
+    "description": "🇻🇨"
+  },
+  "🇻🇪": {
+    "body": "🇻🇪",
+    "prefix": "ji:venezuela",
+    "description": "🇻🇪"
+  },
+  "🇻🇬": {
+    "body": "🇻🇬",
+    "prefix": "ji:british-virgin-islands",
+    "description": "🇻🇬"
+  },
+  "🇻🇮": {
+    "body": "🇻🇮",
+    "prefix": "ji:u-s-virgin-islands",
+    "description": "🇻🇮"
+  },
+  "🇻🇳": {
+    "body": "🇻🇳",
+    "prefix": "ji:vietnam",
+    "description": "🇻🇳"
+  },
+  "🇻🇺": {
+    "body": "🇻🇺",
+    "prefix": "ji:vanuatu",
+    "description": "🇻🇺"
+  },
+  "🇼🇫": {
+    "body": "🇼🇫",
+    "prefix": "ji:wallis-&-futuna",
+    "description": "🇼🇫"
+  },
+  "🇼🇸": {
+    "body": "🇼🇸",
+    "prefix": "ji:samoa",
+    "description": "🇼🇸"
+  },
+  "🇽🇰": {
+    "body": "🇽🇰",
+    "prefix": "ji:kosovo",
+    "description": "🇽🇰"
+  },
+  "🇾🇪": {
+    "body": "🇾🇪",
+    "prefix": "ji:yemen",
+    "description": "🇾🇪"
+  },
+  "🇾🇹": {
+    "body": "🇾🇹",
+    "prefix": "ji:mayotte",
+    "description": "🇾🇹"
+  },
+  "🇿🇦": {
+    "body": "🇿🇦",
+    "prefix": "ji:south-africa",
+    "description": "🇿🇦"
+  },
+  "🇿🇲": {
+    "body": "🇿🇲",
+    "prefix": "ji:zambia",
+    "description": "🇿🇲"
+  },
+  "🇿🇼": {
+    "body": "🇿🇼",
+    "prefix": "ji:zimbabwe",
+    "description": "🇿🇼"
+  },
+  "🏴󠁧󠁢󠁥󠁮󠁧󠁿": {
+    "body": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "prefix": "ji:england",
+    "description": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  "🏴󠁧󠁢󠁳󠁣󠁴󠁿": {
+    "body": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "prefix": "ji:scotland",
+    "description": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+  },
+  "🏴󠁧󠁢󠁷󠁬󠁳󠁿": {
+    "body": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "prefix": "ji:wales",
+    "description": "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
+  }
+}
