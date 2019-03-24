@@ -1,3 +1,8 @@
+# v0.7.5 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.7.5)
+
+- update `.vscodeignore`
+- update dependencies
+
 # v0.7.4 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.7.4)
 
 - include pre-build snippets
