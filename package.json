@@ -69,6 +69,10 @@
                 "path": "./snippets/emoji-html.json"
             },
             {
+                "language": "jade",
+                "path": "./snippets/emoji-html.json"
+            },
+            {
                 "language": "coffeescript",
                 "path": "./snippets/emoji-javascript.json"
             },

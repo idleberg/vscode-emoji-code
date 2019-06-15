@@ -1,3 +1,7 @@
+# v0.8.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.8.0)
+
+- add support for Pug/Jade
+
 # v0.7.5 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.7.5)
 
 - update `.vscodeignore`
