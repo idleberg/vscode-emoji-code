@@ -3,9 +3,8 @@
 [![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
 [![GitHub](https://flat.badgen.net/github/release/idleberg/vscode-emoji-code)](https://github.com/idleberg/vscode-emoji-code/releases)
 [![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.emoji-code.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=idleberg.emoji-code)
-[![Travis](https://flat.badgen.net/travis/idleberg/vscode-emoji-code)](https://travis-ci.org/idleberg/vscode-emoji-code)
+[![CircleCI](https://flat.badgen.net/circleci/github/idleberg/vscode-emoji-code)](https://circleci.com/gh/idleberg/vscode-emoji-code)
 [![David](https://flat.badgen.net/david/dep/idleberg/vscode-emoji-code)](https://david-dm.org/idleberg/vscode-emoji-code)
-[![David](https://flat.badgen.net/david/dev/idleberg/vscode-emoji-code)](https://david-dm.org/idleberg/vscode-emoji-code?type=dev)
 
 Snippets to insert escaped Emoji code into a variety of languages, including:
 
