@@ -3,6 +3,7 @@
 - add support for Emoji v12
 - add support for Twig
 - switch CI provider
+- fix Vue scope
 - update dependencies
 
 # v0.8.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.8.0)
