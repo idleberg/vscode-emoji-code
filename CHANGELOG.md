@@ -1,14 +1,11 @@
-# v0.9.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.9.0)
+# v0.8.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.8.0)
 
 - add support for Emoji v12
 - add support for Twig
+- add support for Pug/Jade
 - switch CI provider
 - fix Vue scope
 - update dependencies
-
-# v0.8.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.8.0)
-
-- add support for Pug/Jade
 
 # v0.7.5 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.7.5)
 
