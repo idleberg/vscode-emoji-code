@@ -7,7 +7,23 @@
 [![David](https://flat.badgen.net/david/dep/idleberg/vscode-emoji-code)](https://david-dm.org/idleberg/vscode-emoji-code)
 [![David](https://flat.badgen.net/david/dev/idleberg/vscode-emoji-code)](https://david-dm.org/idleberg/vscode-emoji-code?type=dev)
 
-Snippets to insert escaped Emoji code into HTML, CSS, JavaScript/CoffeeScript/TypeScript/LiveScript, JSON, C#, Laravel Blade, Markdown, Python and Ruby.
+Snippets to insert escaped Emoji code into a variety of languages, including:
+
+- C#
+- CSS
+- CoffeeScript
+- HTML
+- JSON
+- JavaScript
+- Laravel Blade
+- LiveScript
+- Markdown
+- Python
+- React
+- Ruby
+- Twig
+- TypeScript
+- Vue
 
 This package is also available for [Atom](https://github.com/idleberg/atom-emoji-code) and [Sublime Text](https://github.com/idleberg/sublime-emoji-code).
 
