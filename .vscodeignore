@@ -1,4 +1,5 @@
 *.vsix
+.circleci/
 .travis.yml
 bower_components/
 gulpfile.js
