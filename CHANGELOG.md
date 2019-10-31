@@ -1,3 +1,8 @@
+# v0.8.2 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.8.2)
+
+- add support for Emoji 13.0 draft candidates
+- update dependencies
+
 # v0.8.1 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.8.1)
 
 - update dependencies
