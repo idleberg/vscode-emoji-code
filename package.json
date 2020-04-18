@@ -79,6 +79,10 @@
                 "path": "./snippets/emoji-javascript.json"
             },
             {
+                "language": "svelte",
+                "path": "./snippets/emoji-html.json"
+            },
+            {
                 "language": "twig",
                 "path": "./snippets/emoji-html.json"
             },
@@ -113,17 +117,17 @@
         ]
     },
     "dependencies": {
-        "emojibase-data": "^4.1.0"
+        "emojibase-data": "^5.0.1"
     },
     "devDependencies": {
-        "babel-eslint": "^10.0.3",
-        "eslint": "^6.6.0",
+        "babel-eslint": "^10.1.0",
+        "eslint": "^6.8.0",
         "gulp": "^4.0.2",
         "gulp-raster": "^0.2.0",
-        "gulp-rename": "^1.4.0",
-        "husky": "^3.0.9",
+        "gulp-rename": "^2.0.0",
+        "husky": "^4.2.5",
         "vscode": "^1.1.36",
-        "vscode-linter": "^0.2.2"
+        "vscode-linter": "^0.3.1"
     },
     "husky": {
         "hooks": {
