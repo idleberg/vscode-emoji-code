@@ -20,6 +20,7 @@ Snippets to insert escaped Emoji code into a variety of languages, including:
 - Python
 - React
 - Ruby
+- Svelte
 - Twig
 - TypeScript
 - Vue
