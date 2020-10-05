@@ -108,7 +108,3 @@ Keep in mind that Visual Studio Code supports fuzzy completion, inviting you to 
 This work is licensed under [The MIT License](https://opensource.org/licenses/MIT).
 
 Emoji artwork by [EmojiOne](https://www.emojione.com/), licensed under a [Creative Commons Attribution International 4.0 ](https://creativecommons.org/licenses/by/4.0/legalcode) license.
-
-## Donate
-
-You are welcome to support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/vscode-emoji-code) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
