@@ -1,3 +1,7 @@
+# v0.9.1 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.9.1)
+
+- fix scope for Vue templates
+
 # v0.9.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.9.0)
 
 - add support for Emoji 13.0
