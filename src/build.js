@@ -40,12 +40,11 @@ function findSurrogatePair(point) {
 }
 
 async function writeSnippets(type, prefix = '', suffix = '') {
-
     for (let i = 0; i < emojiAll.length; i++) {
         let emoji, name, unicode;
 
-        if (typeof emojiAll[i].name != 'undefined' && emojiAll[i].name !== null ) {
-            name = emojiAll[i].name.toLowerCase().replace(/[\s,\.]+/g, '-');
+        if (typeof emojiAll[i].annotation != 'undefined' && emojiAll[i].annotation !== null ) {
+            name = emojiAll[i].annotation.toLowerCase().replace(/[\s,\.]+/g, '-');
         } else {
             name = emojiAll[i].short_name;
         }
