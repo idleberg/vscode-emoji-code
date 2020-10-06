@@ -2,7 +2,7 @@
 
 // Dependencies
 const emojiAll = require('emojibase-data/en/data.json');
-const { exists, mkdirSync, writeFile } = require('fs');
+const { constants, promises: fs } = require('fs');
 
 // Variables & Constants
 const meta = require('../package.json');
@@ -10,13 +10,15 @@ const outputDir = 'snippets';
 let snippets = {};
 
 // Main
-console.log(`\n${meta.name} v${meta.version}\n`);
+(async() => {
+  console.log(`\n${meta.name} v${meta.version}\n`);
 
-exists(outputDir, (doesExist) => {
-  if (!doesExist) {
-    console.log(`\u1F4AB ./${outputDir}`);
-    mkdirSync(outputDir);
+  try {
+    await fs.access(outputDir, constants.D_OK);
+  } catch (e) {
+    await fs.mkdir(outputDir);
   }
+
   writeSnippets('css', '\\\\');
   writeSnippets('html', '&#x', ';');
   writeSnippets('javascript', '\\\\u{', '}');
@@ -24,11 +26,10 @@ exists(outputDir, (doesExist) => {
   writeSnippets('python', '\\\\U');
   writeSnippets('ruby', '\\\\u{', '}');
   writeSnippets('csharp', '\\u');
-});
+})();
 
-
-// Functions
-const findSurrogatePair = (point) => {
+// Function
+function findSurrogatePair(point) {
   // http://crocodillon.com/blog/parsing-emoji-unicode-in-javascript
   // assumes point > 0xffff
   const offset = point - 0x10000,
@@ -38,10 +39,10 @@ const findSurrogatePair = (point) => {
   return [lead.toString(16), trail.toString(16)];
 }
 
-const writeSnippets = (type, prefix = '', suffix = '') => {
+async function writeSnippets(type, prefix = '', suffix = '') {
 
     for (let i = 0; i < emojiAll.length; i++) {
-        let emoji, json, name, output, unicode;
+        let emoji, name, unicode;
 
         if (typeof emojiAll[i].name != 'undefined' && emojiAll[i].name !== null ) {
             name = emojiAll[i].name.toLowerCase().replace(/[\s,\.]+/g, '-');
@@ -51,7 +52,7 @@ const writeSnippets = (type, prefix = '', suffix = '') => {
 
         unicodes = emojiAll[i].hexcode.split('-');
 
-        unicodes.forEach(function(unicode, index) {
+        unicodes.map((unicode, index) => {
           if (type === 'python') {
             unicode = String('0000000' + unicode).slice(-8);
           } else if (type === 'csharp') {
@@ -83,15 +84,14 @@ const writeSnippets = (type, prefix = '', suffix = '') => {
     output = JSON.stringify(snippets, null, 2);
 
     // Save file
-    writeFile(`${outputDir}/emoji-${type}.json`, output, (err) => {
-      let status;
+    let status;
 
-      if (err) {
-        status = '\u274C';
-      } else {
-        status = '\u2705';
-      }
+    try {
+      await fs.writeFile(`${outputDir}/emoji-${type}.json`, output);
+      status = '\u2705';
+    } catch (error) {
+      status = '\u274C';
+    }
 
-      console.log(`${status}  emoji-${type}.json`);
-    });
+    console.log(`${status}  emoji-${type}.json`);
 }
