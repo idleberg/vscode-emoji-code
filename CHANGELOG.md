@@ -1,3 +1,9 @@
+# v0.10.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.10.0)
+
+- Breaking Change: update `emojibase-data` to 6.0.0, changing emoji names
+- update build script
+- update dependencies
+
 # v0.9.1 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.9.1)
 
 - fix scope for Vue templates
