@@ -113,6 +113,10 @@
             {
                 "language": "csharp",
                 "path": "./snippets/emoji-csharp.json"
+            },
+            {
+                "language": "svelte",
+                "path": "./snippets/emoji-html.json"
             }
         ]
     },
