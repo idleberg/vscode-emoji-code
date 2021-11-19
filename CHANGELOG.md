@@ -1,3 +1,7 @@
+# v0.11.1 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.11.1)
+
+- switch CI provider
+
 # v0.11.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.11.0)
 
 - update `emojibase-data` to 7.0.0
