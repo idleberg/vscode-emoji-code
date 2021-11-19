@@ -107,6 +107,10 @@
                 "path": "./snippets/emoji-python.json"
             },
             {
+                "language": "rmarkdown",
+                "path": "./snippets/emoji-html.json"
+            },
+            {
                 "language": "ruby",
                 "path": "./snippets/emoji-ruby.json"
             },
@@ -121,7 +125,7 @@
         ]
     },
     "dependencies": {
-        "emojibase-data": "^6.0.0"
+        "emojibase-data": "^7.0.0"
     },
     "devDependencies": {
         "babel-eslint": "^10.1.0",
