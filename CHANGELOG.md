@@ -1,3 +1,7 @@
+# v0.11.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.11.0)
+
+- update `emojibase-data` to 6.0.0
+- add support for RMarkdown
 # v0.10.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.10.0)
 
 - Breaking Change: update `emojibase-data` to 6.0.0, changing emoji names
