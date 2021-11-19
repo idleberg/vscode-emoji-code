@@ -1,0 +1,44 @@
+name: CI
+
+on: [push]
+
+jobs:
+  default:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        node-version: ['14', '16']
+        os: [ubuntu-latest]
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 1
+
+    - uses: actions/setup-node@v2
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Cache node modules
+      uses: actions/cache@v2
+      env:
+        cache-name: cache-node-modules
+      with:
+        path: ~/.npm
+        key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          ${{ runner.os }}-build-${{ env.cache-name }}-
+          ${{ runner.os }}-build-
+          ${{ runner.os }}-
+
+    - name: Install pnpm
+      run: curl -f https://get.pnpm.io/v6.16.js | node - add --global pnpm
+
+    - name: Install Packages Dependencies
+      run: pnpm install --frozen-lockfile
+
+    - name: Lint Source
+      run: pnpm run lint --if-present
+
+    - name: Build Source
+      run: pnpm run build --if-present

@@ -11,9 +11,10 @@
     },
     "scripts": {
         "build": "node ./src/build.js",
+        "lint": "vscode-linter",
         "postinstall": "npm run build",
         "prepare": "husky install",
-        "test": "vscode-linter",
+        "test": "npm run lint",
         "vscode:prepublish": "gulp"
     },
     "keywords": [
