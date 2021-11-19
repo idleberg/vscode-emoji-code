@@ -19,6 +19,7 @@ Snippets to insert escaped Emoji code into a variety of languages, including:
 - Markdown
 - Python
 - React
+- RMarkdown
 - Ruby
 - Svelte
 - Twig
