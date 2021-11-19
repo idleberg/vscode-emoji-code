@@ -34,6 +34,3 @@ jobs:
 
     - name: Lint Source
       run: pnpm run lint --if-present
-
-    - name: Build Source
-      run: pnpm run build --if-present
