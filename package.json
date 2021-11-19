@@ -2,7 +2,7 @@
     "name": "emoji-code",
     "displayName": "Emoji Code",
     "description": "Snippets to insert escaped Emoji code into a variety of languages",
-    "version": "0.10.0",
+    "version": "0.11.0",
     "publisher": "idleberg",
     "license": "MIT",
     "author": {
