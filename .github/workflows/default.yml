@@ -19,23 +19,18 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
 
-    - name: Cache node modules
+    - name: Cache pnpm modules
       uses: actions/cache@v2
-      env:
-        cache-name: cache-node-modules
       with:
-        path: ~/.npm
-        key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+        path: ~/.pnpm-store
+        key: ${{ runner.os }}-${{ hashFiles('**/pnpm-lock.yaml') }}
         restore-keys: |
-          ${{ runner.os }}-build-${{ env.cache-name }}-
-          ${{ runner.os }}-build-
           ${{ runner.os }}-
 
-    - name: Install pnpm
-      run: curl -f https://get.pnpm.io/v6.16.js | node - add --global pnpm
-
-    - name: Install Packages Dependencies
-      run: pnpm install --frozen-lockfile
+    - uses: pnpm/action-setup@v2.0.1
+      with:
+        version: 6
+        run_install: true
 
     - name: Lint Source
       run: pnpm run lint --if-present
