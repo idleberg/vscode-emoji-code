@@ -109,6 +109,10 @@
                 "path": "./snippets/emoji-python.json"
             },
             {
+                "language": "rmd",
+                "path": "./snippets/emoji-html.json"
+            },
+            {
                 "language": "rmarkdown",
                 "path": "./snippets/emoji-html.json"
             },
