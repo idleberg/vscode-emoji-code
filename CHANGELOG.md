@@ -1,3 +1,9 @@
+# v0.12.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.12.0)
+
+- add support for Emoji v13.0
+- update tooling
+- update dependencies
+
 # v0.11.2 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.11.2)
 
 - extend RMarkdown scope to `rmd`
