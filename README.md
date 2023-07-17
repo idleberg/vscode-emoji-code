@@ -1,10 +1,9 @@
 # Emoji Code
 
-[![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
-[![GitHub](https://flat.badgen.net/github/release/idleberg/vscode-emoji-code)](https://github.com/idleberg/vscode-emoji-code/releases)
-[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.emoji-code.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=idleberg.emoji-code)
-[![CI](https://img.shields.io/github/actions/workflow/status/idleberg/vscode-emoji-code/default.yml?style=flat-square)](https://github.com/idleberg/vscode-emoji-code/actions)
-[![David](https://flat.badgen.net/david/dep/idleberg/vscode-emoji-code)](https://david-dm.org/idleberg/vscode-emoji-code)
+[![License](https://img.shields.io/github/license/idleberg/vscode-emoji-code?style=for-the-badge)](LICENSE)
+[![Version](https://img.shields.io/github/v/release/idleberg/vscode-emoji-code?style=for-the-badge)](https://github.com/idleberg/vscode-emoji-code/releases)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/idleberg.applescript?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=idleberg.applescript)
+[![Build](https://img.shields.io/github/actions/workflow/status/idleberg/vscode-emoji-code/default.yml?style=for-the-badge)](https://github.com/idleberg/vscode-emoji-code/actions)
 
 Snippets to insert escaped Emoji code into a variety of languages, including:
 
