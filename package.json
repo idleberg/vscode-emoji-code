@@ -10,14 +10,16 @@
         "url": "http://github.com/idleberg"
     },
     "scripts": {
-        "build": "node ./src/build.js",
+        "build": "npm-run-all --parallel build:*",
+        "build:emoji": "node ./src/build.js",
+        "build:svg": "gulp",
         "lint:json": "eslint --ext .json --ignore-path .gitignore",
         "lint:yaml": "eslint --ext .yaml --ext .yml --ignore-path .gitignore",
         "lint": "npm-run-all --parallel lint:*",
         "postinstall": "npm run build",
         "prepare": "husky install",
         "test": "npm run lint",
-        "vscode:prepublish": "gulp"
+        "vscode:prepublish": "build:svg"
     },
     "keywords": [
         "unicode",
@@ -33,7 +35,7 @@
     "bugs": {
         "url": "https://github.com/idleberg/vscode-emoji-code/issues"
     },
-    "icon": "images/logo.png",
+    "icon": "resources/logo.png",
     "galleryBanner": {
         "color": "#f76964",
         "theme": "dark"
