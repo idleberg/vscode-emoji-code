@@ -374,6 +374,11 @@
     "prefix": "ji:lying face",
     "description": "🤥"
   },
+  "🫨": {
+    "body": "\\ud83e\\udee8",
+    "prefix": "ji:shaking face",
+    "description": "🫨"
+  },
   "😌": {
     "body": "\\ud83d\\ude0c",
     "prefix": "ji:relieved face",
@@ -759,11 +764,6 @@
     "prefix": "ji:speak-no-evil monkey",
     "description": "🙊"
   },
-  "💋": {
-    "body": "\\ud83d\\udc8b",
-    "prefix": "ji:kiss mark",
-    "description": "💋"
-  },
   "💌": {
     "body": "\\ud83d\\udc8c",
     "prefix": "ji:love letter",
@@ -834,6 +834,11 @@
     "prefix": "ji:red heart",
     "description": "❤️"
   },
+  "🩷": {
+    "body": "\\ud83e\\ude77",
+    "prefix": "ji:pink heart",
+    "description": "🩷"
+  },
   "🧡": {
     "body": "\\ud83e\\udde1",
     "prefix": "ji:orange heart",
@@ -854,6 +859,11 @@
     "prefix": "ji:blue heart",
     "description": "💙"
   },
+  "🩵": {
+    "body": "\\ud83e\\ude75",
+    "prefix": "ji:light blue heart",
+    "description": "🩵"
+  },
   "💜": {
     "body": "\\ud83d\\udc9c",
     "prefix": "ji:purple heart",
@@ -869,10 +879,20 @@
     "prefix": "ji:black heart",
     "description": "🖤"
   },
+  "🩶": {
+    "body": "\\ud83e\\ude76",
+    "prefix": "ji:grey heart",
+    "description": "🩶"
+  },
   "🤍": {
     "body": "\\ud83e\\udd0d",
     "prefix": "ji:white heart",
     "description": "🤍"
+  },
+  "💋": {
+    "body": "\\ud83d\\udc8b",
+    "prefix": "ji:kiss mark",
+    "description": "💋"
   },
   "💯": {
     "body": "\\ud83d\\udcaf",
@@ -908,11 +928,6 @@
     "body": "\\ud83d\\udd73",
     "prefix": "ji:hole",
     "description": "🕳️"
-  },
-  "💣️": {
-    "body": "\\ud83d\\udca3",
-    "prefix": "ji:bomb",
-    "description": "💣️"
   },
   "💬": {
     "body": "\\ud83d\\udcac",
@@ -988,6 +1003,16 @@
     "body": "\\ud83e\\udef4",
     "prefix": "ji:palm up hand",
     "description": "🫴"
+  },
+  "🫷": {
+    "body": "\\ud83e\\udef7",
+    "prefix": "ji:leftwards pushing hand",
+    "description": "🫷"
+  },
+  "🫸": {
+    "body": "\\ud83e\\udef8",
+    "prefix": "ji:rightwards pushing hand",
+    "description": "🫸"
   },
   "👌": {
     "body": "\\ud83d\\udc4c",
@@ -2894,6 +2919,16 @@
     "prefix": "ji:horse face",
     "description": "🐴"
   },
+  "🫎": {
+    "body": "\\ud83e\\udece",
+    "prefix": "ji:moose",
+    "description": "🫎"
+  },
+  "🫏": {
+    "body": "\\ud83e\\udecf",
+    "prefix": "ji:donkey",
+    "description": "🫏"
+  },
   "🐎": {
     "body": "\\ud83d\\udc0e",
     "prefix": "ji:horse",
@@ -3204,6 +3239,21 @@
     "prefix": "ji:parrot",
     "description": "🦜"
   },
+  "🪽": {
+    "body": "\\ud83e\\udebd",
+    "prefix": "ji:wing",
+    "description": "🪽"
+  },
+  "🐦‍⬛": {
+    "body": "\\ud83d\\udc26\\ud7c8\\udc0d\\ud7ca\\udf1b",
+    "prefix": "ji:black bird",
+    "description": "🐦‍⬛"
+  },
+  "🪿": {
+    "body": "\\ud83e\\udebf",
+    "prefix": "ji:goose",
+    "description": "🪿"
+  },
   "🐸": {
     "body": "\\ud83d\\udc38",
     "prefix": "ji:frog",
@@ -3303,6 +3353,11 @@
     "body": "\\ud83e\\udeb8",
     "prefix": "ji:coral",
     "description": "🪸"
+  },
+  "🪼": {
+    "body": "\\ud83e\\udebc",
+    "prefix": "ji:jellyfish",
+    "description": "🪼"
   },
   "🐌": {
     "body": "\\ud83d\\udc0c",
@@ -3439,6 +3494,11 @@
     "prefix": "ji:tulip",
     "description": "🌷"
   },
+  "🪻": {
+    "body": "\\ud83e\\udebb",
+    "prefix": "ji:hyacinth",
+    "description": "🪻"
+  },
   "🌱": {
     "body": "\\ud83c\\udf31",
     "prefix": "ji:seedling",
@@ -3513,6 +3573,11 @@
     "body": "\\ud83e\\udeba",
     "prefix": "ji:nest with eggs",
     "description": "🪺"
+  },
+  "🍄": {
+    "body": "\\ud83c\\udf44",
+    "prefix": "ji:mushroom",
+    "description": "🍄"
   },
   "🍇": {
     "body": "\\ud83c\\udf47",
@@ -3669,11 +3734,6 @@
     "prefix": "ji:onion",
     "description": "🧅"
   },
-  "🍄": {
-    "body": "\\ud83c\\udf44",
-    "prefix": "ji:mushroom",
-    "description": "🍄"
-  },
   "🥜": {
     "body": "\\ud83e\\udd5c",
     "prefix": "ji:peanuts",
@@ -3688,6 +3748,16 @@
     "body": "\\ud83c\\udf30",
     "prefix": "ji:chestnut",
     "description": "🌰"
+  },
+  "🫚": {
+    "body": "\\ud83e\\udeda",
+    "prefix": "ji:ginger root",
+    "description": "🫚"
+  },
+  "🫛": {
+    "body": "\\ud83e\\udedb",
+    "prefix": "ji:pea pod",
+    "description": "🫛"
   },
   "🍞": {
     "body": "\\ud83c\\udf5e",
@@ -5549,6 +5619,11 @@
     "prefix": "ji:kite",
     "description": "🪁"
   },
+  "🔫": {
+    "body": "\\ud83d\\udd2b",
+    "prefix": "ji:water pistol",
+    "description": "🔫"
+  },
   "🎱": {
     "body": "\\ud83c\\udfb1",
     "prefix": "ji:pool 8 ball",
@@ -5563,16 +5638,6 @@
     "body": "\\ud83e\\ude84",
     "prefix": "ji:magic wand",
     "description": "🪄"
-  },
-  "🧿": {
-    "body": "\\ud83e\\uddff",
-    "prefix": "ji:nazar amulet",
-    "description": "🧿"
-  },
-  "🪬": {
-    "body": "\\ud83e\\udeac",
-    "prefix": "ji:hamsa",
-    "description": "🪬"
   },
   "🎮️": {
     "body": "\\ud83c\\udfae",
@@ -5794,6 +5859,11 @@
     "prefix": "ji:woman’s clothes",
     "description": "👚"
   },
+  "🪭": {
+    "body": "\\ud83e\\udead",
+    "prefix": "ji:folding hand fan",
+    "description": "🪭"
+  },
   "👛": {
     "body": "\\ud83d\\udc5b",
     "prefix": "ji:purse",
@@ -5863,6 +5933,11 @@
     "body": "\\ud83d\\udc62",
     "prefix": "ji:woman’s boot",
     "description": "👢"
+  },
+  "🪮": {
+    "body": "\\ud83e\\udeae",
+    "prefix": "ji:hair pick",
+    "description": "🪮"
   },
   "👑": {
     "body": "\\ud83d\\udc51",
@@ -6053,6 +6128,16 @@
     "body": "\\ud83e\\ude98",
     "prefix": "ji:long drum",
     "description": "🪘"
+  },
+  "🪇": {
+    "body": "\\ud83e\\ude87",
+    "prefix": "ji:maracas",
+    "description": "🪇"
+  },
+  "🪈": {
+    "body": "\\ud83e\\ude88",
+    "prefix": "ji:flute",
+    "description": "🪈"
   },
   "📱": {
     "body": "\\ud83d\\udcf1",
@@ -6649,10 +6734,10 @@
     "prefix": "ji:crossed swords",
     "description": "⚔️"
   },
-  "🔫": {
-    "body": "\\ud83d\\udd2b",
-    "prefix": "ji:water pistol",
-    "description": "🔫"
+  "💣️": {
+    "body": "\\ud83d\\udca3",
+    "prefix": "ji:bomb",
+    "description": "💣️"
   },
   "🪃": {
     "body": "\\ud83e\\ude83",
@@ -6953,6 +7038,16 @@
     "body": "\\ud7c9\\udeb1",
     "prefix": "ji:funeral urn",
     "description": "⚱️"
+  },
+  "🧿": {
+    "body": "\\ud83e\\uddff",
+    "prefix": "ji:nazar amulet",
+    "description": "🧿"
+  },
+  "🪬": {
+    "body": "\\ud83e\\udeac",
+    "prefix": "ji:hamsa",
+    "description": "🪬"
   },
   "🗿": {
     "body": "\\ud83d\\uddff",
@@ -7264,6 +7359,11 @@
     "prefix": "ji:dotted six-pointed star",
     "description": "🔯"
   },
+  "🪯": {
+    "body": "\\ud83e\\udeaf",
+    "prefix": "ji:khanda",
+    "description": "🪯"
+  },
   "♈️": {
     "body": "\\ud7c9\\ude48",
     "prefix": "ji:Aries",
@@ -7438,6 +7538,11 @@
     "body": "\\ud83d\\udcf6",
     "prefix": "ji:antenna bars",
     "description": "📶"
+  },
+  "🛜": {
+    "body": "\\ud83d\\udedc",
+    "prefix": "ji:wireless",
+    "description": "🛜"
   },
   "📳": {
     "body": "\\ud83d\\udcf3",
