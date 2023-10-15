@@ -1,3 +1,7 @@
+# v0.12.1 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.12.1)
+
+- update dependencies
+
 # v0.12.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.12.0)
 
 - add support for Emoji v13.0

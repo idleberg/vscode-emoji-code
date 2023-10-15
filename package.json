@@ -135,10 +135,10 @@
         ]
     },
     "dependencies": {
-        "emojibase-data": "^15.0.0"
+        "emojibase-data": "^15.2.0"
     },
     "devDependencies": {
-        "eslint": "^8.45.0",
+        "eslint": "^8.51.0",
         "eslint-plugin-json": "^3.1.0",
         "eslint-plugin-yaml": "^0.5.0",
         "gulp": "^4.0.2",
@@ -146,7 +146,7 @@
         "gulp-rename": "^2.0.0",
         "husky": "^8.0.3",
         "lint-staged": "^13.2.3",
-        "npm-run-all2": "^6.0.6"
+        "npm-run-all2": "^6.1.1"
     },
     "lint-staged": {
         "*.(json|yml)": "eslint --cache --fix"
