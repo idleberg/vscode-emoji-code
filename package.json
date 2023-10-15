@@ -19,7 +19,7 @@
         "postinstall": "npm run build",
         "prepare": "husky install",
         "test": "npm run lint",
-        "vscode:prepublish": "build:svg"
+        "vscode:prepublish": "npm run build:svg"
     },
     "keywords": [
         "unicode",
