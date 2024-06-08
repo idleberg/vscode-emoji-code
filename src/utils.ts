@@ -3,7 +3,7 @@ export function isCss(languageId: string): boolean {
 }
 
 export function isHtml(languageId: string): boolean {
-  return ['blade', 'html', 'jade', 'javascriptreact', 'svelte', 'twig', 'typescriptreact', 'vue-html'].includes(languageId);
+  return ['blade', 'html', 'jade', 'javascriptreact', 'markdown', 'rmarkdown', 'rmd', 'svelte', 'twig', 'typescriptreact', 'vue-html'].includes(languageId);
 }
 
 export function isJavascript(languageId: string): boolean {
