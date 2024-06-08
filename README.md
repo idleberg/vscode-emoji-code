@@ -90,7 +90,6 @@ Let's say, you want to insert the 😄  emoji
 * HTML: `grinning face` becomes `&#x1F600;`
 * CSS: `grinning face` becomes `content: '\1F600';`
 * JavaScript: `grinning face` becomes `\u{1F600}`
-* Markdown: `grinning face` inserts the emoji itself
 * Python: `grinning face` becomes `\U0001F600`
 * Ruby: `grinning face` becomes `\u{1F600}`
 
