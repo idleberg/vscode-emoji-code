@@ -37,6 +37,9 @@
         "url": "https://github.com/idleberg/vscode-emoji-code/issues"
     },
     "main": "./lib/extension",
+    "activationEvents": [
+      "onStartupFinished"
+    ],
     "icon": "resources/logo.png",
     "galleryBanner": {
         "color": "#f76964",
