@@ -1,3 +1,10 @@
+# v0.13.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.13.0)
+
+- add command palette
+- remove snippets
+- update tooling
+- update dependencies
+
 # v0.12.2 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.12.2)
 
 - update dependencies
@@ -25,6 +32,7 @@
 - update `emojibase-data` to 7.0.0
 - add support for RMarkdown
 - update husky to 7.0.0
+
 # v0.10.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.10.0)
 
 - Breaking Change: update `emojibase-data` to 6.0.0, changing emoji names
