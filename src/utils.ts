@@ -1,25 +1,36 @@
+const languages = {
+  css: ['css', 'less', 'scss'],
+  html: ['blade', 'html', 'jade', 'javascriptreact', 'juliamarkdown', 'markdown', 'rmarkdown', 'rmd', 'svelte', 'twig', 'typescriptreact', 'vue-html'],
+  javascript: ['coffeescript', 'javascript', 'json', 'livescript', 'typescript'],
+  python: ['python'],
+  ruby: ['ruby'],
+  csharp: ['csharp'],
+};
+
+export const allLanguages = Object.values(languages).flat().sort();
+
 export function isCss(languageId: string): boolean {
-  return ['css', 'less', 'scss'].includes(languageId);
+  return languages.css.includes(languageId);
 }
 
 export function isHtml(languageId: string): boolean {
-  return ['blade', 'html', 'jade', 'javascriptreact', 'juliamarkdown', 'markdown', 'rmarkdown', 'rmd', 'svelte', 'twig', 'typescriptreact', 'vue-html'].includes(languageId);
+  return languages.html.includes(languageId);
 }
 
 export function isJavascript(languageId: string): boolean {
-  return ['coffeescript', 'javascript', 'json', 'livescript', 'typescript'].includes(languageId);
+  return languages.javascript.includes(languageId);
 }
 
 export function isPython(languageId: string): boolean {
-  return languageId === 'python';
+  return languages.python.includes(languageId);
 }
 
 export function isRuby(languageId: string): boolean {
-  return languageId === 'ruby';
+  return languages.ruby.includes(languageId);
 }
 
 export function isCsharp(languageId: string): boolean {
-  return languageId === 'csharp';
+  return languages.csharp.includes(languageId);
 }
 
 export function getEnclosure(languageId: string): [string, string] {

@@ -17,14 +17,7 @@ export function listEmojis() {
   });
 }
 
-export function getEmojiCode(emoji: string): string | Error {
-  const textEditor = window.activeTextEditor;
-
-  if (!textEditor) {
-    return new Error('No active text editor.')
-  }
-
-  const languageId = textEditor.document.languageId;
+export async function getEmojiCode(emoji: string, languageId: string): Promise<string | Error> {
   const result = emojiAll.find(emojiItem => emojiItem.emoji === emoji);
 
   if (!result) {

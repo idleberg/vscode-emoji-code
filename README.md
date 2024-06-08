@@ -93,6 +93,8 @@ Let's say, you want to insert the 😄  emoji
 * Python: `grinning face` becomes `\U0001F600`
 * Ruby: `grinning face` becomes `\u{1F600}`
 
+For unsupported languages, the emoji will be inserted as-is.
+
 ## Related
 
 - [Atom](https://github.com/idleberg/atom-emoji-code)
