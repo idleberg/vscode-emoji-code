@@ -1,5 +1,5 @@
 const languages = {
-  css: ['css', 'less', 'scss'],
+  css: ['css', 'less', 'scss', 'stylus'],
   html: ['blade', 'html', 'jade', 'javascriptreact', 'juliamarkdown', 'markdown', 'rmarkdown', 'rmd', 'svelte', 'twig', 'typescriptreact', 'vue-html'],
   javascript: ['coffeescript', 'javascript', 'json', 'livescript', 'typescript'],
   python: ['python'],
@@ -42,7 +42,6 @@ export function getEnclosure(languageId: string): [string, string] {
       return ['\\\\u{', '}'];
 
     case isCss(languageId):
-    case languageId === 'stylus':
       return ['\\\\', '']
 
     case isPython(languageId):
