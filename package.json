@@ -2,7 +2,7 @@
     "name": "emoji-code",
     "displayName": "Emoji Code",
     "description": "Insert escaped Emoji code into a variety of languages",
-    "version": "0.12.3",
+    "version": "0.13.0",
     "publisher": "idleberg",
     "license": "MIT",
     "author": {
@@ -38,7 +38,7 @@
     },
     "main": "./lib/extension",
     "activationEvents": [
-      "onStartupFinished"
+        "onStartupFinished"
     ],
     "icon": "resources/logo.png",
     "galleryBanner": {
