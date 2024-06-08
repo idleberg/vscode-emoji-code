@@ -5,7 +5,7 @@
 [![Open VSX Downloads](https://img.shields.io/open-vsx/dt/idleberg/emoji-code?style=for-the-badge&label=Open%20VSX)](https://open-vsx.org/extension/idleberg/emoji-code)
 [![Build](https://img.shields.io/github/actions/workflow/status/idleberg/vscode-emoji-code/default.yml?style=for-the-badge)](https://github.com/idleberg/vscode-emoji-code/actions)
 
-Snippets to insert escaped Emoji code into a variety of languages, including:
+Isnsert escaped Emoji code into a variety of languages, including:
 
 - C#
 - CSS
@@ -14,22 +14,17 @@ Snippets to insert escaped Emoji code into a variety of languages, including:
 - JSON
 - JavaScript
 - Laravel Blade
+- Less
 - LiveScript
 - Markdown
 - Python
 - React
-- RMarkdown
 - Ruby
+- SCSS
 - Svelte
 - Twig
 - TypeScript
 - Vue
-
-This package is also available for [Atom](https://github.com/idleberg/atom-emoji-code) and [Sublime Text](https://github.com/idleberg/sublime-emoji-code).
-
-![Screenshot](https://raw.github.com/idleberg/vscode-emoji-code/main/resources/screenshot.gif)
-
-*Screenshot nicked from the Atom package, but you get the idea*
 
 ## Installation
 
@@ -86,22 +81,23 @@ yarn || npm install
 
 ### Usage
 
-All emojis are prefixed with `ji`, following the string of the official [Unicode terminology](http://unicode.org/Public/emoji/3.0/emoji-sequences.txt).
+As of version v0.13, the `Emoji Code: Open Palette` command is exposed. This allows you picking an emoji by its name or tags.
 
 **Examples:**
 
 Let's say, you want to insert the 😄  emoji
 
-* HTML: `ji:grinning-face` becomes `&#x1F600;`
-* CSS: `ji:grinning-face` becomes `content: '\1F600';`
-* JavaScript: `ji:grinning-face` becomes `\u{1F600}`
-* Markdown: `ji:grinning-face` inserts the emoji itself¹
-* Python: `ji:grinning-face` becomes `\U0001F600`
-* Ruby: `ji:grinning-face` becomes `\u{1F600}`
+* HTML: `grinning face` becomes `&#x1F600;`
+* CSS: `grinning face` becomes `content: '\1F600';`
+* JavaScript: `grinning face` becomes `\u{1F600}`
+* Markdown: `grinning face` inserts the emoji itself
+* Python: `grinning face` becomes `\U0001F600`
+* Ruby: `grinning face` becomes `\u{1F600}`
 
-¹ requires `editor.quickSuggestions` set to true for Markdown files
+## Related
 
-Keep in mind that Visual Studio Code supports fuzzy completion, inviting you to use abbreviations of your preference.
+- [Atom](https://github.com/idleberg/atom-emoji-code)
+- [Sublime Text](https://github.com/idleberg/sublime-emoji-code)
 
 ## License
 
