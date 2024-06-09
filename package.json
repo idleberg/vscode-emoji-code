@@ -51,12 +51,19 @@
     "categories": [
         "Snippets"
     ],
-    "contributes": {
-        "commands": [
+    "contributes": { "commands": [
             {
                 "command": "extension.emoji-code.open-palette",
                 "title": "Emoji Code: Open Palette"
             }
+        ],
+        "keybindings": [
+          {
+            "key": "alt+shift+j",
+            "mac": "ctrl+shift+j",
+            "command": "extension.emoji-code.open-palette",
+            "when": "editorTextFocus && !editorReadonly"
+          }
         ]
     },
     "dependencies": {
