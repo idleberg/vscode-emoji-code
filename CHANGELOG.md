@@ -1,10 +1,14 @@
+# v0.x.x [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.x.x)
+
+- add keybinding for emoji palette
+
 # v0.13.1 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.13.1)
 
 - add fallback for unsupported languages
 
 # v0.13.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.13.0)
 
-- add command palette
+- add emoji palette
 - remove snippets
 - update tooling
 - update dependencies
