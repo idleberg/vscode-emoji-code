@@ -51,19 +51,20 @@
     "categories": [
         "Snippets"
     ],
-    "contributes": { "commands": [
+    "contributes": {
+        "commands": [
             {
                 "command": "extension.emoji-code.open-palette",
                 "title": "Emoji Code: Open Palette"
             }
         ],
         "keybindings": [
-          {
-            "key": "alt+shift+j",
-            "mac": "ctrl+shift+j",
-            "command": "extension.emoji-code.open-palette",
-            "when": "editorTextFocus && !editorReadonly"
-          }
+            {
+                "key": "alt+shift+j",
+                "mac": "ctrl+shift+j",
+                "command": "extension.emoji-code.open-palette",
+                "when": "editorTextFocus && !editorReadonly"
+            }
         ]
     },
     "dependencies": {
@@ -78,7 +79,7 @@
         "@types/vscode": "^1.80.0",
         "@typescript-eslint/eslint-plugin": "^7.12.0",
         "@typescript-eslint/parser": "^7.12.0",
-        "eslint": "9.4.0",
+        "eslint": "9.6.0",
         "eslint-plugin-jsonc": "^2.16.0",
         "gulp": "^5.0.0",
         "gulp-raster": "^0.2.0",
@@ -94,5 +95,5 @@
     "lint-staged": {
         "*.(json|ts)": "eslint --cache --fix"
     },
-    "packageManager": "pnpm@9.2.0+sha512.98a80fd11c2e7096747762304106432b3ddc67dcf54b5a8c01c93f68a2cd5e05e6821849522a06fb76284d41a2660d5e334f2ee3bbf29183bf2e739b1dafa771"
+    "packageManager": "pnpm@9.4.0+sha512.f549b8a52c9d2b8536762f99c0722205efc5af913e77835dbccc3b0b0b2ca9e7dc8022b78062c17291c48e88749c70ce88eb5a74f1fa8c4bf5e18bb46c8bd83a"
 }
