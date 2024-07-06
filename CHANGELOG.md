@@ -1,6 +1,8 @@
-# v0.x.x [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.x.x)
+# v0.14.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.14.0)
 
 - add keybinding for emoji palette
+- fix tsup config
+- update dependencies
 
 # v0.13.1 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.13.1)
 
