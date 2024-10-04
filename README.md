@@ -5,7 +5,7 @@
 [![Open VSX Downloads](https://img.shields.io/open-vsx/dt/idleberg/emoji-code?style=for-the-badge&label=Open%20VSX)](https://open-vsx.org/extension/idleberg/emoji-code)
 [![Build](https://img.shields.io/github/actions/workflow/status/idleberg/vscode-emoji-code/default.yml?style=for-the-badge)](https://github.com/idleberg/vscode-emoji-code/actions)
 
-Isnsert escaped Emoji code into a variety of languages, including:
+Insert escaped Emoji code into a variety of languages, including:
 
 - C#
 - CSS
