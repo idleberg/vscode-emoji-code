@@ -60,6 +60,18 @@
                 "title": "Emoji Code: Open Palette"
             }
         ],
+        "configuration": {
+          "type": "object",
+          "title": "emoji-code",
+          "properties": {
+            "pynsist.legacyMode": {
+              "type": "boolean",
+              "default": "false",
+              "markdownDescription": "%jiLegacyMode%",
+              "order": 1
+            }
+          }
+        },
         "keybindings": [
             {
                 "key": "alt+shift+j",
