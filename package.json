@@ -61,16 +61,16 @@
             }
         ],
         "configuration": {
-          "type": "object",
-          "title": "emoji-code",
-          "properties": {
-            "pynsist.legacyMode": {
-              "type": "boolean",
-              "default": "false",
-              "markdownDescription": "%jiLegacyMode%",
-              "order": 1
+            "type": "object",
+            "title": "emoji-code",
+            "properties": {
+                "emoji-code.legacyMode": {
+                    "type": "boolean",
+                    "default": false,
+                    "markdownDescription": "%legacyMode%",
+                    "order": 1
+                }
             }
-          }
         },
         "keybindings": [
             {
@@ -85,6 +85,7 @@
         "emojibase-data": "^15.3.1",
         "memoize": "^10.0.0",
         "nano-memoize": "^3.0.16",
+        "vscode-get-config": "^0.4.0",
         "vscode-insert-text": "^1.1.0"
     },
     "devDependencies": {

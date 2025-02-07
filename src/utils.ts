@@ -1,11 +1,4 @@
-const languages = {
-  css: ['css', 'less', 'scss', 'stylus'],
-  html: ['blade', 'html', 'jade', 'javascriptreact', 'juliamarkdown', 'markdown', 'rmarkdown', 'rmd', 'svelte', 'twig', 'typescriptreact', 'vue-html'],
-  javascript: ['coffeescript', 'javascript', 'json', 'livescript', 'typescript'],
-  python: ['python'],
-  ruby: ['ruby'],
-  csharp: ['csharp'],
-};
+import languages from "./languages";
 
 export const allLanguages = Object.values(languages).flat().sort();
 

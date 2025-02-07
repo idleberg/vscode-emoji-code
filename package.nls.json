@@ -1,3 +1,3 @@
 {
-  "jiLegacyMode": "Setting this to `true` will place emojis as-is into Markdown documents. It seems like a popular feature."
+  "legacyMode": "Setting this to `true` will place emojis as-is into Markdown documents. It seems to be a popular feature &#x1F618;"
 }

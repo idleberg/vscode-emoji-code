@@ -1,3 +1,7 @@
+# v0.15.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.14.1)
+
+- add legacy mode option
+
 # v0.14.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.14.0)
 
 - add keybinding for emoji palette

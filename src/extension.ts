@@ -5,7 +5,7 @@ import memoize from 'nano-memoize';
 import { allLanguages } from './utils';
 
 const memoListEmojis = memoize(listEmojis);
-const memoEmojiCode = memoize(getEmojiCode);
+const memoEmojiCode = getEmojiCode;
 
 export function activate(context: ExtensionContext): void {
   context.subscriptions.push(
