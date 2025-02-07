@@ -1,3 +1,8 @@
+# v0.15.1 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.15.1)
+
+- remove stray dependency
+- fix CI pipeline
+
 # v0.15.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.15.0)
 
 - add legacy mode option
