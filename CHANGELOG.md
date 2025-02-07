@@ -1,6 +1,7 @@
 # v0.15.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.15.0)
 
 - add legacy mode option
+- update `emojibase-data` to v16
 - update dependencies
 
 # v0.14.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.14.0)
