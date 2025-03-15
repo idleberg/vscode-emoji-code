@@ -7,7 +7,7 @@ export default defineConfig({
 	external: ['vscode'],
 	format: 'cjs',
 	minify: true,
-  noExternal: ['emojibase-data', 'memoize', 'nano-memoize', 'vscode-insert-text'],
+  noExternal: ['emojibase-data', 'memoize', 'nano-memoize', 'vscode-get-config', 'vscode-insert-text'],
 	target: 'es2020',
 	outDir: 'lib',
 	treeshake: true,

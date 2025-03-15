@@ -1,3 +1,7 @@
+# v0.15.2 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.15.2)
+
+- fix: add missing dependency to build config
+
 # v0.15.1 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.15.1)
 
 - remove stray dependency
