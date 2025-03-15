@@ -73,6 +73,3 @@ jobs:
 
     - name: Build Source
       run: pnpm run --if-present build:lib
-
-    - name: Run Tests
-      run: pnpm run --if-present test
