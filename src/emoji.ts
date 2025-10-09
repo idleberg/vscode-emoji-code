@@ -28,7 +28,7 @@ export async function getEmojiCode(emoji: string, languageId: string): Promise<s
     return new Error(`Emoji not found: ${emoji}`);
   }
 
-  const legacyMode = await getConfig('emoji-code.legacyMode');
+  const { legacyMode } = await getConfig('emoji-code');
 
   if (legacyMode === true && markdown.includes(languageId)) {
     return result.emoji;
