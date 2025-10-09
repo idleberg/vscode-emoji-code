@@ -82,26 +82,26 @@
         ]
     },
     "dependencies": {
-        "emojibase-data": "^16.0.2",
+        "emojibase-data": "^16.0.3",
         "nano-memoize": "^3.0.16",
-        "vscode-get-config": "^0.4.0",
+        "vscode-get-config": "^0.5.0",
         "vscode-insert-text": "^1.1.0"
     },
     "devDependencies": {
-        "@eslint/js": "^9.19.0",
-        "@types/node": "^20.17.17",
+        "@eslint/js": "^9.37.0",
+        "@types/node": "^24.7.0",
         "@types/vscode": "1.80.0",
-        "concurrently": "^9.1.2",
-        "eslint": "9.12.0",
-        "eslint-plugin-jsonc": "^2.19.1",
+        "concurrently": "^9.2.1",
+        "eslint": "9.37.0",
+        "eslint-plugin-jsonc": "^2.21.0",
         "husky": "^9.1.7",
-        "lint-staged": "^15.4.3",
-        "npm-run-all2": "^6.2.6",
-        "prettier": "^3.4.2",
-        "sharp-cli": "^5.1.0",
-        "tsup": "^8.3.6",
-        "typescript": "^5.7.3",
-        "typescript-eslint": "^8.23.0"
+        "lint-staged": "^16.2.3",
+        "npm-run-all2": "^8.0.4",
+        "prettier": "^3.6.2",
+        "sharp-cli": "^5.2.0",
+        "tsup": "^8.5.0",
+        "typescript": "^5.9.3",
+        "typescript-eslint": "^8.46.0"
     },
     "lint-staged": {
         "*.(json|ts)": "eslint --cache --fix"
