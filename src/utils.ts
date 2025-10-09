@@ -1,4 +1,4 @@
-import languages from "./languages";
+import languages from './languages';
 
 export const allLanguages = Object.values(languages).flat().sort();
 
@@ -35,7 +35,7 @@ export function getEnclosure(languageId: string): [string, string] {
       return ['\\\\u{', '}'];
 
     case isCss(languageId):
-      return ['\\\\', '']
+      return ['\\\\', ''];
 
     case isPython(languageId):
       return ['\\\\U', ''];
@@ -61,9 +61,9 @@ export function findSurrogatePair(point: number): string[] {
 
 export function getUnicodeEntity(languageId: string, unicode: string): string {
   if (languageId === 'python') {
-    return String('0000000' + unicode).slice(-8);
+    return String(`0000000${unicode}`).slice(-8);
   } else if (languageId === 'csharp') {
-    return findSurrogatePair(parseInt(unicode, 16)).join('\\u');
+    return findSurrogatePair(Number.parseInt(unicode, 16)).join('\\u');
   }
 
   const [prefix, suffix] = getEnclosure(languageId);

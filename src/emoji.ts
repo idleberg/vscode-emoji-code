@@ -1,28 +1,28 @@
-import emojiAll from 'emojibase-data/en/data.json' assert { type: 'json' };;
-import { getUnicodeEntity } from './utils';
-import { getConfig } from 'vscode-get-config';
+import emojiAll from 'emojibase-data/en/data.json' with { type: 'json' };
+
 import { window } from 'vscode';
-import languages from "./languages";
+import { getConfig } from 'vscode-get-config';
+import languages from './languages';
+import { getUnicodeEntity } from './utils';
 
 const markdown = languages.markdown;
 
 export function listEmojis() {
   if (!window.activeTextEditor) {
-    return new Error('No active text editor.')
+    return new Error('No active text editor.');
   }
 
   return emojiAll.map(({ emoji, label, tags }) => {
-
-   return {
-     description: label,
-     detail: tags?.length ? `Tags: ${tags.join(', ')}` : undefined,
-     label: emoji,
+    return {
+      description: label,
+      detail: tags?.length ? `Tags: ${tags.join(', ')}` : undefined,
+      label: emoji,
     };
   });
 }
 
 export async function getEmojiCode(emoji: string, languageId: string): Promise<string | Error> {
-  const result = emojiAll.find(emojiItem => emojiItem.emoji === emoji);
+  const result = emojiAll.find((emojiItem) => emojiItem.emoji === emoji);
 
   if (!result) {
     return new Error(`Emoji not found: ${emoji}`);

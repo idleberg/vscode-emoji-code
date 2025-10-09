@@ -1,7 +1,7 @@
-import { commands, type ExtensionContext, window} from 'vscode';
-import { getEmojiCode, listEmojis } from './emoji';
-import { insertText } from 'vscode-insert-text';
 import memoize from 'nano-memoize';
+import { commands, type ExtensionContext, window } from 'vscode';
+import { insertText } from 'vscode-insert-text';
+import { getEmojiCode, listEmojis } from './emoji';
 import { allLanguages } from './utils';
 
 const memoListEmojis = memoize(listEmojis);
@@ -13,7 +13,7 @@ export function activate(context: ExtensionContext): void {
       const textEditor = window.activeTextEditor;
 
       if (!textEditor) {
-        return new Error('No active text editor.')
+        return new Error('No active text editor.');
       }
 
       const languageId: string | undefined = textEditor.document.languageId;
@@ -31,7 +31,7 @@ export function activate(context: ExtensionContext): void {
       });
 
       if (!pick?.label) {
-        window.showErrorMessage('No emoji selected.')
+        window.showErrorMessage('No emoji selected.');
         return;
       }
 

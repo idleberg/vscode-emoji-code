@@ -1,110 +1,100 @@
 {
-    "name": "emoji-code",
-    "displayName": "Emoji Code",
-    "description": "Insert escaped Emoji code into a variety of languages",
-    "version": "0.15.2",
-    "publisher": "idleberg",
-    "license": "MIT",
-    "author": {
-        "name": "Jan T. Sott",
-        "url": "http://github.com/idleberg"
-    },
-    "scripts": {
-        "compile": "npm run build",
-        "build": "concurrently --prefix-colors 'blue,green' 'npm:build:*'",
-        "build:code": "tsup",
-        "build:image": "sharp resize 1024 1024 --input src/logo.svg --output resources/logo.png",
-        "dev": "tsup --watch",
-        "fix": "eslint --fix ./src",
-        "lint:ts": "eslint ./src",
-        "lint": "npm-run-all --parallel lint:*",
-        "prepare": "husky",
-        "publish:ovsx": "ovsx publish --no-dependencies",
-        "publish:vsce": "vsce publish --githubBranch main --no-dependencies",
-        "test": "npm run lint",
-        "vscode:prepublish": "npm run build"
-    },
-    "keywords": [
-        "unicode",
-        "emoji",
-        "smileys",
-        "emoticons"
+  "name": "emoji-code",
+  "displayName": "Emoji Code",
+  "description": "Insert escaped Emoji code into a variety of languages",
+  "version": "0.15.2",
+  "publisher": "idleberg",
+  "license": "MIT",
+  "author": {
+    "name": "Jan T. Sott",
+    "url": "http://github.com/idleberg"
+  },
+  "scripts": {
+    "compile": "npm run build",
+    "build": "concurrently --prefix-colors 'blue,green' 'npm:build:*'",
+    "build:code": "tsdown",
+    "build:image": "sharp resize 1024 1024 --input src/logo.svg --output resources/logo.png",
+    "dev": "tsdown --watch",
+    "fix": "biome check --write .",
+    "lint:ts": "biome check",
+    "lint": "concurrently --prefix-colors 'blue,green' 'npm:lint:*'",
+    "prepare": "lefthook install",
+    "publish:ovsx": "ovsx publish --no-dependencies",
+    "publish:vsce": "vsce publish --githubBranch main --no-dependencies",
+    "test": "npm run lint",
+    "vscode:prepublish": "npm run build"
+  },
+  "keywords": [
+    "unicode",
+    "emoji",
+    "smileys",
+    "emoticons"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idleberg/vscode-emoji-code"
+  },
+  "homepage": "https://github.com/idleberg/vscode-emoji-code#readme",
+  "bugs": {
+    "url": "https://github.com/idleberg/vscode-emoji-code/issues"
+  },
+  "main": "./lib/extension.js",
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "icon": "resources/logo.png",
+  "galleryBanner": {
+    "color": "#f76964",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "commands": [
+      {
+        "command": "extension.emoji-code.open-palette",
+        "title": "Emoji Code: Open Palette"
+      }
     ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/idleberg/vscode-emoji-code"
+    "configuration": {
+      "type": "object",
+      "title": "emoji-code",
+      "properties": {
+        "emoji-code.legacyMode": {
+          "type": "boolean",
+          "default": false,
+          "markdownDescription": "%legacyMode%",
+          "order": 1
+        }
+      }
     },
-    "homepage": "https://github.com/idleberg/vscode-emoji-code#readme",
-    "bugs": {
-        "url": "https://github.com/idleberg/vscode-emoji-code/issues"
-    },
-    "main": "./lib/extension.js",
-    "activationEvents": [
-        "onStartupFinished"
-    ],
-    "icon": "resources/logo.png",
-    "galleryBanner": {
-        "color": "#f76964",
-        "theme": "dark"
-    },
-    "engines": {
-        "vscode": "^1.80.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "commands": [
-            {
-                "command": "extension.emoji-code.open-palette",
-                "title": "Emoji Code: Open Palette"
-            }
-        ],
-        "configuration": {
-            "type": "object",
-            "title": "emoji-code",
-            "properties": {
-                "emoji-code.legacyMode": {
-                    "type": "boolean",
-                    "default": false,
-                    "markdownDescription": "%legacyMode%",
-                    "order": 1
-                }
-            }
-        },
-        "keybindings": [
-            {
-                "key": "alt+shift+j",
-                "mac": "ctrl+shift+j",
-                "command": "extension.emoji-code.open-palette",
-                "when": "editorTextFocus && !editorReadonly"
-            }
-        ]
-    },
-    "dependencies": {
-        "emojibase-data": "^16.0.3",
-        "nano-memoize": "^3.0.16",
-        "vscode-get-config": "^0.5.0",
-        "vscode-insert-text": "^1.1.0"
-    },
-    "devDependencies": {
-        "@eslint/js": "^9.37.0",
-        "@types/node": "^24.7.0",
-        "@types/vscode": "1.80.0",
-        "concurrently": "^9.2.1",
-        "eslint": "9.37.0",
-        "eslint-plugin-jsonc": "^2.21.0",
-        "husky": "^9.1.7",
-        "lint-staged": "^16.2.3",
-        "npm-run-all2": "^8.0.4",
-        "prettier": "^3.6.2",
-        "sharp-cli": "^5.2.0",
-        "tsup": "^8.5.0",
-        "typescript": "^5.9.3",
-        "typescript-eslint": "^8.46.0"
-    },
-    "lint-staged": {
-        "*.(json|ts)": "eslint --cache --fix"
-    },
-    "packageManager": "pnpm@10.18.1+sha512.77a884a165cbba2d8d1c19e3b4880eee6d2fcabd0d879121e282196b80042351d5eb3ca0935fa599da1dc51265cc68816ad2bddd2a2de5ea9fdf92adbec7cd34"
+    "keybindings": [
+      {
+        "key": "alt+shift+j",
+        "mac": "ctrl+shift+j",
+        "command": "extension.emoji-code.open-palette",
+        "when": "editorTextFocus && !editorReadonly"
+      }
+    ]
+  },
+  "dependencies": {
+    "emojibase-data": "^16.0.3",
+    "nano-memoize": "^3.0.16",
+    "vscode-get-config": "^0.5.0",
+    "vscode-insert-text": "^1.1.0"
+  },
+  "devDependencies": {
+    "@idleberg/configs": "^0.3.1",
+    "@types/node": "^24.7.0",
+    "@types/vscode": "1.80.0",
+    "concurrently": "^9.2.1",
+    "sharp-cli": "^5.2.0",
+    "tsdown": "^0.15.6",
+    "typescript": "^5.9.3"
+  },
+  "packageManager": "pnpm@10.18.1+sha512.77a884a165cbba2d8d1c19e3b4880eee6d2fcabd0d879121e282196b80042351d5eb3ca0935fa599da1dc51265cc68816ad2bddd2a2de5ea9fdf92adbec7cd34"
 }
