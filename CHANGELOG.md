@@ -1,3 +1,8 @@
+# v0.15.3 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.15.3)
+
+- fix escaping
+- update dependencies
+
 # v0.15.2 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.15.2)
 
 - fix: add missing dependency to build config
