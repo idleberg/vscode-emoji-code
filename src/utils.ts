@@ -1,3 +1,4 @@
+import { window } from 'vscode';
 import languages from './languages';
 
 export const allLanguages = Object.values(languages).flat().sort();
@@ -27,24 +28,26 @@ export function isCsharp(languageId: string): boolean {
 }
 
 export function getEnclosure(languageId: string): [string, string] {
+
+  window.showErrorMessage(`languageId: ${languageId}`);
   switch (true) {
     case isHtml(languageId):
       return ['&#x', ';'];
 
     case isJavascript(languageId):
-      return ['\\\\u{', '}'];
+      return ['\\u{', '}'];
 
     case isCss(languageId):
-      return ['\\\\', ''];
+      return ['\\', ''];
 
-    case isPython(languageId):
-      return ['\\\\U', ''];
+    // case isPython(languageId):
+    //   return ['\\U', ''];
 
     case isRuby(languageId):
-      return ['\\\\u{', '}'];
+      return ['\\u{', '}'];
 
-    case isCsharp(languageId):
-      return ['\\u', ''];
+    // case isCsharp(languageId):
+    //   return ['\\u', ''];
 
     default:
       return ['', ''];
@@ -61,7 +64,9 @@ export function findSurrogatePair(point: number): string[] {
 
 export function getUnicodeEntity(languageId: string, unicode: string): string {
   if (languageId === 'python') {
-    return String(`0000000${unicode}`).slice(-8);
+    const pyUnicode = String(`0000000${unicode}`).slice(-8);
+
+    return `\\U${pyUnicode}`;
   } else if (languageId === 'csharp') {
     return findSurrogatePair(Number.parseInt(unicode, 16)).join('\\u');
   }
