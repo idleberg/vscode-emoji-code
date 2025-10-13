@@ -84,12 +84,12 @@
   "dependencies": {
     "emojibase-data": "^16.0.3",
     "nano-memoize": "^3.0.16",
-    "vscode-get-config": "^0.5.0",
-    "vscode-insert-text": "^1.1.0"
+    "vscode-get-config": "^0.6.0",
+    "vscode-insert-text": "^1.2.0"
   },
   "devDependencies": {
     "@idleberg/configs": "^0.3.1",
-    "@types/node": "^24.7.0",
+    "@types/node": "^24.7.2",
     "@types/vscode": "1.80.0",
     "concurrently": "^9.2.1",
     "sharp-cli": "^5.2.0",
