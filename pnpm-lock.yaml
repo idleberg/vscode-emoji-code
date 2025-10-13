@@ -15,8 +15,8 @@ importers:
         specifier: ^3.0.16
         version: 3.0.16
       vscode-get-config:
-        specifier: ^0.6.0
-        version: 0.6.0
+        specifier: ^0.5.0
+        version: 0.5.0
       vscode-insert-text:
         specifier: ^1.2.0
         version: 1.2.0
@@ -850,8 +850,8 @@ packages:
   undici-types@7.14.0:
     resolution: {integrity: sha512-QQiYxHuyZ9gQUIrmPo3IA+hUl4KYk8uSA7cHrcKd/l3p1OTpZcM0Tbp9x7FAtXdAYhlasd60ncPpgu6ihG6TOA==}
 
-  vscode-get-config@0.6.0:
-    resolution: {integrity: sha512-LtgEiaB4DYZe317Ut36bf2Knep0cy7sEbQU9mrvS8sWSg+JORSAuMonOzmcW7murK3/zbBHi9HnoJsvU11meDw==}
+  vscode-get-config@0.5.0:
+    resolution: {integrity: sha512-+Rr5aaN8/W9OrRXSs7fD83eLgdjMYEzZ+uzCy+/vvr/L6CCyTbVnvQQm4uNnYTXJLDKblW43DFQgr/A7xSaDhQ==}
     engines: {node: ^18.0.0 || ^20.0.0 || >=22.0.0}
 
   vscode-insert-text@1.2.0:
@@ -1594,7 +1594,7 @@ snapshots:
 
   undici-types@7.14.0: {}
 
-  vscode-get-config@0.6.0:
+  vscode-get-config@0.5.0:
     dependencies:
       dot-prop: 10.1.0
 
