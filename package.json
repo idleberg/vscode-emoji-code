@@ -82,9 +82,10 @@
     ]
   },
   "dependencies": {
+    "dot-prop": "^10.1.0",
     "emojibase-data": "^16.0.3",
     "nano-memoize": "^3.0.16",
-    "vscode-get-config": "^0.5.0",
+    "vscode-get-config": "^0.6.1",
     "vscode-insert-text": "^1.2.0"
   },
   "devDependencies": {
