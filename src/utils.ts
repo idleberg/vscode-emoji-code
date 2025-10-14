@@ -28,7 +28,6 @@ export function isCsharp(languageId: string): boolean {
 }
 
 export function getEnclosure(languageId: string): [string, string] {
-  window.showErrorMessage(`languageId: ${languageId}`);
   switch (true) {
     case isHtml(languageId):
       return ['&#x', ';'];
