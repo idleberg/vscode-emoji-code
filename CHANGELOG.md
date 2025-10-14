@@ -1,3 +1,8 @@
+# v0.15.4 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.15.4)
+
+- remove stray debug message
+- update dependency
+
 # v0.15.3 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.15.3)
 
 - fix escaping
