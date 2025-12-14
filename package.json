@@ -40,7 +40,7 @@
     "url": "https://github.com/idleberg/vscode-emoji-code/issues"
   },
   "type": "commonjs",
-  "main": "./lib/extension.js",
+  "main": "lib/extension.js",
   "activationEvents": [
     "onStartupFinished"
   ],
