@@ -11,6 +11,5 @@ export default defineConfig({
   target: 'es2020',
   outDir: 'lib',
   treeshake: true,
-  cjsInterop: true,
   platform: 'node',
 });
