@@ -1,3 +1,8 @@
+# v0.16.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.16.0)
+
+- update `emojibase-data` to v17
+- update tooling
+
 # v0.15.4 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.15.4)
 
 - remove stray debug message
