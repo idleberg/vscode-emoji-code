@@ -17,6 +17,7 @@
     "dev": "tsup --watch",
     "fix": "biome check --write .",
     "lint:ts": "biome check",
+    "lint:e18e": "e18e-cli analyze",
     "lint": "concurrently --prefix-colors 'blue,green' 'npm:lint:*'",
     "prepare": "lefthook install",
     "publish:ovsx": "ovsx publish --no-dependencies",
@@ -32,12 +33,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/idleberg/vscode-emoji-code"
+    "url": "git+https://github.com/idleberg/vscode-emoji-code.git"
   },
   "homepage": "https://github.com/idleberg/vscode-emoji-code#readme",
   "bugs": {
     "url": "https://github.com/idleberg/vscode-emoji-code/issues"
   },
+  "type": "commonjs",
   "main": "./lib/extension.js",
   "activationEvents": [
     "onStartupFinished"
@@ -89,6 +91,7 @@
     "vscode-insert-text": "^1.2.0"
   },
   "devDependencies": {
+    "@e18e/cli": "^0.3.1",
     "@idleberg/configs": "^0.3.3",
     "@types/node": "^24.7.2",
     "@types/vscode": "1.80.0",
