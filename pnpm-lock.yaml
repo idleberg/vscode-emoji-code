@@ -8,9 +8,6 @@ importers:
 
   .:
     dependencies:
-      dot-prop:
-        specifier: ^10.1.0
-        version: 10.1.0
       emojibase-data:
         specifier: ^17.0.0
         version: 17.0.0(emojibase@16.0.0)
