@@ -1,0 +1,23 @@
+import { defineConfig } from "tsup";
+
+export default defineConfig({
+  bundle: true,
+  clean: true,
+  entry: ["src/extension.ts"],
+  external: ["vscode"],
+  format: "cjs",
+  minify: true,
+  noExternal: [
+    "dot-prop",
+    "emojibase-data",
+    "memoize",
+    "nano-memoize",
+    "vscode-get-config",
+    "vscode-insert-text",
+  ],
+  target: "es2020",
+  outDir: "lib",
+  treeshake: true,
+  cjsInterop: true,
+  platform: "node",
+});
