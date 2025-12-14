@@ -38,7 +38,7 @@
   "bugs": {
     "url": "https://github.com/idleberg/vscode-emoji-code/issues"
   },
-  "main": "./lib/extension.js",
+  "main": "./lib/extension.cjs",
   "activationEvents": [
     "onStartupFinished"
   ],
@@ -83,18 +83,18 @@
   },
   "dependencies": {
     "dot-prop": "^10.1.0",
-    "emojibase-data": "^16.0.3",
+    "emojibase-data": "^17.0.0",
     "nano-memoize": "^3.0.16",
     "vscode-get-config": "^0.6.1",
     "vscode-insert-text": "^1.2.0"
   },
   "devDependencies": {
-    "@idleberg/configs": "^0.3.1",
+    "@idleberg/configs": "^0.3.3",
     "@types/node": "^24.7.2",
     "@types/vscode": "1.80.0",
     "concurrently": "^9.2.1",
     "sharp-cli": "^5.2.0",
-    "tsdown": "^0.15.6",
+    "tsdown": "^0.17.4",
     "typescript": "^5.9.3"
   },
   "packageManager": "pnpm@10.18.1+sha512.77a884a165cbba2d8d1c19e3b4880eee6d2fcabd0d879121e282196b80042351d5eb3ca0935fa599da1dc51265cc68816ad2bddd2a2de5ea9fdf92adbec7cd34"
