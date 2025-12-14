@@ -1,4 +1,3 @@
-import { window } from 'vscode';
 import languages from './languages';
 
 export const allLanguages = Object.values(languages).flat().sort();

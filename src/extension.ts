@@ -13,7 +13,7 @@ export function activate(context: ExtensionContext): void {
       const textEditor = window.activeTextEditor;
 
       if (!textEditor) {
-        return window.showErrorMessage("No active text editor.");
+        return window.showErrorMessage('No active text editor.');
       }
 
       const languageId: string | undefined = textEditor.document.languageId;
