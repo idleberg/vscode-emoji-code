@@ -1,5 +1,32 @@
-**/*
-!lib/
-!resources/
-!package.json
-!LICENSE
+# Development
+*.map
+.claude/
+.editorconfig
+.gitignore
+.github/
+biome.jsonc
+commitlint.config.ts
+lefthook.toml
+package-lock.json
+src/
+tools/
+tsconfig.json
+tsconfig.tsbuildinfo
+tsdown.config.mts
+
+# Package managers
+node_modules/
+npm-debug.log*
+package-lock.json
+vendor/
+yarn-error.log
+yarn.lock
+
+# Visual Studio Code
+**/**.vsix
+.vscode-test/**
+.vscode/**
+
+# Project specific
+resources/logo.svg
+todo.md
