@@ -39,7 +39,7 @@
     "url": "https://github.com/idleberg/vscode-emoji-code/issues"
   },
   "type": "commonjs",
-  "main": "lib/extension.js",
+  "main": "lib/extension.cjs",
   "activationEvents": [
     "onStartupFinished"
   ],
@@ -89,6 +89,8 @@
     "vscode-insert-text": "^1.2.0"
   },
   "devDependencies": {
+    "@commitlint/cli": "^20.4.3",
+    "@commitlint/config-conventional": "^20.4.3",
     "@idleberg/configs": "^0.4.2",
     "@types/node": "^24.7.2",
     "@types/vscode": "1.98.0",
