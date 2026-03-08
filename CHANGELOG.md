@@ -1,3 +1,8 @@
+# v0.17.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.17.0)
+
+- require `vscode>=1.98.0`
+- update dependencies
+
 # v0.16.0 [#](https://github.com/idleberg/vscode-emoji-code/releases/tag/v0.16.0)
 
 - update `emojibase-data` to v17
